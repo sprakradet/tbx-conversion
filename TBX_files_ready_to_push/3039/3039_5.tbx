@@ -1,0 +1,5421 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Terminologicentrum TNC: Energiordlista | 1984</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="polycyklisk_organisk_foerening">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polycyklisk organisk förening</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i ett virvelfritt fält</note>
+            <note>POM är en förkortning av polycyclic organic matter.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>POM</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Domain: i ett virvelfritt fält</note>
+          <descripGrp>
+            <descrip type="definition">organisk kemisk förening i vilken atomerna är anordnade i flera sammanbundna ringar</descrip>
+          </descripGrp>
+          <note>POM är en förkortning av polycyclic organic matter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>polycyclic organic matter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>matière organique polycyclique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>polysyklisk organisk materiale</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="polyaromatiskt_kolvaete">polyaromatiskt kolväte</ref>
+      </termEntry>
+      <termEntry id="potential">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>potential</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">intensitetsstorhet räknad från sitt referenstillstånd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>potential</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Potential</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>potentiel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>potentiale</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>potential</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="potentiell_energi">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>potentiell energi</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på potentiell energi är elektriska laddningars energi i ett elektriskt fält, energin hos en kropp i ett gravitationsfält och energin hos en hoptryckt fjäder</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>lägesenergi</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energi som beror av kroppens läge i ett potentialfält</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på potentiell energi är elektriska laddningars energi i ett elektriskt fält, energin hos en kropp i ett gravitationsfält och energin hos en hoptryckt fjäder</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>potential energy</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>potentielle Energie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>énergie potentielle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>potentiel energi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>potensiell energi</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>stillingsenergi</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="inre_energi">inre energi</ref>
+        <ref type="crossReference" target="kinetisk_energi">kinetisk energi</ref>
+        <ref type="crossReference" target="mekanisk_energi">mekanisk energi</ref>
+      </termEntry>
+      <termEntry id="primaercellsbatteri">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>primärcellsbatteri</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>primärbatteri</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">batteri av primärceller</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>primary battery</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Primärbatterie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>batterie primaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>primærbatteri</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>primærbatteri</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="sekundaercellsbatteri">sekundärcellsbatteri</ref>
+      </termEntry>
+      <termEntry id="primaercell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>primärcell</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">icke laddningsbar battericell</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>primary cell</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Primärelement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pile</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>élément primaire</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>primærelement</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>primærcelle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="sekundaercell">sekundärcell</ref>
+      </termEntry>
+      <termEntry id="pumpkraftverk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pumpkraftverk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Pumpkraftverk kan vara avsett för energilagring och produktionsutjämning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kraftverk (1) , vid vilket vatten pumpas från en nivå under vattenturbinen till ett magasin över turbinens nivå</descrip>
+          </descripGrp>
+          <note>Pumpkraftverk kan vara avsett för energilagring och produktionsutjämning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pumped storage power station</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pumpspeicherwerk</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>aménagement hydraulique à accumulation par pompage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>pumpekraftværk</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>pumpekraftverk</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pyranometer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pyranometer</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Halvsfärisk pyranometer kallas vanligen endast pyranometer eller solarimeter.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>halvsfärisk pyranometer</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solarimeter</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">instrument för mätning av irradians hos global solstrålning</descrip>
+          </descripGrp>
+          <note>Halvsfärisk pyranometer kallas vanligen endast pyranometer eller solarimeter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pyranometer</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solarimeter</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pyranometer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pyranomètre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solarimètre</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>pyranometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>pyranometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="pyrheliometer">pyrheliometer</ref>
+      </termEntry>
+      <termEntry id="pyrheliometer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pyrheliometer</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">instrument för mätning av irradians hos direkt solstrålning under normal solinstrålning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pyrheliometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pyrheliometer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pyrhéliomètre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>pyrheliometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>pyrheliometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="pyranometer">pyranometer</ref>
+      </termEntry>
+      <termEntry id="pyrolys">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pyrolys</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vid pyrolys erhålls bl.a. brännbar gas, pyrolysgas.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>torrdestillation</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sönderdelning av ett organiskt ämne genom upphettning med helt eller delvis hindrat lufttillträde</descrip>
+          </descripGrp>
+          <note>Vid pyrolys erhålls bl.a. brännbar gas, pyrolysgas.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pyrolysis</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pyrolyse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pyrolyse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>pyrolyse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>pyrolyse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="snabbpyrolys">snabbpyrolys</ref>
+      </termEntry>
+      <termEntry id="pyrolysgas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pyrolysgas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">brännbar gas erhållen vid pyrolys</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pyrolytic gas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pyrolysegas</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>gaz pyrolytique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>pyrolysegas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>pyrolysegass</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pyrolysreaktor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pyrolysreaktor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">reaktor (2)  i vilken pyrolys sker</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="pyrometer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pyrometer</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">instrument för mätning av hög temperatur, t.ex. temperaturen i en flamma</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pyrometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pyrometer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pyromètre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>pyrometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>pyrometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="radiator">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>radiator</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>värmeelement</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmare vars överföring av värme till omgivningen till stor del sker genom värmestrålning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>radiator</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Heizkörper</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>radiateur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>radiator</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>radiator</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="konvektor">konvektor</ref>
+        <ref type="crossReference" target="vaermevaexlare">värmeväxlare</ref>
+      </termEntry>
+      <termEntry id="radioaktivitet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>radioaktivitet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">egenskap hos vissa nuklider att spontant utsända partiklar från atomkärnan och i samband därmed ofta gammastrålning, att utsända röntgenstrålning efter elektroninfångning eller att undergå spontan klyvning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>radioactivity</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Radioaktivität</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>radioactivité</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>radioaktivitet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>radioaktivitet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="aktivitet">aktivitet</ref>
+      </termEntry>
+      <termEntry id="radioaktivt_avfall">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>radioaktivt avfall</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Radioaktivt avfall kan vara lågaktivt, t.ex. skyddskläder, medelaktivt, t.ex. jonbytarmassor och vissa upparbetningsrester, samt högaktivt, t.ex. kärnbränslerester eller rester från upparbetning av kärnbränsle.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">radioaktivt material som erhållits vid behandling eller annan hantering av kärnbränsle eller annat radioaktivt material och som ej avses bli använt</descrip>
+          </descripGrp>
+          <note>Radioaktivt avfall kan vara lågaktivt, t.ex. skyddskläder, medelaktivt, t.ex. jonbytarmassor och vissa upparbetningsrester, samt högaktivt, t.ex. kärnbränslerester eller rester från upparbetning av kärnbränsle.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>radioactive waste</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>radioaktiver Abfall</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>déchets radioactifs</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>radioaktivt affald</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>radioaktivt avfall</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="radioaktivitet">radioaktivitet</ref>
+      </termEntry>
+      <termEntry id="raffinaderigas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>raffinaderigas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Ur raffinaderigas kan man utvinna beståndsdelar till bensin och utgångsmaterial för gasol och petrokemikalier. Gasen används även som bränsle.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">brännbar gas bestående av kolväten, erhållna ur petroleum genom krackning, destillation eller annan raffineringsprocess</descrip>
+          </descripGrp>
+          <note>Ur raffinaderigas kan man utvinna beståndsdelar till bensin och utgångsmaterial för gasol och petrokemikalier. Gasen används även som bränsle.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>refinery gas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Raffineriegas</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>gaz de raffinerie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>raffinerigass</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="raffinera">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>raffinera</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: inom kärnteknik</note>
+          </ntig>
+          <note>Domain: inom kärnteknik</note>
+          <descripGrp>
+            <descrip type="definition">rena en råvara genom att helt eller delvis ta bort föroreningar eller skadliga beståndsdelar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>refine</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>raffinieren</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>raffiner</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>raffinere</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>raffinere</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reaktor-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reaktor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: inom kemiteknik</note>
+          </ntig>
+          <note>Domain: inom kemiteknik</note>
+          <descripGrp>
+            <descrip type="definition">kärl i vilket kemiska reaktioner sker</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reactor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Reaktor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réacteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>reaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>reaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reaktor-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reaktor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: inom kärnteknik</note>
+          </ntig>
+          <note>Domain: inom kärnteknik</note>
+          <descripGrp>
+            <descrip type="definition">anläggning i vilken det kan upprätthållas en reglerbar nukleär kedjereaktion av kärnprocesser, vanligen klyvning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reactor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Reaktor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réacteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>reaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>reaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reaktorhaerd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reaktorhärd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>härd</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>reaktorkärna</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">del av reaktor i vilken den nukleära kedjereaktionens klyvningar avses äga rum</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reactor core</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Spaltzone</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Reaktorkern</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>cœur d'un réacteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cœur</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>reaktorkjerne</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="recipient">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>recipient</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Termen recipient, vars grundbetydelse är 'mottagare', används som fackterm även inom bl.a. fysik och medicin.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mottagare av restprodukter som släpps ut, t.ex. i hav, sjö, vattendrag eller atmosfären</descrip>
+          </descripGrp>
+          <note>Termen recipient, vars grundbetydelse är 'mottagare', används som fackterm även inom bl.a. fysik och medicin.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>recipient</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Empfänger</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>milieu récepteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>recipient</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>resipient</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reduktion-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reduktion</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: av malm</note>
+            <note>Ett ämne som vid reduktion avger elektroner kallas reduktionsmedel.Ett reduktionsmedel är alltså en elektrongivare.Syreavgivning, den äldre innebörden av termen reduktion, kan betraktas som ett specialfall.</note>
+          </ntig>
+          <note>Domain: av malm</note>
+          <descripGrp>
+            <descrip type="definition">elektronupptagning hos ett ämne</descrip>
+          </descripGrp>
+          <note>Ett ämne som vid reduktion avger elektroner kallas reduktionsmedel.Ett reduktionsmedel är alltså en elektrongivare.Syreavgivning, den äldre innebörden av termen reduktion, kan betraktas som ett specialfall.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reduction</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Reduktion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réduction</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>reduktion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>reduksjon</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="oxidation">oxidation</ref>
+        <ref type="crossReference" target="reduktion-2">reduktion</ref>
+      </termEntry>
+      <termEntry id="reduktion-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reduktion</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bortförande av syre i metalloxid genom upphettning av oxiden tillsammans med reduktionsmedel, t.ex. kol (1)  eller väte, varvid fri metall bildas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reduction</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Reduktion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réduction</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>reduktion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>reduksjon</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="reduktion-1">reduktion</ref>
+      </termEntry>
+      <termEntry id="reduktionsgas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reduktionsgas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gas bildad vid reduktion (2)  av malm</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reduction gas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Reduktionsgas</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>gaz de réduction</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>reduksjonsgass</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reflektionsfaktor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reflektionsfaktor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>reflektans</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kvoten av reflekterat och infallande strålningsflöde</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reflectance</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>reflection factor</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>reflectivity</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Reflexionsfaktor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>facteur de réflexion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>réflectance</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>refleksionsfaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>refleksjonsfaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="albedo">albedo</ref>
+      </termEntry>
+      <termEntry id="reflektor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reflektor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">material eller kropp som återkastar infallande strålning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reflector</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Reflektor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réflecteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>reflektor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>reflektor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fresnelreflektor">fresnelreflektor</ref>
+      </termEntry>
+      <termEntry id="regenerativ_vaermevaexlare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>regenerativ värmeväxlare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En regenerativ värmeväxlare kan vara avsedd att arbeta intermittent och därvid bestå av en kammare som omväxlande ansluts till värmande och värmt medium. En sådan anordning kallas ofta regenerator.En regenerativ värmeväxlare kan också vara avsedd att arbeta kontinuerligt och därvid vara utförd i form av en roterande kropp som under sin rotation omväxlande berörs av det värmande och av det värmda mediet.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cyklisk värmeväxlare</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>regenerator</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmeväxlare vars värmeöverförande delar omväxlande står i förbindelse med det värmande och det värmda mediet</descrip>
+          </descripGrp>
+          <note>En regenerativ värmeväxlare kan vara avsedd att arbeta intermittent och därvid bestå av en kammare som omväxlande ansluts till värmande och värmt medium. En sådan anordning kallas ofta regenerator.En regenerativ värmeväxlare kan också vara avsedd att arbeta kontinuerligt och därvid vara utförd i form av en roterande kropp som under sin rotation omväxlande berörs av det värmande och av det värmda mediet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>regenerative heat-exchanger</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>regenerativer Wärmeaustauscher</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>échangeur de chaleur régénératif</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>regenerativ varmeveksler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>regenerativ varmeveksler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="rekuperativ_vaermevaexlare">rekuperativ värmeväxlare</ref>
+      </termEntry>
+      <termEntry id="regenerativ_bromsning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>regenerativ bromsning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bromsning vid vilken den energi som avges när ett fordons hastighet minskar tillvaratas och lagras för att senare kunna användas för framdrivning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>regenerative braking</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>regeneratives Bremsen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Nutzbremsung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>freinage par récupération</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>regenerativ bremsning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>regenerativ bremsing</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="svaenghjulsenergilager">svänghjulsenergilager</ref>
+      </termEntry>
+      <termEntry id="reglering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reglering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel: När rumstemperaturen sjunker till 18 ℃ sätts radiatorn i funktion.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">automatisk styrning genom vilken en styrd storhet bringas i överensstämmelse med ett referensvärde</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel: När rumstemperaturen sjunker till 18 ℃ sätts radiatorn i funktion.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>feedback control</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Regelung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regulierung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>régulation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>regulering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>styrning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="rekuperativ_vaermevaexlare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rekuperativ värmeväxlare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Rekuperativa värmeväxlare kan ges förstorad värmeöverföringsyta genom veckning av skiljeväggarna, t.ex. plattvärmeväxlare, eller genom anbringande på skiljeväggarna av skiv-, stång- eller trådformigt material med god värmeledningsförmåga, t.ex. lamellrörsvärmeväxlare.Rekuperativa värmeväxlare kan också bestå av rör.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>rekuperator</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmeväxlare vars värmeöverförande delar utgör skiljevägg mellan och står i kontinuerlig kontakt med det värmande och det värmda mediet</descrip>
+          </descripGrp>
+          <note>Rekuperativa värmeväxlare kan ges förstorad värmeöverföringsyta genom veckning av skiljeväggarna, t.ex. plattvärmeväxlare, eller genom anbringande på skiljeväggarna av skiv-, stång- eller trådformigt material med god värmeledningsförmåga, t.ex. lamellrörsvärmeväxlare.Rekuperativa värmeväxlare kan också bestå av rör.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>recuperative heat exchanger</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>rekuperativer Wärmeaustauscher</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>échangeur de chaleur récupératif</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>rekuperativ varmeveksler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>rekuperativ varmeveksler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="regenerativ_vaermevaexlare">regenerativ värmeväxlare</ref>
+      </termEntry>
+      <termEntry id="relativ_luftmassa">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>relativ luftmassa</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>verkningstvärsnitt för luftpelare</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kvoten av massan hos den luftpelare som solstrålningen passerar på sin väg mot jordytan och massan hos den luftpelare med samma tvärsnitt som solstrålningen skulle ha passerat om solen stått i zenit</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="reservvaermesystem">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reservvärmesystem</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmesystem som med kort varsel kan ersätta eller komplettera ordinarie system vid t.ex. driftstörning eller när det ordinarie systemet tas ur funktion</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="tillsatsvaermesystem">tillsatsvärmesystem</ref>
+      </termEntry>
+      <termEntry id="restprodukt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>restprodukt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Även energi i form av t.ex. restvärme eller buller kan betraktas som restprodukt.</note>
+            <note>Example: Exempel på restprodukter är halm, rökgas och skogsavfall.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>rest</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">material överblivet i en process eller vid konsumtion</descrip>
+          </descripGrp>
+          <note>Även energi i form av t.ex. restvärme eller buller kan betraktas som restprodukt.</note>
+          <descripGrp>
+            <descrip type="example">Exempel på restprodukter är halm, rökgas och skogsavfall.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>residue</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>residual product</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rückstand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>résidu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>restprodukt</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>rest</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>restprodukt</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="restvaerme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>restvärme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>spillvärme</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värme som avges från process, t.ex. i form av varma avgaser, varmt kylvatten, varmt material</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>waste heat</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>reject heat</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Abwärme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Abfallwärme</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>chaleur résiduelle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>spildvarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>restvarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="returprodukt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>returprodukt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Returprodukt kan indelas i återbruksprodukt: t.ex. returemballage; och returråvara: t.ex. returmetall och skrotdäck i vägbeläggning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">restprodukt som tillvaratagits för återvinning</descrip>
+          </descripGrp>
+          <note>Returprodukt kan indelas i återbruksprodukt: t.ex. returemballage; och returråvara: t.ex. returmetall och skrotdäck i vägbeläggning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>salvage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>verwertbarer Abfall</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>déchet valorisable</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>returprodukt</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>returprodukt</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="rost">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rost</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">galler i fastbränsleeldad panna på vilket bränslebädden vilar och genom vilket luft tillförs</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>grate</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rost</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>grille</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>rist</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>rist</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="planrost">planrost</ref>
+        <ref type="crossReference" target="snedrost">snedrost</ref>
+        <ref type="crossReference" target="trapprost">trapprost</ref>
+      </termEntry>
+      <termEntry id="rotationsbraennare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rotationsbrännare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Filmen sönderdelas av strömmande förbränningsluft då eldningsoljan slungas ut från koppen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">oljebrännare med en snabbt roterande kopp i vilken eldningsoljan breds ut till en tunn film</descrip>
+          </descripGrp>
+          <note>Filmen sönderdelas av strömmande förbränningsluft då eldningsoljan slungas ut från koppen.</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="roterugn">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>roterugn</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>rotationsugn</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>roterande ugn</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">cylindrisk, liggande ugn utan rost, som har en roterande rörelse under förbränningen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>rotary furnace</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Drehrohrofen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>four rotatif</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>roterovn</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>rotérovn</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>roterende tørkeovn</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="raaolja">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>råolja</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utvunnet petroleum som inte undergått annan behandling än eventuellt avskiljande av lösta gaser och främmande ämnen och som är under transport eller lagring eller utnyttjas som råvara</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>crude oil</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>crude petroleum</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rohöl</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pétrole brut</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>råolie</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>råolje</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="raatorv">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>råtorv</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">torv i naturligt tillstånd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>crude peat</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rohtorf</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>tourbe brute</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>råtorv</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="roejningsavfall">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>röjningsavfall</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skogsavfall efter röjning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thinning residues</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cleaning residues</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>déchets de déblayage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>ryddingsavfall</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="roekgas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rökgas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">avgas som innehåller stoft och vätskedroppar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flue gas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rauchgas</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>gaz de combustion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>gaz de fumée</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>røggas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>røykgass</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="roekgasrening">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rökgasrening</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rening av rökgas från aerosoler och gaser andra än vattenånga och koldioxid</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flue gas cleaning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rauchgasreinigung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>épuration du gaz de fumée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>røykgassrensing</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="stoftavskiljare">stoftavskiljare</ref>
+      </termEntry>
+      <termEntry id="roekgastorkning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rökgastorkning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">torkning med hjälp av rökgas, vanligen från förbränning av det torkade materialet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rauchgastrocknung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>røykgasstörking</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="roerledning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rörledning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Skriv i förekommande fall oljeledning eller gasledning.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fjärrtransportledning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>pipeline</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">transportsystem bestående av rör med pump- och rensningsanordningar främst avsett för råolja och naturgas</descrip>
+          </descripGrp>
+          <note>Skriv i förekommande fall oljeledning eller gasledning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pipeline</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rohrleitung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pipe-line</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>conduite</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>rørledning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>rørledning</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>oljeledning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="roetgas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rötgas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Rötgas består i huvudsak av metan och kan utnyttjas som bränsle och som drivmedel i fordon.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">brännbar gas bildad vid rötning</descrip>
+          </descripGrp>
+          <note>Rötgas består i huvudsak av metan och kan utnyttjas som bränsle och som drivmedel i fordon.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>digester gas</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sludge digestion gas</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Faulgas</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Schlammgas</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>gaz de digestion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>rådnegas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>råtnegass</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="roetning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rötning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">styrd biologisk nedbrytning under anaeroba förhållanden, varvid organiskt material omvandlas utan luftomsättning i vattenfyllda porer under bildning av illaluktande ämnen som vissa kolväten, ammoniak och vätesulfid.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>digestion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Faulung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Ausfaulung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>digestion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>udrådning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>anaerob stabilisering</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>utråtning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kompostering">kompostering</ref>
+      </termEntry>
+      <termEntry id="roetslam">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rötslam</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">återstod efter kemisk eller mikrobiologisk nedbrytning av organiskt material, t.ex. efter rötning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>digested sludge</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Faulschlamm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>boue digérée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>udrådnet slam</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>utråtnet slam</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="s-ventilation">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>S-ventilation</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>självdragsventilation</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>naturlig ventilation</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ventilation som uppstår p.g.a. temperatur- och tryckdifferenser i inomhusluften</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>natural ventilation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>natürliche Lüftung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Schwerkraftlüftung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ventilation naturelle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>naturlig ventilation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>naturlig ventilasjon</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="flaektventilation">fläktventilation</ref>
+        <ref type="crossReference" target="oavsiktlig_ventilation">oavsiktlig ventilation</ref>
+      </termEntry>
+      <termEntry id="saltgradientenergi">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>saltgradientenergi</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Saltgradientenergi kan omvandlas till elektrisk energi i en koncentrationscell eller till mekanisk energi i en anordning som utnyttjar osmos.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">akvatisk energi som beror av differens i salthalt hos havsvatten och vatten tillfört från floder o.d.</descrip>
+          </descripGrp>
+          <note>Saltgradientenergi kan omvandlas till elektrisk energi i en koncentrationscell eller till mekanisk energi i en anordning som utnyttjar osmos.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>salinity gradient energy</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Energie aus dem Salzkonzentrationsgefälle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>énergie produite par gradient de salinité</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>saltgradientenergi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="salthydratvaermelagring">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>salthydratvärmelagring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vanligen är det destillationsvärme som tas upp i ett salthydratvärmelager.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmelagring vid vilken bindningsenergin mellan vatten och ett salt utnyttjas</descrip>
+          </descripGrp>
+          <note>Vanligen är det destillationsvärme som tas upp i ett salthydratvärmelager.</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="saltsmaeltvaermelagring">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>saltsmältvärmelagring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">smältvärmelagring med salt som värmelagrande material</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="sammanlagringsfaktor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sammanlagringsfaktor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Det inverterade värdet benämns spridningsfaktor.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">faktor som för en grupp apparater eller energianvändare anger förhållandet mellan samtidigt utnyttjad effekt under en tidsperiod och summan av deras maximala effektbehov oberoende av varandra</descrip>
+          </descripGrp>
+          <note>Det inverterade värdet benämns spridningsfaktor.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>coincidence factor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Gleichzeitigkeitfaktor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>facteur de simultanéité</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>samtidighedsfaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>sammenlagringsfaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="schaktugn">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>schaktugn</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ugn med ugnsrum som fylls uppifrån, t.ex. med bränsle, och töms nedtill</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>shaft furnace</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schachtofen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>four vertical</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>skaktovn</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>sjaktovn</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="masugn">masugn</ref>
+      </termEntry>
+      <termEntry id="sedimentaer_bergart">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sedimentär bergart</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En sedimentär bergart är porös och kan innehålla geotermalvatten.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sedimentbergart</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bergart som bildats genom kompaktering och cementering av jordavlagringar transporterade och avsatta i vatten, is eller luft</descrip>
+          </descripGrp>
+          <note>En sedimentär bergart är porös och kan innehålla geotermalvatten.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sedimentary rock</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Absatzgestein</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Sedimentgestein</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>roche sédimentaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>aflejringsbjergart</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sedimentær bjergart</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>sedimentar bergart</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="sekundaercellsbatteri">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sekundärcellsbatteri</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sekundärbatteri</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">batteri av sekundärceller, t.ex. blyackumulatorer</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>secondary battery</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sekundärbatterie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>batterie secondaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>sekundærbatteri</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>akkumulatorbatteri</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sekundærbatteri</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="primaercellsbatteri">primärcellsbatteri</ref>
+      </termEntry>
+      <termEntry id="sekundaercell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sekundärcell</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>elackumulator</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">laddningsbar battericell</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>secondary cell</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>accumulator</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>storage cell</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sammlerbatterie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Akkumulatorenbatterie</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>accumulateur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>élément secondaire</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>akkumulatorcelle</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sekundærcelle</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="primaercell">primärcell</ref>
+      </termEntry>
+      <termEntry id="selektiv_absorbatoryta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>selektiv absorbatoryta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Behandlingen kan bestå i att ytan infärgas med lämplig svart färg.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>selektiv yta</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">absorbatoryta behandlad så att man vinner hög absorption (2)  av solstrålning och låg emission (3)  av värmestrålning</descrip>
+          </descripGrp>
+          <note>Behandlingen kan bestå i att ytan infärgas med lämplig svart färg.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selective surface</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>selektive Oberfläche</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Selektivfläche</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>surface sélective</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>selektiv overflade</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>selektiv absorbatorflate</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="sinter">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sinter</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I allmänhet avses med sinter finare keramiskt material som genomgått sintring och därigenom blivit tätt, frostbeständigt och hårt.Inom järn- och stålindustrin avses de porösa småstycken som fås då finkrossad järnmalm kristalliserat.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sintrat material</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">styckeformigt eller pulverformigt material som framställts genom upphettning så att materialet delvis smält och omkristalliserat</descrip>
+          </descripGrp>
+          <note>I allmänhet avses med sinter finare keramiskt material som genomgått sintring och därigenom blivit tätt, frostbeständigt och hårt.Inom järn- och stålindustrin avses de porösa småstycken som fås då finkrossad järnmalm kristalliserat.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sinter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sinter</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>aggloméré</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>sinter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>sinter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="sintring-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sintring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Sintring sker vid höjd temperatur, dock inte över huvudkomponentens smältpunkt.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">agglomerering av finkorniga material till större stycken</descrip>
+          </descripGrp>
+          <note>Sintring sker vid höjd temperatur, dock inte över huvudkomponentens smältpunkt.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sintering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sintern</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Sinterung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>frittage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>sintring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>sintring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="sintring-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sintring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Sintring sker vid höjd temperatur, dock inte över huvudkomponentens smältpunkt.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">produktion av sinter</descrip>
+          </descripGrp>
+          <note>Sintring sker vid höjd temperatur, dock inte över huvudkomponentens smältpunkt.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sintering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sintern</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Sinterung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>frittage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>sintring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>sintring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="sjaelvantaendning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>självantändning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">process vid vilken ett material under förutsättning av värmeisolering (1)  och tillgång till luft värms och spontant antänds</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>self-ignition</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Selbstentzündung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>inflammation spontanée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>glødetænding</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>selvantenning</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>selvtenning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antaendning">antändning</ref>
+      </termEntry>
+      <termEntry id="sjoemagasin-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sjömagasin</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vattenmagasin i naturlig eller konstgjord sjö, som används för belastningsanpassad kraftverksdrift</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="sjoemagasin-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sjömagasin</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmelager i sjö eller havsvik</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="mekanisk_energilagring">mekanisk energilagring</ref>
+      </termEntry>
+      <termEntry id="skiffer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>skiffer</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I engelskan har man olika termer för olika typer av skiffrar: shale, slate och schist.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">finkornig bergart som består av tunna lager, med tjockleken mindre än 1 cm och som är lätt delbar i skikt</descrip>
+          </descripGrp>
+          <note>I engelskan har man olika termer för olika typer av skiffrar: shale, slate och schist.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>shale</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schiefer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>schiste</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>skifer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>skifer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="skifferolja">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>skifferolja</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Genom destillation, krackning och raffinering kan man ur skifferolja erhålla produkter liknande dem som utvinns ur petroleum.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ur oljeskiffer genom pyrolys utvunnen bränsleråvara, bestående av lätt- till trögflytande kolväten</descrip>
+          </descripGrp>
+          <note>Genom destillation, krackning och raffinering kan man ur skifferolja erhålla produkter liknande dem som utvinns ur petroleum.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>shale oil</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schieferöl</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>huile de schiste</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>skiferolie</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>skiferolje</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="skogsavfall">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>skogsavfall</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>avverkningsrester</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>trädrester</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fällda träd och träddelar som kvarlämnats efter röjning (röjningsavfall), gallring, slutavverkning eller annan avverkning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>forest residues</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schlagabfall</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>déchets forestiers</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>hugstaffald</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>skogsavfall</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="organiskt_avfall">organiskt avfall</ref>
+      </termEntry>
+      <termEntry id="skogsbraensle">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>skogsbränsle</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bränsle med skogligt ursprung, som inte passerat annan användning, bestående av trä och bark samt barr eller löv</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="barkbraensle">barkbränsle</ref>
+        <ref type="crossReference" target="traebraensle">träbränsle</ref>
+      </termEntry>
+      <termEntry id="skogsenergi">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>skogsenergi</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Idag härstammar skogsenergi från skogsprodukter som inte används för skogsindustriell förädling, t.ex. hyggesrester, toppar, grenar, röjningsavfall samt vissa lövvedsöverskott.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energi från råvaror ur skog</descrip>
+          </descripGrp>
+          <note>Idag härstammar skogsenergi från skogsprodukter som inte används för skogsindustriell förädling, t.ex. hyggesrester, toppar, grenar, röjningsavfall samt vissa lövvedsöverskott.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>forest energy</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Waldenergie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>énergie de forêt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="energiskog">energiskog</ref>
+      </termEntry>
+      <termEntry id="skorsten">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>skorsten</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">huvudsakligen vertikal byggnadsdel innehållande en eller flera kanaler för bortförande av förbränningsgaser, avgas eller rökgas, eller för luftväxling</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>chimney</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schornstein</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>cheminée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>skorsten</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>skorstein</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="skrubber">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>skrubber</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Skrubber kan vara torrskrubber (med partiklar), våtskrubber (med vätska) eller elektroskrubber (elektrostatisk avskiljare i kombination med partiklar eller vätska).</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tvättare</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">avskiljare som arbetar med vätska eller partiklar som avskiljande medium</descrip>
+          </descripGrp>
+          <note>Skrubber kan vara torrskrubber (med partiklar), våtskrubber (med vätska) eller elektroskrubber (elektrostatisk avskiljare i kombination med partiklar eller vätska).</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>scrubber</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>washer</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wäscher</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>laveur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>vasker</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>skrubber</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>gassvasker</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="slagg-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>slagg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">restprodukt vid förbränning, bestående av obrännbart material och aska i sintrad form</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>slag</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cinders</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>clinker</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schlacke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mâchefer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>scorie</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>slagge</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>slagg</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="aska">aska</ref>
+        <ref type="crossReference" target="bottenaska">bottenaska</ref>
+        <ref type="crossReference" target="flygaska">flygaska</ref>
+      </termEntry>
+      <termEntry id="slagg-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>slagg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">föroreningar som avskiljs vid smältning av metall och som i smält form flyter ovanpå metallsmältan</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>slag</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cinders</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>clinker</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schlacke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mâchefer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>scorie</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>slagge</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>slagg</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="slutfoervar">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>slutförvar</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anläggning för deponering</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ultimate radioactive waste disposal site</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ultimate waste disposal site</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Endlager</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>aire de stockage définitive</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>deponi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="smaeltvaermelagring">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>smältvärmelagring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmelagring vid vilken i huvudsak latent värme i form av smältvärme utnyttjas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat-of-fusion storage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schmelzwärmespeicherung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>stockage de chaleur de fusion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>smeltevarmelagring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>smeltevarmelagring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="saltsmaeltvaermelagring">saltsmältvärmelagring</ref>
+      </termEntry>
+      <termEntry id="smaeltvaerme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>smältvärme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">latent värme som upptas av ett fast ämne när det smälter</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>latent heat of fusion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>latente Schmelzwärme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>chaleur latente de fusion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>latent smeltevarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>smeltevarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="isbildningsvaerme">isbildningsvärme</ref>
+      </termEntry>
+      <termEntry id="snabbpyrolys">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>snabbpyrolys</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>flashpyrolys</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">pyrolys vid vilken det ämne som skall sönderdelas hettas upp mycket snabbt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flash pyrolysis</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fast pyrolysis</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>rapid pyrolysis</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Flashpyrolyse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pyrolyse flash</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>flash-pyrolyse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>flash-pyrolyse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="snedrost">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>snedrost</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rost som lutar mot horisontalplanet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>inclined grate</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schrägrost</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>grille inclinée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>skrårist</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="planrost">planrost</ref>
+        <ref type="crossReference" target="trapprost">trapprost</ref>
+      </termEntry>
+      <termEntry id="solkraftverk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solkraftverk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kraftverk (1)  som drivs av solstrålningsenergi</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar power station</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonnenkraftwerk</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Solarkraftwerk</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>centrale électrosolaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>centrale solaire</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solkraftværk</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solkraftverk</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="soltermisk_elgenerering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>soltermisk elgenerering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">omvandling av solstrålningsenergi till elektrisk energi via värme</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar thermal electric power generation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Gewinnung von elektrischer Energie aus Sonnenstrahlung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>production d'électricité thermo-solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>elekticitetsproduktion ved hjælp af solvarme</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>termisk solkraftproduktion</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>termisk solenergiproduksjon</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="solcell">solcell</ref>
+      </termEntry>
+      <termEntry id="solarkonstant">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solarkonstant</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Till följd av jordbanans elliptiska form varierar solarkonstanten mellan 1398 W/m² och 1308 W/m². Man anger därför alltid ett medelvärde.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">irradians mot en tänkt yta vinkelrätt mot solstrålningen vid jordatmosfärens yttersta gräns, då jorden befinner sig på medelavstånd från solen</descrip>
+          </descripGrp>
+          <note>Till följd av jordbanans elliptiska form varierar solarkonstanten mellan 1398 W/m² och 1308 W/m². Man anger därför alltid ett medelvärde.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar constant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Solarkonstante</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>constante solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solkonstant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solarkonstant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solbyggnadsteknik">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solbyggnadsteknik</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>passiv energiteknik</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">teknik för energihushållning och solenergiutnyttjande vid vilken t.ex. byggnader placeras och utformas med hänsyn till solinstrålning och topografi</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar architecture</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Solararchitektur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>architecture solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solararkitektur</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solenergi i husbyggning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solcell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solcell</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fotocell för omvandling av solstrålningsenergi till elektrisk energi</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar photovoltaic cell</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solar cell</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>photovoltaische Zelle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Solarzelle</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Sonnenzelle</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>cellule solaire photovoltaïque</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cellule solaire</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solcelle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solcelle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solcellskraftverk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solcellskraftverk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kraftverk med solceller</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="solcellsmodul">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solcellsmodul</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning bestående av ett antal solceller elektriskt sammankopplade och monterade i en mekaniskt stabil och väderskyddad enhet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar cell module</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Solarzellenmodul</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>module de cellules solaires</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solcellemodul</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solkraft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">elektrisk energi alstrad genom direkt omvandling av solstrålningsenergi</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar electric power</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solar electricity</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Strom aus Sonnenenergie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>électricité d'origine solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>hélioélectricité</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solelektricitet</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solkraft</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solfaangare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solfångare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Med förleder och framförställda attribut specificeras konstruktionen: koncentrerande solfångare, plan solfångare etc.Om t.ex. en vägg även fungerar som en solfångare kan den kallas solvägg.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning i vilken solstrålningsenergi absorberas och omformas till värme, som överförs till en värmebärare</descrip>
+          </descripGrp>
+          <note>Med förleder och framförställda attribut specificeras konstruktionen: koncentrerande solfångare, plan solfångare etc.Om t.ex. en vägg även fungerar som en solfångare kan den kallas solvägg.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar collector</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Solarkollektor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>collecteur solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>capteur solaire</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solfanger</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solfanger</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solfoeljare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solföljare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Solföljare indelas i två huvudtyper, enaxliga respektive tvåaxliga solföljare.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">instrument för automatisk inriktning av solfångare eller koncentrator mot solen</descrip>
+          </descripGrp>
+          <note>Solföljare indelas i två huvudtyper, enaxliga respektive tvåaxliga solföljare.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sun tracker</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonnenverfolger</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pointeur solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solfølger</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solgaardsanlaeggning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solgårdsanläggning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>farmanläggning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anläggning i vilken flera solfångare är placerade på en stor yta</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar farm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Solarfarm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Sonnenfarm</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ferme solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>champ de capteurs</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solfarm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="solvaermekraftverk">solvärmekraftverk</ref>
+        <ref type="crossReference" target="tornanlaeggning">tornanläggning</ref>
+      </termEntry>
+      <termEntry id="solhoejd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solhöjd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vinkeln i ett vertikalplan mellan riktningen mot solens mittpunkt och riktningen mot en given punkt på horisonten</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar angle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonnenhöhe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>hauteur du soleil</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solhøjde</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solhøyde</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="asimut">asimut</ref>
+      </termEntry>
+      <termEntry id="solinstraalning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solinstrålning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">solstrålning som träffar ett objekt, t.ex. solfångare, fasad eller fönster</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar incident radiation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonneneinstrahlung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rayonnement solaire incident</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solinnfall</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="irradians">irradians</ref>
+        <ref type="crossReference" target="solstraalning">solstrålning</ref>
+      </termEntry>
+      <termEntry id="solsimulator">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solsimulator</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning för framställning av ljus med ett spektralt innehåll liknande solstrålningens</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar simulator</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonnensimulator</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>simulateur de soleil</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solsimulator</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solsimulator</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solstraalning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solstrålning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vid mätning av solstrålning skiljer man ofta mellan global solstrålning, direkt solstrålning och indirekt solstrålning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">strålning utsänd av solen</descrip>
+          </descripGrp>
+          <note>Vid mätning av solstrålning skiljer man ofta mellan global solstrålning, direkt solstrålning och indirekt solstrålning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar radiation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonnenstrahlung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rayonnement solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solstråling</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solstråling</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="solinstraalning">solinstrålning</ref>
+      </termEntry>
+      <termEntry id="solstraalningsenergi">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solstrålningsenergi</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solenergi</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energi avgiven, överförd eller mottagen i form av solstrålning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar energy</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonnenenergie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Solarenergie</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>énergie solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solenergi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solenergi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="soltimme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>soltimme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Antalet soltimmar mäts normalt med heliograf.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">enhet för den tid då irradiansen mot en plan yta vinkelrät mot solskivan överstiger ca 200 W/m²</descrip>
+          </descripGrp>
+          <note>Antalet soltimmar mäts normalt med heliograf.</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="solvaegg">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solvägg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">solfångare bestående av en vägg och en glasfasad mellan vilka luft kan värmas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>passive solar wall</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmespeicherwand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Speicherwand</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mur solaire passif</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>mur accumulateur de chaleur</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>mursolfanger</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solvegg</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solvaerme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solvärme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">till värme omvandlad solstrålningsenergi</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar heat</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sonnenwärme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>chaleur solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solvarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solvarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="solvaermekraftverk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solvärmekraftverk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>termiskt solkraftverk</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmekraftverk vid vilket solstrålningsenergi utnyttjas för värmning av vatten och ånga</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar thermal power station</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>solarthermisches Kraftwerk</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>thermisches Sonnenkraftwerk</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>centrale thermique solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>centrale héliothermique</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solvarmekraftværk</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solvarmekraftverk</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="solgaardsanlaeggning">solgårdsanläggning</ref>
+        <ref type="crossReference" target="tornanlaeggning">tornanläggning</ref>
+      </termEntry>
+      <termEntry id="solvaermesystem">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>solvärmesystem</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Solvärmesystem kan vara aktiva eller passiva.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmesystem för att tillföra byggnad o.d. solvärme</descrip>
+          </descripGrp>
+          <note>Solvärmesystem kan vara aktiva eller passiva.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar heating system</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Solarheizsystem</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>système à chauffage solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>solopvarmningssystem</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>solvarmesystem</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="aktivt_system">aktivt system</ref>
+        <ref type="crossReference" target="passivt_system">passivt system</ref>
+      </termEntry>
+      <termEntry id="sot">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sot</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Sot bildas vid ofullständig förbränning i t.ex. dieselmotorer och eldstäder.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">finfördelat svärtande kol (1)  i mer eller mindre rent tillstånd bildat vid ofullständig förbränning av organiska ämnen</descrip>
+          </descripGrp>
+          <note>Sot bildas vid ofullständig förbränning i t.ex. dieselmotorer och eldstäder.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>soot</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Russ</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>suie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>sod</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>sot</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

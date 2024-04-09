@@ -1,0 +1,4017 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Sveriges Skogsvårdsförbund, Terminologicentrum TNC: Skogsordlista | 1994</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="frekvens">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frekvens</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: vid ekologisk analys</note>
+          </ntig>
+          <note>Domain: vid ekologisk analys</note>
+          <descripGrp>
+            <descrip type="definition">grad av vanlighet i förekomsten av individer av en art inom ett område</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>frequency</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frequenz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Biozönotik: prozentualer Anteil einer bestimmten Tier- oder Pflanzenart bezogen auf alle Individuen einer Lebensgemeinschaft</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>frekvenssi</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>lukuisuus</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>yleisyys</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="abundans">abundans</ref>
+        <ref type="crossReference" target="populationstaethet">populationstäthet</ref>
+      </termEntry>
+      <termEntry id="fri_avblomning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fri avblomning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">pollinering utan mänsklig påverkan</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>open pollination</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bestäubung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>freies Abblühen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapaa pölytys</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kontrollerad_korsning">kontrollerad korsning</ref>
+      </termEntry>
+      <termEntry id="fri_gallring">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fri gallring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gallring utan tvingande regler under gynnande av de bästa stammarna</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>free thinning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>freie Durchforstung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">früh beginnende, systematische Auslese und Förderung der besten, d.h. nach Kronen- und Schaftqualität herausragende Bäume in guter Verteilung und unter Erhaltung eines ausreichenden Unterstandes zur Boden- und Schaftpflege</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapaa harvennus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fri_kapning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fri kapning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">aptering varvid stammen kapas i fria längder</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>free cross-cutting</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>bucking</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapaa katkonta</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fri_laengd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fri längd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">stycke av timmer utan andra längdkrav än bestämd största och minsta längd</descrip>
+          </descripGrp>
+          <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>free length</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Holz zwischen Minimal- und Maximallänge</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapaa pituus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fri_sikt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fri sikt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sammanhängande sträcka av framförvarande vägbana som kan överblickas från fordons förarplats</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>road visibility area</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>road visibility zone</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>freie Sicht</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapaa näkemä</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fridlysning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fridlysning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på vad som kan fridlysas är fornminne, naturminne, djurart eller växtart.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förklaring från myndighet att något är fredat mot tillägnande, skada eller intrång</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på vad som kan fridlysas är fornminne, naturminne, djurart eller växtart.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>preservation</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>protection</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Natur-Kulturdenkmal</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fridlysningstid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fridlysningstid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tid då ett villebråd inte får jagas eller fångas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>closed season</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schonzeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">für die jagdbaren Tiere durch Jagdgesetze festgelegte jagdfreie Zeit</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>rauhoitusaika</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frigaangshoejd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frigångshöjd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: hos fordon</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fri höjd</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Domain: hos fordon</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ground clearance</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bodenabstand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Bodenfreiheit</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>maavara</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frigaangsvinkel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frigångsvinkel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>angle of interference</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>ylityskulma</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="friktionsbarkning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>friktionsbarkning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Friktionsbarkning kan åstadkommas genom att virkesstycken bringas att gnida mot varandra eller mot trubbiga kanter.</note>
+            <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">barkning baserad på den lägre hållfastheten i skiktet mellan bark och ved</descrip>
+          </descripGrp>
+          <note>Friktionsbarkning kan åstadkommas genom att virkesstycken bringas att gnida mot varandra eller mot trubbiga kanter.</note>
+          <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>friction barking</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Entrindung durch Reibung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kitkakuorinta</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="hydraulisk_barkning">hydraulisk barkning</ref>
+        <ref type="crossReference" target="skaerbarkning">skärbarkning</ref>
+        <ref type="crossReference" target="trumbarkning">trumbarkning</ref>
+      </termEntry>
+      <termEntry id="friktionsjord">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>friktionsjord</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Grus och sand är exempel på friktionsjordar.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jord vars skjuvhållfasthet till övervägande del beror på friktion mellan partiklarna</descrip>
+          </descripGrp>
+          <note>Grus och sand är exempel på friktionsjordar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>non-cohesive soil</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>frictional soil</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>nichtbindiger Boden</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kohesionsjord">kohesionsjord</ref>
+      </termEntry>
+      <termEntry id="friktionsskikt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>friktionsskikt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: inom meteorologi</note>
+            <note>Friktionsskiktet sträcker sig till 500–1000 m höjd.</note>
+          </ntig>
+          <note>Domain: inom meteorologi</note>
+          <descripGrp>
+            <descrip type="definition">skikt i atmosfären inom vilket friktionen mot marken gör sig gällande</descrip>
+          </descripGrp>
+          <note>Friktionsskiktet sträcker sig till 500–1000 m höjd.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>friction layer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Friktionsschicht</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frisiktsomraade">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frisiktsområde</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">markområde intill väg, vägskäl eller järnvägskorsning som skall hållas fritt från skymmande jordslänt eller bergslänt eller skymmande föremål, såsom byggnad eller växtlighet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>free visibility area</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>free visibility zone</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>einsehbarer Seitenstreifen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapaa näkemäalue</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frisk_ekbraeken-typ">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frisk ekbräken-typ</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+            <note>Frisk ekbräken-typ är en vanlig hedskogstyp.</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning:i bottenskiktet skogsmossor (Hylocomium splendens, Pleurozium m.fl.);fältskikt med ris (blåbär (Vaccinium myrtillus) m.fl.) och ekbräken (Lastrea dryopteris);trädskikt med oftast gran (Picea abies), lokalt tall (Pinus silvestris) och inslag av björk (Betula pubescens eller verrucosa)</descrip>
+          </descripGrp>
+          <note>Frisk ekbräken-typ är en vanlig hedskogstyp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mesic Dryopteris type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tuore metsäimarretyyppi</term>
+            </termGrp>
+            <termNote type="geographicalUsage">SE</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frisk_kvist">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frisk kvist</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>levande kvist</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>rå kvist</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>råkvist</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kvist som är sammanvuxen med stamveden till minst 75 % av omkretsen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sound knot</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>intergrown knot</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>live knot</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tight knot</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>gesunder Ast</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fester Ast</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fast_kvist">fast kvist</ref>
+        <ref type="crossReference" target="loes_kvist">lös kvist</ref>
+      </termEntry>
+      <termEntry id="frisk_ristyp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frisk ristyp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+            <note>Frisk ristyp är en mycket vanlig hedskogstyp.</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning:bottenskikt med skogsmossor (Hylocomium splendens, Pleurozium, Ptilium m.fl.), i fältskiktet rikligt med ris, främst blåbär (Vaccinium myrtillus) men även lingon (Vaccinium vitis-idaea);trädskikt av gran (Picea abies) eller tall (Pinus silvestris) med lokalt inslag av björk (Betula ssp.)</descrip>
+          </descripGrp>
+          <note>Frisk ristyp är en mycket vanlig hedskogstyp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mesic dwarf-shrub type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tuore varpuinen tyyppi</term>
+            </termGrp>
+            <termNote type="geographicalUsage">SE</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frisk_oert-ristyp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frisk ört-ristyp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+            <note>Frisk ört-ristyp är en vanlig hedskogstyp.</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning:- i bottenskiktet skogsmossor (Hylocomium splendens, Pleurozium, Ptilium m.fl.);- fältskikt med dominerande ris, i regel blåbär (Vaccinium myrtillus) och inslag av örter (mest lågörter (parvoherbider), enstaka högörter (magnoherbider) och ekbräken (Lastrea dryopteris) m.fl. ormbunkar (filicider);- i trädskiktet i regel gran (Picea abies) med lokalt inslag av björk (Betula pubescens eller verrucosa)</descrip>
+          </descripGrp>
+          <note>Frisk ört-ristyp är en vanlig hedskogstyp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mesic dwarf-shrub type with low herbs</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frisk_oerttyp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frisk örttyp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+            <note>Frisk örttyp är en särskilt i vissa norrländska kalktrakter vanlig ängsskogstyp.</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning: bottenskiktet svagt utvecklat eller felande; i fältskiktet mest högörter (Geranium silvaticum, Aconitum, Lactuca alpina m.fl.) och högvuxna gräs (t.ex. Milium) samt stora ormbunkar (magnofilicider); i trädskiktet mest gran (Picea abies); lokalt ofta glasbjörk (Betula pubescens), asp (Populus tremula), gråal (Alnus incana) m.m.; återväxten försvårad av högörtsskiktet; på lågor återväxt av gran</descrip>
+          </descripGrp>
+          <note>Frisk örttyp är en särskilt i vissa norrländska kalktrakter vanlig ängsskogstyp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mesic tall-herb type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tuore ruohoinen metsätyyppi</term>
+            </termGrp>
+            <termNote type="geographicalUsage">SE</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fristaellning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>friställning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>frihuggning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ingrepp som skapar fritt utrymme för krona hos träd eller planta genom att intillstående träd avlägsnas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>liberation</term>
+            </termGrp>
+            <termNote type="usageNote">of crown</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>release cutting</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Freistellung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapauttaminen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="enkelstaellning">enkelställning</ref>
+      </termEntry>
+      <termEntry id="fritt_vatten">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fritt vatten</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fukt som finns i lumen och intercellulära hålrum och som kvarhålls endast av ytspänning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>free moisture</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>free water</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>freies Wasser</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ungebundenes Wasser</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vapaavesi</term>
+            </termGrp>
+            <note>Domain: puussa</note>
+          </ntig>
+          <note>Domain: puussa</note>
+        </langSet>
+        <ref type="crossReference" target="bunden_fukt">bunden fukt</ref>
+      </termEntry>
+      <termEntry id="frodvuxen_ved">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frodvuxen ved</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ved med breda årsringar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fast-grown wood</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>breitringiges Holz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kasvuisa</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>nopeakasvuinen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>reheväkasvuinen puu</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frodvuxet_traed">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frodvuxet träd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">träd med påfallande breda årsringar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fast-grown tree</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>breitringiger Baum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>reheväkasvuinen puu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frost-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frost</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">iskristaller avsatta ur dimfri luft på ytor som avkyls genom utstrålning (rimfrost) eller vid dimma och köldgrader (dimfrost)</descrip>
+          </descripGrp>
+          <admin type="searchTerm">rimfrost</admin>
+          <admin type="searchTerm">dimfrost</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>hoar frost</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ground frost</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frost</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>halla</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frost-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frost</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Man skiljer efter bildningssättet på två typer av frost: dels advektionsfrost som uppkommer när en luftmassa med temperatur lägre än 0 ℃ förs in över en plats, dels strålningsfrost eller utstrålningsfrost som uppkommer under nätter med vindstilla väder och negativ nettostrålning, dvs. utgående långvågsstrålning större än den inkommande.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">lufttemperatur under 0 ℃ på standardhöjd eller på lägre höjd över marken</descrip>
+          </descripGrp>
+          <note>Man skiljer efter bildningssättet på två typer av frost: dels advektionsfrost som uppkommer när en luftmassa med temperatur lägre än 0 ℃ förs in över en plats, dels strålningsfrost eller utstrålningsfrost som uppkommer under nätter med vindstilla väder och negativ nettostrålning, dvs. utgående långvågsstrålning större än den inkommande.</note>
+          <admin type="searchTerm">negativ nettostrålning</admin>
+          <admin type="searchTerm">strålningsfrost</admin>
+          <admin type="searchTerm">utstrålningsfrost</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>air frost</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ground frost</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frost</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>halla</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="frostsumma">frostsumma</ref>
+      </termEntry>
+      <termEntry id="frostkaerna">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frostkärna</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Frostkärna förekommer framför allt hos bok.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">falsk kärna som anses ha uppkommit på grund av stark kyla</descrip>
+          </descripGrp>
+          <note>Frostkärna förekommer framför allt hos bok.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>frost-heart</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frostkern</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pakkassydänpuu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frostlist">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frostlist</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>frostkam</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">invid frostspricka bildad upphöjning av ved och bark i samband med övervallning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>frost-rib</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frostleiste</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pakkaskylestymä</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="oevervallning">övervallning</ref>
+      </termEntry>
+      <termEntry id="frostlaent_terraeng">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frostlänt terräng</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Frostlänt terräng utgörs av lågt liggande områden och områden där luften blir liggande stilla. Öppen mark är mer frostlänt än trädbevuxen mark.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>frostländig terräng</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">terräng som har ofta återkommande och svår frost</descrip>
+          </descripGrp>
+          <note>Frostlänt terräng utgörs av lågt liggande områden och områden där luften blir liggande stilla. Öppen mark är mer frostlänt än trädbevuxen mark.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>frost hole</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>frost pocket</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>frost spot</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>frostexponiertes Gelände</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>hallanaltis</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>hallalle altis maasto</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frostskada">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frostskada</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skada på planta eller träd orsakad av att temperaturen understiger fryspunkten</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>frost damage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frostschaden</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pakkastuho</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frostspricka">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frostspricka</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Frostsprickor är oftast radiellt orienterade, mera sällan följande årsringarna. Den väsentligaste orsaken till uppkomst av frostsprickor är stark kyla.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>köldspricka</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Frostsprickor är oftast radiellt orienterade, mera sällan följande årsringarna. Den väsentligaste orsaken till uppkomst av frostsprickor är stark kyla.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>frost-crack</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frostriss</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pakkashalkeama</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="frostsumma">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frostsumma</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Summan kan omfatta: dygnsmedelvärden (köldsumma), minimitemperaturer (ett värde per dygn – frostdygnsumma), timmedelvärden eller timvärden (frosttimsumma).</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">summa av lufttemperaturer som är lägre än tröskelvärdet 0 ℃</descrip>
+          </descripGrp>
+          <note>Summan kan omfatta: dygnsmedelvärden (köldsumma), minimitemperaturer (ett värde per dygn – frostdygnsumma), timmedelvärden eller timvärden (frosttimsumma).</note>
+          <admin type="searchTerm">köldsumma</admin>
+          <admin type="searchTerm">frostdygnsumma</admin>
+          <admin type="searchTerm">frosttimsumma</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>frost sum</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kältesumme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Summe der negativen Tagesmittelwerte von November bis März</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pakkassumma</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="temperatursumma">temperatursumma</ref>
+      </termEntry>
+      <termEntry id="frosttorka">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frosttorka</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Under tidig vår då marken ännu är tjälad kan frosttorka drabba den del av barr- eller bladverket som solexponeras. Den lokala uppvärmningen medför dels risk för frost på grund av stora och hastiga temperaturfall och dels risk för uttorkning. Fotooxidering till följd av stark instrålning vid låg temperatur kan också vara en del i det vi kallar frosttorka.</note>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fysiologisk skada på städsegröna växters barr eller blad orsakad av torka, frost eller båda i kombination</descrip>
+          </descripGrp>
+          <note>Under tidig vår då marken ännu är tjälad kan frosttorka drabba den del av barr- eller bladverket som solexponeras. Den lokala uppvärmningen medför dels risk för frost på grund av stora och hastiga temperaturfall och dels risk för uttorkning. Fotooxidering till följd av stark instrålning vid låg temperatur kan också vara en del i det vi kallar frosttorka.</note>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>physiological drought caused by frozen soil</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Frosttrockenheit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>roudan aiheuttama kuivuminen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fruktkropp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fruktkropp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sporbildande del hos svamp</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sporophore</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fruit-body</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fruchtkörper</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>itiöemä</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fraemre_baeryta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>främre bäryta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: hos skärlänk i skovelkedja</note>
+          </ntig>
+          <note>Domain: hos skärlänk i skovelkedja</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>toe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fraemre_handtag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>främre handtag</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: hos kedjesåg</note>
+          </ntig>
+          <note>Domain: hos kedjesåg</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>handle bar</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>vorderer Handgriff</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>etukädensija</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fraemre_inre_frigaangsvinkel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>främre inre frigångsvinkel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>front inner ground clearance angle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>lähestymiskulma</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fraemre_yttre_frigaangsvinkel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>främre yttre frigångsvinkel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>approach angle</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>angle of approach</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>edessä oleva ylityskulma</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fraesning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fräsning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bearbetning genom avskiljande av spån med hjälp av verktyg, fräs, i princip format som en tandad rotationskropp, varvid verktyget roterar kring egen axel och, vid invändig bearbetning, arbetsytans axel inte sammanfaller med skärrörelsens axel</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>routing</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>jyrsiminen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="froebank">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fröbank</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">frö som av olika anledningar inte har grott och som vilande finns kvar i jorden flera år och inväntar lämpligt tillfälle för att etablera sig</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>dormant seed</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>non-germinated seed</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="froebaedd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fröbädd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>såddbädd</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tillrett underlag på vilket frö utsås</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>seed bed</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Saatbett</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kylvölava</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="grobaedd">grobädd</ref>
+      </termEntry>
+      <termEntry id="froeplantage">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fröplantage</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">plantering bestående av enligt bedömning eller prov genetiskt förstklassiga träd, anlagd och behandlad med sikte på fröproduktion och förädling</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>seed orchard</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Samenplantage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>siemenviljelys</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="froesaettning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frösättning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">frötillgång på växande träd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>seed production</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Samenproduktion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>siemenenteko</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="froetraed">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fröträd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Fröträden har i klassisk skogsskötsel två primära uppgifter: att ge frö och hålla tillbaka markvegetation.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">träd vars fröproduktion får ge upphov till naturlig föryngring</descrip>
+          </descripGrp>
+          <note>Fröträden har i klassisk skogsskötsel två primära uppgifter: att ge frö och hålla tillbaka markvegetation.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>seed tree</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Samenbaum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>siemenpuu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="froetraedsstaellning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fröträdsställning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">grupp av fröträd som har lämnats kvar på föryngringsyta</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>stand of seed trees</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>mother trees</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>seed-bearers</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Samenschlagstellung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>siemenpuuasento</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="skaermstaellning">skärmställning</ref>
+        <ref type="crossReference" target="timmerstaellning">timmerställning</ref>
+      </termEntry>
+      <termEntry id="froetaektsklass">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>frötäktsklass</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">klass vid indelning av skogsbestånd med avseende på lämplighet för frötäkt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>category of seed stands</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>anerkanter Saatgutbestand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>siemenkeräysluokka</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="froeaar">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fröår</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">år under vilket en viss växtart producerar osedvanligt mycket frö</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>seed year</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Samenjahr</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>siemenvuosi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kottaar">kottår</ref>
+      </termEntry>
+      <termEntry id="fukthalt-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fukthalt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: hos trä</note>
+            <note>Fukthalt anges vanligen i procent.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>massfukthalt</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Domain: hos trä</note>
+          <descripGrp>
+            <descrip type="definition">kvot av vattnets massa i fuktigt material och massan av materialet i fuktigt tillstånd</descrip>
+          </descripGrp>
+          <note>Fukthalt anges vanligen i procent.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moisture content by green basis</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuchtigkeitsgehalt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Wassergehalt</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kosteus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fuktkvot">fuktkvot</ref>
+        <ref type="crossReference" target="torrhalt">torrhalt</ref>
+      </termEntry>
+      <termEntry id="fukthalt-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fukthalt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: hos andra material än trä</note>
+            <note>Fukthalt anges i kilogram per kubikmeter.</note>
+          </ntig>
+          <note>Domain: hos andra material än trä</note>
+          <descripGrp>
+            <descrip type="definition">kvot av vattnets massa i fuktigt material och materialets totala volym</descrip>
+          </descripGrp>
+          <note>Fukthalt anges i kilogram per kubikmeter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moisture content</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuchtigkeitsgehalt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Wassergehalt</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fuktig_ekbraeken-ristyp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktig ekbräken-ristyp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning: bottenskikt av skogsmossor och vitmossor; fältskikt av ris, blåbär (Vaccinium myrtillus), odon (Vaccinium uliginosum), ekbräken (Lastrea dryopteris), skogsfräken (Equisetum silvaticum) m.m.; trädskikt av gran (Picea abies) lokalt även glasbjörk (Betula pubescens) m.fl. lövträd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moist dwarf-shrub type with Dryopteris</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kostea metsäimarre-varpuinen tyyppi</term>
+            </termGrp>
+            <termNote type="geographicalUsage">SE</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fuktig_ristyp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktig ristyp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+            <note>Fuktig ristyp är en vanlig och vitt utbredd skogstyp.</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning: bottenskikt av skogsmossor (Hylocomium splendens, Dicranum undulatum m.fl.), vitmossor (Sphagnum girgensohnii och robustum) eller björnmossor (Polytrichum commune), fältskikt av dominerande ris (blåbär (Vaccinum myrtillus), lingon (Vaccinium vitis-idaea), odon (Vaccinium uliginosum) m.fl.), stundom skogsfräken (Equisetum silvaticum) och starr (Carices); trädskikt av gran (Picea abies), lokalt även tall (Pinus silvestris) med lövträdsinslag företrädesvis av glasbjörk (Betula pubescens)</descrip>
+          </descripGrp>
+          <note>Fuktig ristyp är en vanlig och vitt utbredd skogstyp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moist dwarf-shrub type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kostea varpuinen tyyppi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fuktig_oert-ristyp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktig ört-ristyp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+            <note>Fuktig ört-ristyp är särskilt vanlig i vissa trakter av Norrland.</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning: bottenskikt med gles matta av skogsmossor (Thuidium tamariscinum, Brachythecium spp., Climacium m.fl.), Mnium-arter m.m.; fältskikt med ris, högörter (magnoherbider), högvuxna gräs (magnograminider) och stora ormbunkar (magnofilicider); trädskikt av huvudsakligen gran (Picea abies) med lövträdsinslag företrädesvis glasbjörk (Betula pubescens) och asp (Populus tremula)</descrip>
+          </descripGrp>
+          <note>Fuktig ört-ristyp är särskilt vanlig i vissa trakter av Norrland.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moist dwarf-shrub type with tall herbs</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kostea ruoho-varpuinen tyyppi</term>
+            </termGrp>
+            <termNote type="geographicalUsage">SE</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fuktig_oerttyp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktig örttyp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i Eneroth-Arnborgska systemet</note>
+            <note>Fuktig örttyp är en särskilt i vissa trakter av Norrland vanlig ängsskogstyp.</note>
+          </ntig>
+          <note>Domain: i Eneroth-Arnborgska systemet</note>
+          <descripGrp>
+            <descrip type="definition">skogstyp med följande sammansättning: bottenskikt glest med Mnium-arter m.m.; fältskikt med ängsörter, särskilt högörter (magnoherbider), t.ex. stormhatt (Aconitum), torta (Lactuca alpina), älggräs (Filipendula ulmaria), brudborste (Cirsium heterophyllum), även stora ormbunkar (magnofilicider); trädskikt av gran (Picea abies), lokalt rikligt med lövträd, t.ex. glasbjörk (Betula pubescens), gråal (Alnus incana) och asp (Populus tremula)</descrip>
+          </descripGrp>
+          <note>Fuktig örttyp är en särskilt i vissa trakter av Norrland vanlig ängsskogstyp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moist tall-herb type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kostea ruohotyyppi</term>
+            </termGrp>
+            <termNote type="geographicalUsage">SE</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fuktjaemvikt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktjämvikt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tillstånd hos material då det befinner sig i jämvikt med omgivande fuktig luft</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moisture equilibrium</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuchtigkeitsgleichgewicht</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gesetzmäßige Angleichung der Holzfeuchtigkeit an die Feuchtigkeit der umgebenden Luft</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kosteustasapaino</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fuktkvot">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktkvot</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: hos trä</note>
+          </ntig>
+          <note>Domain: hos trä</note>
+          <descripGrp>
+            <descrip type="definition">kvot av vattnets massa i ett material och torrsubstansens massa</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moisture content</term>
+            </termGrp>
+            <termNote type="usageNote">by dry basis</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>moisture ratio</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuchtigkeitsgehalt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>suhteellinen kosteus</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>kosteussuhde</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fukthalt-1">fukthalt</ref>
+        <ref type="crossReference" target="torrhalt">torrhalt</ref>
+      </termEntry>
+      <termEntry id="fuktkvotsgradient">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktkvotsgradient</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>T.ex. vid torkning blir det lägre fuktkvot vid ytan än längre in i virket.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fuktkvotens förändring per längdenhet i ett tvärstycke från det inre till ytan</descrip>
+          </descripGrp>
+          <note>T.ex. vid torkning blir det lägre fuktkvot vid ytan än längre in i virket.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moisture gradient</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuchtegradient</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kosteussuhdegradientti</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fuktkvotsmaetare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fuktkvotsmätare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En fuktkvotsmätare mäter oftast vedens elektriska motstånd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">apparat för mätning av fuktkvot</descrip>
+          </descripGrp>
+          <note>En fuktkvotsmätare mäter oftast vedens elektriska motstånd.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moisture content meter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuchtigkeitsmesser</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kosteussuhdemittari</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fullskiktad_skog">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fullskiktad skog</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Alla höjdklasser innefattar allt från små plantor upp till stora träd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skog som till alla delar består av träd i alla höjdklasser utan tydlig avgränsning mellan olika höjdskikt och utan markerat krontak</descrip>
+          </descripGrp>
+          <note>Alla höjdklasser innefattar allt från små plantor upp till stora träd.</note>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>vielschichtiger Waldaufbau</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>stufiger Waldaufbau</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fullstaendig_foervandling">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fullständig förvandling</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Fullständig förvandling förekommer hos t.ex. fjärilar och skalbaggar.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>holometabol metamorfos</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utveckling hos insekt kännetecknad av att ett puppstadium inskjutits mellan sista larvstadiet och den fullbildade insekten</descrip>
+          </descripGrp>
+          <note>Fullständig förvandling förekommer hos t.ex. fjärilar och skalbaggar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>complete metamorphosis</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>indirect metamorphosis</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>vollkommene Verwandlung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Holometabolie</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">größere Abwandlung der Gestalt und der Lebeweise eines Tieres während seiner Einzelentwicklung, besonders bei Insekten (Larve-Puppe-Imago)</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>täydellinen metamorfoosi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="ofullstaendig_foervandling">ofullständig förvandling</ref>
+        <ref type="crossReference" target="metamorfos">metamorfos</ref>
+      </termEntry>
+      <termEntry id="fungicid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fungicid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-si'd</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ämne med förmåga att döda svampsporer och svampmycel</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fungicide</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fungizid</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>fungisidi</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sienihävite</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="biocid">biocid</ref>
+        <ref type="crossReference" target="herbicid">herbicid</ref>
+      </termEntry>
+      <termEntry id="fungistatisk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fungistatisk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">som har hämmande men inte dödande verkan på myceltillväxten hos svampar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fungistatic</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>fungistaattinen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="funktionellt_bestaand">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>funktionellt bestånd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">trädbestånd som är enhetligt med avseende på en viss djur- och växtarts behov</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>functional stand</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>funktionaalinen metsikkö</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="funktionskontroll">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>funktionskontroll</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: av virkesmätning</note>
+            <note>Kontrollobjekt uttas slumpvis.</note>
+            <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+          </ntig>
+          <note>Domain: av virkesmätning</note>
+          <descripGrp>
+            <descrip type="definition">kontroll av hur mätningsverksamhet fungerar</descrip>
+          </descripGrp>
+          <note>Kontrollobjekt uttas slumpvis.</note>
+          <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>checking of wood measurement</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Maßkontrolle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tarkistusmittaus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kompetenskontroll">kompetenskontroll</ref>
+      </termEntry>
+      <termEntry id="furuvirke">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>furuvirke</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>furu</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">virke av tall</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pine wood</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kiefernholz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>mäntypuu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fylljord">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fylljord</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mineraljord e.d. som upptagits och transporterats till planteringsgrop för att packas runt plantans rötter</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>soil filling for planting holes</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>täytemaa</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fyllning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fyllning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jord eller annat material som uttagits eller tippats inom ett område</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fill</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>borrow fill</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Auffüllung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>täytemaa</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>täyte</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fylogeni">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fylogeni</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-jeni'</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>härstamningslära</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vetenskapen om organismernas utveckling från tidigare existerande typer</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>phylogeny</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Phylogenie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">stammesgeschichtliche Entwicklung der Lebewesen und die Entstehung der Arten im Laufe der Erdgeschichte</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>fylogenia</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="ontogeni">ontogeni</ref>
+      </termEntry>
+      <termEntry id="fyrhjulsstyrning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fyrhjulsstyrning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">styrning vid vilken fordons framhjul och bakhjul samtidigt medelst axeltappstyrning kan vridas (i regel åt motsatt håll)</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>four-wheel steering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Vierradlenkung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Vierradsteuerung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>nelipyöräohjaus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fyrsaagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fyrsågning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Fyrsågning bör inte benämnas fyrskärning.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fyrskärning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sågning som innefattar block- och delningssågning</descrip>
+          </descripGrp>
+          <note>Fyrsågning bör inte benämnas fyrskärning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>square sawing</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Vorschneiden</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Vormodeln</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>nelisahaus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fysiologi">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fysiologi</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vetenskapen om organismernas livsprocesser</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>physiology</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Physiologie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">die Wissenschaft von den Lebensvorgängen der Zellen, Gewebe und Organe und von den Gesetzen ihrer Verknüpfung im Gesamtorganismus</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>fysiologia</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>elintoimintaoppi</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fysiologisk_skada">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fysiologisk skada</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på fysiologisk skada är insektslarvers kalätning av träd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skada som verkar menligt på en organisms livsfunktioner</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på fysiologisk skada är insektslarvers kalätning av träd.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>physiological damage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>physiologischer Schaden an Bäumen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>fysiologinen vaurio</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fytotron">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fytotron</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-å'n</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">klimatkammaranläggning där växter odlas i reglerad miljö</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>phytotron</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Phytotron</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Gruppe von Klimakammern für pflanzenphysiologische Versuche, bei denen u.a. Lufttemperatur, Luftfeuchte, Licht, windgeschwindigkeit, CO2-Gehalt der Luft, Bodentemperatur gesteuert werden</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="faagelvaeg">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fågelväg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kortaste väg oavsett framkomstmöjlighet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>straight line distance</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Luftlinie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>linnuntie</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faangstklamp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fångstklamp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Fångstklamp kan även ligga på marken, varvid den täcks med ris eller mossa.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">stambit av tall eller gran nedgrävd i mark för att locka vissa skadeinsekter, såsom snytbaggar</descrip>
+          </descripGrp>
+          <note>Fångstklamp kan även ligga på marken, varvid den täcks med ris eller mossa.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>trap billet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fangknüppel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pyyntipalikka</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faangsttraed">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fångstträd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">avverkat, obarkat träd avsett att locka till sig svärmande insekter, såsom barkborrar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>trap tree</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fangbaum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pyyntipuu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faeladsmark">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fäladsmark</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>enefälad</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fälad</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skoglös, oftast enbevuxen, ej uppodlad betesallmänning</descrip>
+          </descripGrp>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>grazing land with juniper bushes</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wacholderheide</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>yhteislaidun</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>yhteismaa</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Fällare kan bestå av följande funktionskombinationer:- fällare-läggare- fällare-lunnare- fällare-skotare.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skogsavverkningsmaskin som fäller träd</descrip>
+          </descripGrp>
+          <note>Fällare kan bestå av följande funktionskombinationer:- fällare-läggare- fällare-lunnare- fällare-skotare.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling machine</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>feller</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fäller</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Fällmaschine</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaatokone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellare-kapare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällare-kapare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skogsavverkningsmaskin som fäller och kapar träd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>feller-bucker</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fäll-Ablängmaschine</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaato-katkontakone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellare-kvistare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällare-kvistare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skördare som fäller och kvistar träd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>feller-limber</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rohschaft-Vollernter</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaato-karsimakone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellare-lunnare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällare-lunnare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skogsavverkningsmaskin som förutom att fälla träden också lunnar dem till stickväg eller avlägg</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>feller-skidder</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fäll-Rückemaschine</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaato-juontokone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellare-laeggare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällare-läggare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Träden läggs i bunt, med eller utan änddragning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skogsavverkningsmaskin som förutom att fälla träden också flyttar dem med kran till önskat läge</descrip>
+          </descripGrp>
+          <note>Träden läggs i bunt, med eller utan änddragning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>feller-buncher</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fäll-Ablegemaschine</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaato-kasauskone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellare-skotare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällare-skotare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skogsavverkningsmaskin som förutom att fälla träden också skotar dem till stickväg eller avlägg</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>feller-forwarder</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaato-juontokone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellbar_laststoetta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällbar laststötta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fällbar stötta</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">laststötta som medelst gångjärnsliknande konstruktion kan fällas utåt från banke</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>hinged stake</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>auslösbare Strebe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>laukaistava kuormatuki</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellbark">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällbark</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Fällbark förekommer t.ex. på gran och på övre delen av tallstammar.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fjällbark</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jämförelsevis tunn barkvävnad som successivt avstöter flagor utåt</descrip>
+          </descripGrp>
+          <note>Fällbark förekommer t.ex. på gran och på övre delen av tallstammar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flake bark</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>hilsekuori</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faelldon">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fälldon</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fällhuvud</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">don för avskiljande av träd vid fällning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling head</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>felling device</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fällvorrichtung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaatolaite</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellkam">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällkam</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kam som vid fällning av träd uppstår på stocken eller stubben när fällskäret anbragts högt eller lågt i förhållande till riktskäret</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling comb</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bruchleiste</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>lippa</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brytmaan">brytmån</ref>
+      </termEntry>
+      <termEntry id="faellkil">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällkil</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kil som anbringas i fällskär för att tvinga trädet i fällningsriktningen och för att hindra knip</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling wedge</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fällkeil</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaatokiila</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellklippdon">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällklippdon</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling shear</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fällschere</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Baumschere</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skiljande av rotstående träd från dess rot eller annat sätt att få det att falla</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fällen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaato</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="faellskaer">fällskär</ref>
+      </termEntry>
+      <termEntry id="faellningsriktning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällningsriktning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fällriktning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">riktning i vilken man avser att fälla träd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>direction of felling</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fällrichtung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaatosuunta</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fallriktning">fallriktning</ref>
+      </termEntry>
+      <termEntry id="faellningsskada">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällningsskada</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fällskada</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skada som vid träds fällande åsamkas annat träd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling damage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fällungsschaden</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faellningstransport">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällningstransport</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">transportarbete varvid trädets tyngdpunkt vid fällning förflyttas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling transport</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fallbewegung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaatokuljetus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="riktad_faellning">riktad fällning</ref>
+      </termEntry>
+      <termEntry id="faellskaer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällskär</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fällsnitt</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling cut</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>main cut</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fällschnitt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaatoleikkaus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="faellsaagning">fällsågning</ref>
+        <ref type="crossReference" target="kapskaer">kapskär</ref>
+        <ref type="crossReference" target="saagskaer">sågskär</ref>
+      </termEntry>
+      <termEntry id="faellsaagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fällsågning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sågning av fällskär</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>felling with saw</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Durchführen des Fällschnittes</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaatosahaus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faeltfaagel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fältfågel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på fältfågel är fasan och rapphöna.</note>
+            <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jaktbar fågel som lever på öppen mark</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på fältfågel är fasan och rapphöna.</descrip>
+          </descripGrp>
+          <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>im Feld lebende jagdbare Vögel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>peltoriistalintu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faeltkapacitet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fältkapacitet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">volym vatten som kvarhålls i jord eller berg efter fri dränering</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>field capacity</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feldkapazität</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kenttäkapasiteetti</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="vattenhaallningstal">vattenhållningstal</ref>
+      </termEntry>
+      <termEntry id="faeltskikt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fältskikt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I regel räknas växter av storlek alltifrån Linnaea till Aconitum till fältskiktet.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vegetationsskikt som utgörs av örter (herbider), gräs och gräsartade växter (graminider) och risartade vedväxter (dvärgbuskar) samt ungplantor av träd och buskar</descrip>
+          </descripGrp>
+          <note>I regel räknas växter av storlek alltifrån Linnaea till Aconitum till fältskiktet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>field layer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Krautschicht</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kenttäkerros</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faeltvilt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fältvilt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på fältvilt är hare och fältfågel.</note>
+            <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jaktbar art som lever på öppen mark</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på fältvilt är hare och fältfågel.</descrip>
+          </descripGrp>
+          <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>field game</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>upland game</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>im Feld lebendes jagdbares Wild</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>peltoriista</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faerdvaegsersaettning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>färdvägsersättning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Färdvägsersättning regleras ofta i kollektivavtal.</note>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ersättning för färd med fordon för daglig förflyttning mellan bostad eller förläggning och arbetsplats</descrip>
+          </descripGrp>
+          <note>Färdvägsersättning regleras ofta i kollektivavtal.</note>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>travel allowance for commuting</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fahrkostenerstattung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>matkakorvaus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="faergmaerkning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>färgmärkning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anbringning av färgmärke i stockändar för att underlätta senare sortering</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="faerskflis">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>färskflis</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Färskflis kan innehålla barr och bark.Färskflis bör inte benämnas grönflis.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>färsk flis</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>grönflis</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">färsk flisad träråvara</descrip>
+          </descripGrp>
+          <note>Färskflis kan innehålla barr och bark.Färskflis bör inte benämnas grönflis.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>chips of new wood material</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>frische Hackschnitzel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tuorehake</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

@@ -1,0 +1,1902 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Terminologicentrum TNC: Energiordlista | 1984</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="vaermeenergibehov">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeenergibehov</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: för värmepump</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>värmebehov</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Domain: för värmepump</note>
+          <descripGrp>
+            <descrip type="definition">erforderlig tillförsel av energi för att önskad temperatur skall kunna hållas i en byggnad och för beredning av varmvatten och värmevatten</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat requirements</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>thermal needs</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmebedarf</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>besoins thermiques</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmebehov</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmeenergibehov</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bruttoenergi">bruttoenergi</ref>
+        <ref type="crossReference" target="nettoenergi">nettoenergi</ref>
+      </termEntry>
+      <termEntry id="vaermefaktor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmefaktor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">faktor som anger en värmepumps effektivitet, beräknad såsom kvoten av avgiven energi och tillförd drivenergi</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>coefficient of performance</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>COP</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Leistungszahl</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>coefficient de performance</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>COP</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmefaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmefaktor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermefoerlust">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeförlust</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">icke nyttiggjord värme från ett visst system</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat loss</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeverlust</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>déperdition de chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>perte de chaleur</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmetab</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmetap</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermefoersoerjningsplan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeförsörjningsplan</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">plan som beskriver hur uppvärmningen av samtliga byggnader i en kommun bör ombesörjas, med avseende på såväl uppvärmningssystem som energislag</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="energiplan">energiplan</ref>
+      </termEntry>
+      <termEntry id="vaermeisolering-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeisolering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">minskning av värmeöverföring med hjälp av material som reflekterar värmestrålning eller har låg värmeledningsförmåga</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thermal insulation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeisolierung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Wärmedämmung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Wärmeisolation</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>isolation thermique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmeisolering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmeisolering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermeisolering-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeisolering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">material som ingår i en konstruktion och vars primära uppgift är att minska värmeöverföring</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thermal insulation material</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Dämmstoff</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Isoliermaterial</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>matérial d'isolation thermique</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>isolant thermique</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmeisolationsmateriale</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>varmeisolation</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>varmeisolering</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>varmeisoleringsmateriale</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmeisolering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermekapacitet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmekapacitet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">storhet som anger hur mycket energi en massa tar upp, beräknad såsom kvoten av energiinnehållsändring och temperaturändring</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat capacity</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>thermal capacity</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmekapazität</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>capacité calorifique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>capacité thermique</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmekapacitet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmekapasitet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermelagring">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmelagring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Värmelagring kan ske genom temperaturändring, genom fasomvandling eller genom ändring av kemisk sammansättning.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>värmeackumulering</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energilagring i form av ökning av ett materials eller ett ämnes energiinnehåll genom tillförsel av värme</descrip>
+          </descripGrp>
+          <note>Värmelagring kan ske genom temperaturändring, genom fasomvandling eller genom ändring av kemisk sammansättning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat storage</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>thermal storage</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmespeicherung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>accumulation de chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>stockage de chaleur</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmelagring</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>varmeakkumulering</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmelagring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermelagringsmassa">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmelagringsmassa</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Materialet kan vara t.ex. byggnadsmaterial, i byggnaden lagrade varor och inredning eller material särskilt avsett för värmelagring.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>termisk massa</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">material som kan användas för värmelagring</descrip>
+          </descripGrp>
+          <note>Materialet kan vara t.ex. byggnadsmaterial, i byggnaden lagrade varor och inredning eller material särskilt avsett för värmelagring.</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermeledning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeledning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmetransport i ett medium (gas, vätska eller fast kropp) genom molekylrörelser i mediet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat conduction</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>thermal conduction</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeleitung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>conduction thermique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmeledning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmeledning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="elektromagnetisk_straalning">elektromagnetisk strålning</ref>
+        <ref type="crossReference" target="konvektion">konvektion</ref>
+      </termEntry>
+      <termEntry id="vaermemotor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmemotor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">motor i vilken värme omvandlas till arbete</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat engine</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>thermal engine</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmemotor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>moteur thermique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>termisk motor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>termisk motor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="foerbraenningsmotor">förbränningsmotor</ref>
+        <ref type="crossReference" target="generator">generator</ref>
+      </termEntry>
+      <termEntry id="vaermepump">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmepump</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En värmepump består ofta av förångare, kompressor och kondensor och drivenergin tillförs ofta genom kompressorn.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">maskin som via ett köldmedium transporterar värme från en källa, t.ex. uteluft, till en värmebärare med högre temperatur än källan, t.ex. varmluft</descrip>
+          </descripGrp>
+          <note>En värmepump består ofta av förångare, kompressor och kondensor och drivenergin tillförs ofta genom kompressorn.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat pump</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmepumpe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pompe à chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmepumpe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmepumpe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="absorptionsvaermepump">absorptionsvärmepump</ref>
+        <ref type="crossReference" target="vaermefaktor">värmefaktor</ref>
+        <ref type="crossReference" target="vaermepumpsprocess">värmepumpsprocess</ref>
+      </termEntry>
+      <termEntry id="vaermepumpsprocess">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmepumpsprocess</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För beskrivning av värmepumpsprocessens prestationsförmåga anges vanligen en värmefaktor.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">termodynamisk cirkelprocess med huvudsaklig uppgift att producera användbar värme genom upptagande av värme från ett medium med låg temperatur, t.ex. uteluft, och avlämnande av upptagen värme jämte den till värme omvandlade drivenergin till ett medium med högre temperatur, t.ex. rumsluft</descrip>
+          </descripGrp>
+          <note>För beskrivning av värmepumpsprocessens prestationsförmåga anges vanligen en värmefaktor.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat pump process</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmepumpenprozess</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmepumpeprosess</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="vaermepump">värmepump</ref>
+      </termEntry>
+      <termEntry id="vaermetaethet-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmetäthet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Värmetäthet kan uppnås med motflödesisolering.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">egenskap som innebär att ingen värme passerar en gränsyta eller en vägg</descrip>
+          </descripGrp>
+          <note>Värmetäthet kan uppnås med motflödesisolering.</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermetaethet-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmetäthet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>värmebelastningstäthet</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">storhet för värmeanvändning, bestämd som kvoten av värmeanvändning och area och tid inom ett markområde</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat consumption density</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeverbrauchsdichte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>densité de consommation de chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmetetthet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="energitaethet">energitäthet</ref>
+      </termEntry>
+      <termEntry id="vaermevatten">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmevatten</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Enligt Ångkärlsnormerna 1971 benämnes värmevatten med en temperatur högre än 120 ℃ hetvatten, och värmevatten med lägre temperatur varmvatten.Märk att termen varmvatten inom VVS-tekniken har en annan betydelse.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vatten använt som värmebärare</descrip>
+          </descripGrp>
+          <note>Enligt Ångkärlsnormerna 1971 benämnes värmevatten med en temperatur högre än 120 ℃ hetvatten, och värmevatten med lägre temperatur varmvatten.Märk att termen varmvatten inom VVS-tekniken har en annan betydelse.</note>
+        </langSet>
+        <ref type="see" target="varmvatten">varmvatten</ref>
+      </termEntry>
+      <termEntry id="vaermevattenackumulator">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmevattenackumulator</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Ackumulatorn är vanligen utformad som en vertikal cylinder. Vid låg belastning på distributionsnätet fylls ackumulatorn med hett vatten, vid hög belastning pumpas det lagrade värmevattnet ut i nätet och ersätts med kallare returvatten.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ackumulator bestående av tryckkärl för lagring av värmevatten, anslutet till ett distributionsnät, t.ex. fjärrvärmenät</descrip>
+          </descripGrp>
+          <note>Ackumulatorn är vanligen utformad som en vertikal cylinder. Vid låg belastning på distributionsnätet fylls ackumulatorn med hett vatten, vid hög belastning pumpas det lagrade värmevattnet ut i nätet och ersätts med kallare returvatten.</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermevattendistribution">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmevattendistribution</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Normalt transporteras värmevattnet i ett primärsystem till en undercentral, från vilken det distribueras i ett sekundärsystem – till de slutliga användarna.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmedistribution till användare genom transport av värmevatten, vanligen via rörnät</descrip>
+          </descripGrp>
+          <note>Normalt transporteras värmevattnet i ett primärsystem till en undercentral, från vilken det distribueras i ett sekundärsystem – till de slutliga användarna.</note>
+        </langSet>
+        <ref type="crossReference" target="fjaerrvaermenaet">fjärrvärmenät</ref>
+      </termEntry>
+      <termEntry id="vaermeverk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeverk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I vissa fall avses enbart anläggningen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">företag eller förvaltningsenhet med tillhörande anläggningar för produktion och distribution av värme</descrip>
+          </descripGrp>
+          <note>I vissa fall avses enbart anläggningen.</note>
+        </langSet>
+        <ref type="crossReference" target="vaermecentral">värmecentral</ref>
+      </termEntry>
+      <termEntry id="vaermevaerde">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmevärde</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energimängd som frigörs vid fullständig förbränning av t.ex. ett bränsle, angivet som kvoten av frigjord energi och massa eller volym</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>calorific value</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>heat value</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>heating value</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Heizwert</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pouvoir calorifique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>brændværdi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>brennverdi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="effektivt_vaermevaerde">effektivt värmevärde</ref>
+        <ref type="crossReference" target="kalorimetriskt_vaermevaerde">kalorimetriskt värmevärde</ref>
+      </termEntry>
+      <termEntry id="vaermevaexlare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeväxlare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Värmeväxlare kan användas till både värmning och kylning.Avgaspannor, förångare, kondensorer, konvektorer, radiatorer och strålningsvärmare är värmeväxlare.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">apparat för värmeöverföring från ett medium till ett annat</descrip>
+          </descripGrp>
+          <note>Värmeväxlare kan användas till både värmning och kylning.Avgaspannor, förångare, kondensorer, konvektorer, radiatorer och strålningsvärmare är värmeväxlare.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat exchanger</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeaustauscher</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>échangeur de chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmeveksler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmeveksler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="regenerativ_vaermevaexlare">regenerativ värmeväxlare</ref>
+        <ref type="crossReference" target="rekuperativ_vaermevaexlare">rekuperativ värmeväxlare</ref>
+      </termEntry>
+      <termEntry id="vaermeaatervinning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeåtervinning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energiåtervinning av värme</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat recovery</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmerückgewinnung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>récupération de chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>regain de chaleur</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmegenvinding</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmegjenvinning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermeoe">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeö</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">geografiskt område med högre temperatur än omgivningens, beroende på t.ex. tätbebyggelse</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat island</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeinsel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>île de chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermeoeverfoering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeöverföring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>värmetransmission</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmeledning, konvektion eller värmestrålning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat transfer</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>heat transmission</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>thermal transmission</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeübertragung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>transfert de chaleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>transmission de chaleur</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>varmeoverføring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmeoverføring</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="energioeverfoering">energiöverföring</ref>
+      </termEntry>
+      <termEntry id="vaermeoeverskott">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmeöverskott</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Överskottet kan som resultat ge högre rumstemperatur än den önskade.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmeeffekt, avgiven i byggnad eller process, som överstiger önskad eller behövlig effekt för att täcka värmeenergibehov</descrip>
+          </descripGrp>
+          <note>Överskottet kan som resultat ge högre rumstemperatur än den önskade.</note>
+        </langSet>
+        <ref type="crossReference" target="gratisvaerme">gratisvärme</ref>
+      </termEntry>
+      <termEntry id="vaermning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Inom byggnadstekniken är termen uppvärmning den mest använda, medan den allmänt använda termen är värmning.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>uppvärmning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tillförsel av värme för att höja eller bibehålla temperatur i förhållande till omgivningen eller för att ändra en kemisk konfiguration</descrip>
+          </descripGrp>
+          <note>Inom byggnadstekniken är termen uppvärmning den mest använda, medan den allmänt använda termen är värmning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heating</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Heizung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>chauffage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>opvarmning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>oppvarming</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kylning">kylning</ref>
+        <ref type="crossReference" target="varmhaallning">varmhållning</ref>
+      </termEntry>
+      <termEntry id="vaermningsugn">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmningsugn</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ugn för värmning av material som skall undergå värmebehandling eller varmbearbetning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heating furnace</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeofen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>four</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>varmeovn</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaexelstroem">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>växelström</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">elektrisk ström för vilken elektronflödets riktning omkastas, vanligen periodiskt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>alternating current</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wechselstrom</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>courant alternatif</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>vekselstrøm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>vekselstrøm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="likstroem">likström</ref>
+      </termEntry>
+      <termEntry id="ytjordvaerme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ytjordvärme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För användning av ytjordvärme finns vertikala eller horisontella jordvärmesystem.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värme som är lagrad i markens ytskikt</descrip>
+          </descripGrp>
+          <note>För användning av ytjordvärme finns vertikala eller horisontella jordvärmesystem.</note>
+        </langSet>
+        <ref type="crossReference" target="djupjordvaerme">djupjordvärme</ref>
+        <ref type="crossReference" target="jordvaerme">jordvärme</ref>
+      </termEntry>
+      <termEntry id="aangpanna">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ångpanna</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tryckkärl i vilket vatten upphettas och bildar ånga under tryck</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>steam boiler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Dampfkessel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>chaudière à vapeur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>dampkedel</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>dampkjel</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="panna">panna</ref>
+        <ref type="crossReference" target="vaermepanna">värmepanna</ref>
+      </termEntry>
+      <termEntry id="aanganlaeggning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ånganläggning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anläggning med installationer, t.ex. ångpannor, vattenreningsutrustning och pumpar, avsedd för produktion av ånga</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>steam generating plant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Dampferzeugungsanlage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>usine génératrice de vapeur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aangbildningsvaerme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ångbildningsvärme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vid kondensation av ånga avges till omgivningen lika mycket värme, kondensationsvärme, som vätskan upptagit vid förångning (om temperatur och tryck är desamma).</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">latent värme som upptas av en vätska när den förångas</descrip>
+          </descripGrp>
+          <note>Vid kondensation av ånga avges till omgivningen lika mycket värme, kondensationsvärme, som vätskan upptagit vid förångning (om temperatur och tryck är desamma).</note>
+          <admin type="searchTerm">kondensationsvärme</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat of vaporization</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Verdampfungswärme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>chaleur de vaporisation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>fordampningsvarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>fordampningsvarme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aangkol">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ångkol</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kol (2)  som huvudsakligen används för eldning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>steam coal</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kraftwerkskohle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Dampfkohle</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Kesselkohle</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>charbon vapeur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>charbon de chaudière</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>dampkul</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>fyringskull</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kokskol">kokskol</ref>
+      </termEntry>
+      <termEntry id="aangtrycksbraennare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ångtrycksbrännare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">oljebrännare med munstycke genom vilket eldningsoljan finfördelas och insprutas i eldstaden med hjälp av ånga under tryck</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="tryckluftsbraennare">tryckluftsbrännare</ref>
+      </termEntry>
+      <termEntry id="aarsmedelverkningsgrad">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>årsmedelverkningsgrad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Årsmedelverkningsgrad kan anges för t.ex. oljeeldad värmepanna eller värmeväxlare för värmeåtervinning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">verkningsgrad för system, maskin, apparat o.d. baserad på beräknade eller konstaterade driftdata för ett helt år</descrip>
+          </descripGrp>
+          <note>Årsmedelverkningsgrad kan anges för t.ex. oljeeldad värmepanna eller värmeväxlare för värmeåtervinning.</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="aateranvaendning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återanvändning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>återbruk</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">nyttiggörande av avfall och annat material, i befintligt skick som blivit över i process eller konsumtion</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reuse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wiederverwendung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réemploi</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>genbrug</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>ombruk</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aatervinning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återvinning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Återvinning kan med hänsyn till restproduktens omvandling indelas i återanvändning, materialåtervinning och energiutvinning.Med förleder specificeras det material som återvinns: gummi-, kemikalie-, lackåtervinning, etc.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">nyttiggörande av avfall och andra restprodukter</descrip>
+          </descripGrp>
+          <note>Återvinning kan med hänsyn till restproduktens omvandling indelas i återanvändning, materialåtervinning och energiutvinning.Med förleder specificeras det material som återvinns: gummi-, kemikalie-, lackåtervinning, etc.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>recovery</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rückgewinnung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>récupération</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>genanvendelse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>gjenvinning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="energiaatervinning">energiåtervinning</ref>
+      </termEntry>
+      <termEntry id="aatervinningsanlaeggning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återvinningsanläggning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anläggning där avfall omvandlas till råvaror för industriproduktion</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="aatervinningsanpassad_produkt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återvinningsanpassad produkt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">produkt med utförande som underlättar återvinning</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="aatervinningsgrad">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återvinningsgrad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kvot av uppnådd återvinning och teoretiskt möjlig återvinning</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="verkningsgrad">verkningsgrad</ref>
+      </termEntry>
+      <termEntry id="aendlig_energikaella">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ändlig energikälla</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Som ändliga energikällor räknas t.ex. petroleum, kol (2) , torv, naturgas samt uran.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energikälla som inte reproduceras i samma takt som den utnyttjas</descrip>
+          </descripGrp>
+          <note>Som ändliga energikällor räknas t.ex. petroleum, kol (2) , torv, naturgas samt uran.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>non-renewable energy</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>hard energy</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>nicht regenerative Energiequelle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>énergie dure</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>hård energi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>lagret energiressurs</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ikke fornybar energiressurs</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="foernybar_energikaella">förnybar energikälla</ref>
+        <ref type="crossReference" target="obegraensad_energikaella">obegränsad energikälla</ref>
+      </termEntry>
+      <termEntry id="oeverfoeringsfoerlust">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överföringsförlust</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">differens mellan den energi som tillförs ett distributionssystem och den energi som kan tas ut från det</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>transmission loss</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Übertragungsverlust</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>perte de transmission</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>transmissionstab</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>overføringstap</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="lagringsfoerlust">lagringsförlust</ref>
+        <ref type="crossReference" target="omvandlingsfoerlust">omvandlingsförlust</ref>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

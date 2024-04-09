@@ -1,0 +1,1093 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Terminologicentrum TNC: Plan- och byggtermer 1994 | 1994</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="aaterluft">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återluft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">luft från ett utrymme till luftbehandlingssystemet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>recirculation air</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Umluft</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>air recyclé</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aatersugningsskydd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återsugningsskydd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Återsugningsskydd kan utgöras av t.ex. backventil eller vakuumventil.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning som hindrar strömning i icke avsedd riktning</descrip>
+          </descripGrp>
+          <note>Återsugningsskydd kan utgöras av t.ex. backventil eller vakuumventil.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>anti-backsiphonage device</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>backflow prevention device</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rückflussverhinderer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Rückschlagventil</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>dispositif anti-refoulement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="backventil">backventil</ref>
+        <ref type="crossReference" target="vakuumventil">vakuumventil</ref>
+      </termEntry>
+      <termEntry id="aatervaendsgata">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återvändsgata</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gata med endast en anslutning till övrigt gatunät</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>cul-de-sac</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Sackgasse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rue sans issue</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cul-de-sac</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>voie sans issue</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aatgaerdsprogram">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>åtgärdsprogram</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: inom kommunal planering</note>
+            <note>Equivalence: Eftersom det saknas en egentlig termmotsvarighet på franska anges här i stället en förklaring av begreppet på franska.</note>
+          </ntig>
+          <note>Domain: inom kommunal planering</note>
+          <descripGrp>
+            <descrip type="definition">program med konkreta riktlinjer för fortsatt utrednings- och planeringsarbete inom en kommun och för sådana åtgärder som behöver genomföras inom en nära framtid</descrip>
+          </descripGrp>
+          <note>Equivalence: Eftersom det saknas en egentlig termmotsvarighet på franska anges här i stället en förklaring av begreppet på franska.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>action programme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Maßnahmenkatalog</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>programme et directives d'aménagement communal</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aedelbruk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ädelbruk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bruk berett av pigmenterat torrbruk</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>premixed pigmented render</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mortier pigmenté</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aeganderaettsutredning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>äganderättsutredning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se lagen om äganderättsutredning och legalisering (ÄULL), SFS 1971:1037.Äganderättsutredning kan avse även annan utredning om äganderättsförhållanden än enligt ÄULL, t.ex. i samband med planläggning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förfarande som syftar till att bringa reda i oklara äganderättsförhållanden inom ett område och leda till lagfart för ägarna</descrip>
+          </descripGrp>
+          <note>Se lagen om äganderättsutredning och legalisering (ÄULL), SFS 1971:1037.Äganderättsutredning kan avse även annan utredning om äganderättsförhållanden än enligt ÄULL, t.ex. i samband med planläggning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>determination of property rights</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>adjudication</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Eigentumsfeststellung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Besitzermittlung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>procédure de détermination du droit de propriété</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="legalisering">legalisering</ref>
+      </termEntry>
+      <termEntry id="aegovidd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ägovidd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se FBL 10:1 och 10:2.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fastighets enskilda mark</descrip>
+          </descripGrp>
+          <note>Se FBL 10:1 och 10:2.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>curtilage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Umfang des Eigentums</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>étendue de la propriété</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="avstyckning">avstyckning</ref>
+      </termEntry>
+      <termEntry id="aendtrae">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ändträ</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">träyta som är vinkelrät mot träets fiberriktning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>end grain surface</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Hirnholz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aervaerde">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ärvärde</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Om inte annat anges avses med ärvärde den reglerade storhetens värde.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">en storhets värde i visst ögonblick</descrip>
+          </descripGrp>
+          <note>Om inte annat anges avses med ärvärde den reglerade storhetens värde.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>actual value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Istwert</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>valeur instantanée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="boervaerde">börvärde</ref>
+      </termEntry>
+      <termEntry id="oedometer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ödometer</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Ödometer används för bestämning av kompressibilitet och permeabilitet hos främst kohesionsjord</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">apparat för bestämning av kompressibilitet eller permeabilitet där jordprov utsätts för tryckande kraft under förhindrad sidutvidgning</descrip>
+          </descripGrp>
+          <note>Ödometer används för bestämning av kompressibilitet och permeabilitet hos främst kohesionsjord</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>oedometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Oedometer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>oedomètre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oeppen_infordran_av_anbud">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>öppen infordran av anbud</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>open tendering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>öffentliche Ausschreibung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>adjudication ouverte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>appel d'offres ouvert</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="sluten_upphandling">sluten upphandling</ref>
+        <ref type="see" target="foerhandlingsupphandling">förhandlingsupphandling</ref>
+      </termEntry>
+      <termEntry id="oeppenarea">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>öppenarea</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>OPA</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">area av helt eller delvis öppna delar i anslutning till en byggnad, anordnade för vistelse eller förvaring</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>enclosed space</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Freiraumfläche</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>superficie ouverte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>surface ouverte</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bruttoarea">bruttoarea</ref>
+      </termEntry>
+      <termEntry id="oeppet_byggnadssaett">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>öppet byggnadssätt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">byggnadssätt som innebär att hus i ett område inte alls eller endast i ringa utsträckning sammanbyggs i tomtgräns</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>non-contiguous development</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>offene Bauweise</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mode de construction par unités isolées</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="slutet_byggnadssaett">slutet byggnadssätt</ref>
+      </termEntry>
+      <termEntry id="oeppningsfaktor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>öppningsfaktor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mått på en brandcells ventilationsförhållande; givet av uttrycketA √h/Atotdär A är brandcellens sammanlagda öppningsarea i m² (fönster, dörrar, brandventilatorer, ventilationsöppningar och andra öppningar), h är ett med hänsyn till öppningarnas storlek vägt medelvärde av deras utsträckning i höjdled i m och Atot är brandcellens totala omslutningsarea i m²</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>opening factor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Öffnungsverhältnis</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>taux de tirage rapporté à la surface du local</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandbelastning">brandbelastning</ref>
+        <ref type="crossReference" target="brandvaraktighet">brandvaraktighet</ref>
+      </termEntry>
+      <termEntry id="oeppningskomplettering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>öppningskomplettering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: enligt BSAB-systemet</note>
+            <note>Example: Exempel på öppningskomplettering är dörrar, fönster, takluckor, fönsterbänkar, fönsterbleck, trösklar, drevning.</note>
+          </ntig>
+          <note>Domain: enligt BSAB-systemet</note>
+          <descripGrp>
+            <descrip type="definition">del av stomkomplettering bestående av tillslutningsanordningar monterade i öppningar</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på öppningskomplettering är dörrar, fönster, takluckor, fönsterbänkar, fönsterbleck, trösklar, drevning.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>secondary element in openings</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oeverbesiktning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överbesiktning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Överbesiktning verkställs av en nämnd, utsedd enligt AB 92 7:9.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">besiktning av tidigare besiktning som påkallas av part för att pröva frågan om entreprenadens godkännande, förekomsten av fel eller ansvar för fel</descrip>
+          </descripGrp>
+          <note>Överbesiktning verkställs av en nämnd, utsedd enligt AB 92 7:9.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>arbitration inspection</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schiedsabnahme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Oberabnahme</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>contre-visite</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="besiktning">besiktning</ref>
+      </termEntry>
+      <termEntry id="oeverbyggnad-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överbyggnad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">del av markanläggning som påförs terrassen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pavement</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Oberbau</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="underbyggnad">underbyggnad</ref>
+      </termEntry>
+      <termEntry id="oeverbyggnad-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överbyggnad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">del av byggnadsverk som vilar på grundkonstruktion</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>superstructure</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Oberbau</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>superstructure</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="byggnadsstomme">byggnadsstomme</ref>
+        <ref type="crossReference" target="husdel">husdel</ref>
+        <ref type="crossReference" target="husunderbyggnad">husunderbyggnad</ref>
+      </termEntry>
+      <termEntry id="oeverhypotek">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överhypotek</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">del av ett pantbrevs värde som överstiger gällande skuldsumma</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="oeverklagande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överklagande</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Ordet besvär har många gånger förts fram som exempel på ett laguttryck som är svårbegripligt och vilseledande för allmänheten. Hos många myndigheter har man redan dragit konsekvenserna av detta och använder i beslut och i sina kontakter med allmänheten i stället uttrycket överklagande.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>besvär</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rättsmedel för klagomål över beslut som fattats av offentlig myndighet eller domstol</descrip>
+          </descripGrp>
+          <note>Ordet besvär har många gånger förts fram som exempel på ett laguttryck som är svårbegripligt och vilseledande för allmänheten. Hos många myndigheter har man redan dragit konsekvenserna av detta och använder i beslut och i sina kontakter med allmänheten i stället uttrycket överklagande.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>planning appeal</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Widerspruch</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oeverluft">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överluft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">luft som överförs från ett rum till ett annat rum</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>transferred air</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">exhaust in which the air passes from the treated space to another treated space</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Transferluft</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>air transféré</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oeverluftsdon">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överluftsdon</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>transfer air device</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Überströmluftdurchlass</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>bouche de transfert</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="luftdon">luftdon</ref>
+      </termEntry>
+      <termEntry id="oeversiktsplan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>översiktsplan</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se 4 kap PBL.En översiktsplan kan fördjupas för del av kommun. Översiktsplanen har inte någon självständig rättsverkan men blir vägledande vid beslut i mål och ärenden, se PBL 1:3.Byggnadslagens generalplan samt kommunöversikt, markdispositionsplan, områdesplan och andra informella planer har varit föregångare till översiktsplanen enligt PBL. De kan vid behov åberopas som översiktlig plan innan den första översiktsplanen enligt PBL antagits.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>öp</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">planinstitut som omfattar en hel kommun och som i stort anger hur mark- och vattenområden är avsedda att användas och hur bebyggelseutvecklingen bör ske</descrip>
+          </descripGrp>
+          <note>Se 4 kap PBL.En översiktsplan kan fördjupas för del av kommun. Översiktsplanen har inte någon självständig rättsverkan men blir vägledande vid beslut i mål och ärenden, se PBL 1:3.Byggnadslagens generalplan samt kommunöversikt, markdispositionsplan, områdesplan och andra informella planer har varit föregångare till översiktsplanen enligt PBL. De kan vid behov åberopas som översiktlig plan innan den första översiktsplanen enligt PBL antagits.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>comprehensive plan</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>general plan</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>synoptic plan</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Flächennutzungsplan</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Bauleitplan</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>plan directeur d'aménagement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="detaljplan">detaljplan</ref>
+        <ref type="crossReference" target="markdispositionsplan">markdispositionsplan</ref>
+        <ref type="crossReference" target="planinstitut">planinstitut</ref>
+      </termEntry>
+      <termEntry id="oeversvaemningsskydd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>översvämningsskydd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Översvämningsskydd kan vid avloppsenheter utgöras av bräddavlopp.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning i en installationsenhet (t.ex. en diskmaskin) som förhindrar att mer än en obetydlig mängd vatten kan strömma ut på golv e.d.</descrip>
+          </descripGrp>
+          <note>Översvämningsskydd kan vid avloppsenheter utgöras av bräddavlopp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>overflow</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Überlauf</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oevertaendning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>övertändning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">stadium av ett brandförlopp i ett slutet utrymme då branden från att ha varit lokalt begränsad inom utrymmet snabbt övergår till att omfatta hela eller största delen av utrymmet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flashover</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuerüberschlag</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Aufflammen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Feuersprung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>embrasement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oevrig_area">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>övrig area</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ÖVA</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bruksarea för övriga utrymmen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>subsidiary usable area</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Funktions- und Verkehrsflächen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oevrigt_utrymme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>övrigt utrymme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme i flerbostadshus och lokalhus avsett för allmän kommunikation och byggnadens drift</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>building service area</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>aire de service</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="biutrymme-1">biutrymme</ref>
+        <ref type="crossReference" target="boutrymme">boutrymme</ref>
+        <ref type="crossReference" target="gemensamhetsutrymme">gemensamhetsutrymme</ref>
+        <ref type="crossReference" target="lokalutrymme">lokalutrymme</ref>
+        <ref type="crossReference" target="oevrig_area">övrig area</ref>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

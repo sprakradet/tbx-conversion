@@ -1,0 +1,1379 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Terminologicentrum TNC: Rymdordlista | 1973</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="tryckgasmating">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tryckgasmating</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pressure gas feed</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="drivmedelsmatning">drivmedelsmatning</ref>
+      </termEntry>
+      <termEntry id="turbopumpsmatning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>turbopumpsmatning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>turbo-pump feed</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="drivmedelsmatning">drivmedelsmatning</ref>
+      </termEntry>
+      <termEntry id="tvaakomponentdrivmedel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tvåkomponentdrivmedel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>bipropellant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Zweistofftreibstoff</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>biergol</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>двухкомпонентное топливо</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="flytande_drivmedel">flytande drivmedel</ref>
+      </termEntry>
+      <termEntry id="tyngd-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tyngd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: i generell betydelse</note>
+            <note>Tyngden (1)  erhålls matematiskt som produkten av massan och den vektoriella skillnaden mellan den av gravitationen orsakade accelerationen (ḡ) och den &quot;verkliga&quot; accelerationen (ā).I en accelererande eller roterande rymdfarkost utgörs tyngden (1)  (i de fall gravitation kan försummas) av de tröghetskrafter som svarar mot accelerationen resp. rotationen. Denna tyngd kallas ibland något oegentligt för konstlad eller dynamisk tyngd (i motsats till tyngd (2)  som kallas statisk trots att den påverkas av rotationen som är dynamisk). En sant statisk tyngd, helt fri från dynamiska effekter, är enligt allmänna relativitetsteorin i princip omöjlig att åstadkomma. Begreppet statisk är relativt, dvs. beroende av hur man väljer sitt referenssystem.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tyngdkraft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <note>Domain: i generell betydelse</note>
+          <descripGrp>
+            <descrip type="definition">vektorsumman av gravitation och tröghetskrafter som verkar på en kropp</descrip>
+          </descripGrp>
+          <note>Tyngden (1)  erhålls matematiskt som produkten av massan och den vektoriella skillnaden mellan den av gravitationen orsakade accelerationen (ḡ) och den &quot;verkliga&quot; accelerationen (ā).I en accelererande eller roterande rymdfarkost utgörs tyngden (1)  (i de fall gravitation kan försummas) av de tröghetskrafter som svarar mot accelerationen resp. rotationen. Denna tyngd kallas ibland något oegentligt för konstlad eller dynamisk tyngd (i motsats till tyngd (2)  som kallas statisk trots att den påverkas av rotationen som är dynamisk). En sant statisk tyngd, helt fri från dynamiska effekter, är enligt allmänna relativitetsteorin i princip omöjlig att åstadkomma. Begreppet statisk är relativt, dvs. beroende av hur man väljer sitt referenssystem.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>weight</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schwere</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>poids</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тяжесть</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tyngd-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tyngd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: i speciell betydelse</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tyngdkraft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <note>Domain: i speciell betydelse</note>
+          <descripGrp>
+            <descrip type="definition">den kraft med vilken en himlakropp attraherar ett föremål som ligger på dess yta, med hänsyn även till den centrifugalkraft som uppstår på grund av himlakroppens rotation, dvs. vektorsumman av gravitationen och centrifugalkraften, vilken senare ju är en tröghetskraft</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>weight</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schwere</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>poids</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тяжесть</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tyngdkaensla">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tyngdkänsla</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">känsla (av tyngd) som förmedlas av organismens sensoriska nerver när dessa reagerar för de inre spänningar samt det tryck mot kontaktytan som tyngdreaktion orsakar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sensation of weight</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schweregefühl</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sensation de la pesanteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>чувство веса</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tyngdloeshet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tyngdlöshet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Tyngdlöshet kan teoretiskt åstadkommas på två sätt: genom frånvaro av gravitation och genom fritt fall. I praktiken är endast det senare möjligt. En satellit i omloppsbana befinner sig i ett ständigt fritt fall i himlakroppens gravitationsfält, eftersom gravitationen då helt kompenseras av tröghetskrafter, i huvudsak centrifugalkraften, riktad från himlakroppens masscentrum.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>viktlöshet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">frånvaro av tyngd eller (likvärdigt) tyngdreaktion</descrip>
+          </descripGrp>
+          <note>Tyngdlöshet kan teoretiskt åstadkommas på två sätt: genom frånvaro av gravitation och genom fritt fall. I praktiken är endast det senare möjligt. En satellit i omloppsbana befinner sig i ett ständigt fritt fall i himlakroppens gravitationsfält, eftersom gravitationen då helt kompenseras av tröghetskrafter, i huvudsak centrifugalkraften, riktad från himlakroppens masscentrum.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>weightlessness</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schwerelosigkeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>apesanteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>невесомость</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tyngdreaktion">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tyngdreaktion</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Det enklaste exemplet på tyngdreaktion är det upptryck från ett golv som hindrar ett föremål att falla genom golvet.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vektorsumman av de krafter som kompenserar tyngden enligt lagen om verkan och återverkan</descrip>
+          </descripGrp>
+          <note>Det enklaste exemplet på tyngdreaktion är det upptryck från ett golv som hindrar ett föremål att falla genom golvet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>weight reaction</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schwerereaktion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réaction à la pésanteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>весовая реакция</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="udmh">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>UDMH</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>UDMH utgör ett konventionellt, lagringsbart, flytande bränsle.Förkortningen UDMH går tillbaka på det engelska uttrycket unsymmetrical dimethylhydrazine.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>osymmetriskt dimetylhydrazin</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>UDMH utgör ett konventionellt, lagringsbart, flytande bränsle.Förkortningen UDMH går tillbaka på det engelska uttrycket unsymmetrical dimethylhydrazine.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>UDMH</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>UDMH</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>UDMH</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>несимметричный диметилгидразин</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="underbaervaag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>underbärvåg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bärvåg som utgör moduleringssignal för en annan, mer högfrekvent, bärvåg</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>subcarrier</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Unterträger</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sous-porteuse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>поднесущая (частота)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="underexpansion">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>underexpansion</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Produkten av denna tryckskillnad och dysmynningsarean kallas tryckterm.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">företeelse att det statiska trycket i en dysas mynning är större än den omgivande atmosfärens statiska tryck</descrip>
+          </descripGrp>
+          <note>Produkten av denna tryckskillnad och dysmynningsarean kallas tryckterm.</note>
+          <admin type="searchTerm">tryckterm</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>under-expansion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="drivkraft">drivkraft</ref>
+        <ref type="crossReference" target="tryckfoerhaallande">tryckförhållande</ref>
+        <ref type="crossReference" target="oeverexpansion">överexpansion</ref>
+      </termEntry>
+      <termEntry id="uppfartsbana-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>uppfartsbana</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">del av en rymdfarkosts bana under vilken bärfarkosten transporterar rymdfarkosten från en himlakropps yta till kretsbanans insändningspunkt;även den från jorden riktade delen av en sondrakets bana</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ascent path</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Aufstiegsbahn</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>trajectoire de montée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>восходящая ветвь (траектории)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="uppfartsbana-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>uppfartsbana</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">den från jorden riktade delen av en sondrakets bana</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ascent path</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Aufstiegsbahn</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>trajectoire de montée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>восходящая ветвь (траектории)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="utbrytningshastighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>utbrytningshastighet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vid jordytan är utbrytningshastigheten ca 1,6 km/s. Skillnaden mellan utbrytningshastigheten och flykthastigheten är alltså den, att solens gravitation tänks inverka i det förra men inte i det senare fallet.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hastighet en kropp måste tilldelas nära en himlakropps yta för att den sedan utan ytterligare drivkraft och utan hänsyn till atmosfärmotstånd men under inverkan av solens gravitation skall oavbrutet avlägsna sig från himlakroppens yta, varvid alla övriga himlakroppars gravitation tänks utelämnade</descrip>
+          </descripGrp>
+          <note>Vid jordytan är utbrytningshastigheten ca 1,6 km/s. Skillnaden mellan utbrytningshastigheten och flykthastigheten är alltså den, att solens gravitation tänks inverka i det förra men inte i det senare fallet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solar system escape velocity</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Fluchtgeschwindigkeit aus dem Sonnensystem</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>vitesse de libération du système solaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="utstroemningshastighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>utströmningshastighet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Utströmningshastigheten är ett mått, likvärdigt med en raketmotors specifika impuls (2) , på motorsystemets förmåga att utnyttja arbetsmediets massa för produktion av drivkraft.I SI har specifika impulsen (2)  och utströmningshastigheten samma talvärde, uttryckt i m/s.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>effektiv utströmningshastighet</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">strålmassans hastighet efter fullbordad acceleration, dvs. när den lämnar raketmotorn</descrip>
+          </descripGrp>
+          <note>Utströmningshastigheten är ett mått, likvärdigt med en raketmotors specifika impuls (2) , på motorsystemets förmåga att utnyttja arbetsmediets massa för produktion av drivkraft.I SI har specifika impulsen (2)  och utströmningshastigheten samma talvärde, uttryckt i m/s.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>effective exhaust velocity</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>exhaust velocity</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Ausströmungsgeschwindigkeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>wirksame Ausströmungsgeschwindigkeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>vitesse efficace d'échappement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>vitesse d'échappement</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эффективная скорость истечения</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>скорость истечения</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="karakteristisk_utstroemningshastighet">karakteristisk utströmningshastighet</ref>
+      </termEntry>
+      <termEntry id="vakuumdrivkraft">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>vakuumdrivkraft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Atmosfärtrycket medför att raketmotorns utströmningshastighet, och därmed även drivkraften, har 10–15 % lägre värde vid jordytan än i vakuum.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">drivkraft som en raketmotor producerar i vakuum</descrip>
+          </descripGrp>
+          <note>Atmosfärtrycket medför att raketmotorns utströmningshastighet, och därmed även drivkraften, har 10–15 % lägre värde vid jordytan än i vakuum.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>vacuum thrust</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Vakuumschub</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>poussée dans le vide</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тяга в пустоте</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="hoejdvinst">höjdvinst</ref>
+        <ref type="crossReference" target="markdrivkraft">markdrivkraft</ref>
+      </termEntry>
+      <termEntry id="venussond">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>venussond</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Venus probe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Venussonde</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sonde de Vénus</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ракета в сторону Венеры</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="rymdsond">rymdsond</ref>
+      </termEntry>
+      <termEntry id="vestibularisapparat">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>vestibularisapparat</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jämviktsorganet i innerörat</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>vestibular organ</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="wfna">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>WFNA</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>WFNA är en lagringsbar oxidator i flytande raketdrivmedel. Benämningen kommer av det engelska uttrycket white fuming nitric acid.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vitrykande salpetersyra</descrip>
+          </descripGrp>
+          <note>WFNA är en lagringsbar oxidator i flytande raketdrivmedel. Benämningen kommer av det engelska uttrycket white fuming nitric acid.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>WFNA</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>white fuming nitric acid</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>WFNA</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>WFNA</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>белая дымящая азотная кислота</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="irfna">IRFNA</ref>
+        <ref type="crossReference" target="rfna">RFNA</ref>
+      </termEntry>
+      <termEntry id="visslare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>visslare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Visslarna studsar ibland flera gånger mellan norra och södra halvklotet. Studiet av visslare har gett många viktiga upplysningar om partikeltätheten i magnetosfären och om plasmapausens natur.Det bör observeras att visslarna, trots att de är av elektromagnetisk natur, fortplantas betydligt långsammare än ljuset beroende på att de rör sig i ett magnetiserat plasma.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tonfrekvent elektromagnetisk signal med frekvensen några kilohertz som vanligen alstras av åskblixtar och som, när den fortplantas längs de geomagnetiska kraftlinjerna, fått en (i huvudsak) med tiden fallande tonhöjd på grund av att högre frekvenser fortplantas snabbare</descrip>
+          </descripGrp>
+          <note>Visslarna studsar ibland flera gånger mellan norra och södra halvklotet. Studiet av visslare har gett många viktiga upplysningar om partikeltätheten i magnetosfären och om plasmapausens natur.Det bör observeras att visslarna, trots att de är av elektromagnetisk natur, fortplantas betydligt långsammare än ljuset beroende på att de rör sig i ett magnetiserat plasma.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>whistler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Störpfeifgeräusche</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>siffleur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>свисты</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="nosvisslare">nosvisslare</ref>
+      </termEntry>
+      <termEntry id="volymspecifik_impuls">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>volymspecifik impuls</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kvalitetstal för drivmedel som anger hur stor impuls en volymenhet av drivmedlet förmår alstra under normerade motorbetingelser</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>density impulse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>dichtespezifischer Impuls</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>impulsion volumique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>объемная тяга</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="specifik_impuls-1">specifik impuls</ref>
+      </termEntry>
+      <termEntry id="vaentbana">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>väntbana</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>parkeringsbana</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kretsbana i vilken en rymdfarkost attitydstabiliseras och hastighetskorrigeras i avvaktan på en kommande drivflyktsfas till en annan kretsbana eller som del i en månfärd eller ett fjärrymdföretag</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>орбита ожидания</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaermeskoeld">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>värmesköld</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skyddsanordning anbringad i den del av en rymdfarkost som är vänd i färdriktningen och som genom ablation eller utformning som värmesänka skyddar farkosten mot verkan av aerodynamisk uppvärmning under nedfart</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>heat shield</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wärmeschild</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>écran thermique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тепловой экран</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="ablationskylning">ablationskylning</ref>
+      </termEntry>
+      <termEntry id="vaetskeraketmotor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>vätskeraketmotor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I motsats till vad som gäller krutraketmotor är brännkammaren skild från lagringsrummet för drivmedel.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kemisk raketmotor för flytande drivmedel, bestående av brännkammare med dysa, anordning för drivmedelsmatning och för insprutning i brännkammaren, ventiler, eventuella (start)sprängmembran samt eventuellt tändmedel</descrip>
+          </descripGrp>
+          <note>I motsats till vad som gäller krutraketmotor är brännkammaren skild från lagringsrummet för drivmedel.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>liquid-propellant rocket engine</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Flüssigkeitsraketentriebwerk</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>moteur-fusée à propergol liquide</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>жидкостный ракетный двигатель</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="braennkammarkylning">brännkammarkylning</ref>
+        <ref type="crossReference" target="hypergolt_drivmedel">hypergolt drivmedel</ref>
+        <ref type="crossReference" target="skvalpskott">skvalpskott</ref>
+      </termEntry>
+      <termEntry id="yttre_rymd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>yttre rymd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rymden utanför eller ovanför aeropausen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>outer space</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>espace extra-atmosphérique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внешнее пространство</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="zodiakalljus">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>zodiakalljus</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Zodiakalljuset beror sannolikt på solljus som reflekteras mot kosmiskt stoft.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kägelformat, svagt ljussken som, framförallt i tropikerna, syns längs ekliptikan vid soluppgång och solnedgång</descrip>
+          </descripGrp>
+          <note>Zodiakalljuset beror sannolikt på solljus som reflekteras mot kosmiskt stoft.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>zodiacal light</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Zodiakallicht</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Gegenschein</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>lumière zodiacale</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>зодиакальный свет</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aangraket">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ångraket</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>hetvattensraket</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kemisk raketmotor där vatten upphettas till ånga genom spontan reaktion med vissa ämnen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>steam rocket</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Heisswasser-Rakete</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>fusée à vapeur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ракета с паровым ракетным двигателем</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aateranvaendbar_baerfarkost">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återanvändbar bärfarkost</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bärfarkost konstruerad så, att flera eller alla steg kan återvinnas (t.ex. genom landning på flygfält) och iståndsättas för nya rymdfärdsuppdrag</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>reusable space vehicle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="rymdfaerja">rymdfärja</ref>
+      </termEntry>
+      <termEntry id="aaterhaemtningsfas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återhämtningsfas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Återhämtningsfasen vara något dygn upp till någon vecka.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sista delen av en magnetisk storm, kännetecknad av en återgång från huvudfasens nedsatta magnetiska fältstyrka till det normala värdet</descrip>
+          </descripGrp>
+          <note>Återhämtningsfasen vara något dygn upp till någon vecka.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>recovery phase</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>post-perturbation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фаза восстановления</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="inledningsfas">inledningsfas</ref>
+      </termEntry>
+      <termEntry id="aaterstart">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>återstart</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förnyad tändning av raketmotor</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>restart</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wiederstart</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>remise en marche</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>повторный запуск (включение)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="oeverexpansion">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överexpansion</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">företeelse att det statiska trycket i en dysas mynning är mindre än den omgivande atmosfärens statiska tryck</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>over-expansion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="drivkraft">drivkraft</ref>
+        <ref type="crossReference" target="tryckfoerhaallande">tryckförhållande</ref>
+        <ref type="crossReference" target="underexpansion">underexpansion</ref>
+      </termEntry>
+      <termEntry id="oeverfartsellips">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>överfartsellips</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I det andra av de uppräknade tre fallen utgör solen gravitationscentrum för överfartsellipsen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">överfartsbana i friflykt från en kretsbana till en annan, varvid de båda kretsbanorna är bundna till antingen samma sol, planet eller måne, till var sin planet i samman solsystem eller till var sin måne i samma satellitsystem</descrip>
+          </descripGrp>
+          <note>I det andra av de uppräknade tre fallen utgör solen gravitationscentrum för överfartsellipsen.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>transfer ellipse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Übergangsellipse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ellipse de transfert</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>переходный эллипс</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="hohmannbana">hohmannbana</ref>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

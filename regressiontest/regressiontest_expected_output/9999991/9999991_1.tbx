@@ -1,0 +1,1273 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Isof: Regression test | 2022</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="regression_test23o">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test23O</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 0</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 1</term>
+            </termGrp>
+            <note>Example: Regression test example 1</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 1</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Regression test example 1</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test english 1</term>
+            </termGrp>
+            <note>Example: Regression test example English 1</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition English 1</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Regression test example English 1</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="regression_test_4">Regression test 4</ref>
+        <ref type="crossReference" target="regression_test_6">Regression test 6</ref>
+      </termEntry>
+      <termEntry id="regression_test_2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 2</term>
+            </termGrp>
+            <note>Regression test note 2</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 2</descrip>
+          </descripGrp>
+          <note>Regression test note 2</note>
+        </langSet>
+        <ref type="crossReference" target="hala">hala</ref>
+      </termEntry>
+      <termEntry id="plural_3">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plural 3</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_4">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 4</term>
+            </termGrp>
+            <note>Regression test note 4</note>
+            <adminGrp>
+              <admin type="annotatedNote">Regression test note 4</admin>
+              <adminNote type="noteSource">Regression test 4 referens</adminNote>
+            </adminGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 4</descrip>
+          </descripGrp>
+          <note>Regression test note 4</note>
+          <adminGrp>
+            <admin type="annotatedNote">Regression test note 4</admin>
+            <adminNote type="noteSource">Regression test 4 referens</adminNote>
+          </adminGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 4</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="regression_test_5">Regression test 5</ref>
+      </termEntry>
+      <termEntry id="regression_test_5">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 5</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test deprecated 5</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 6</descrip>
+            <admin type="sourceIdentifier">Regression test referent www.link</admin>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_6">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 6</term>
+            </termGrp>
+            <note>Regression test note</note>
+            <adminGrp>
+              <admin type="annotatedNote">Regression test note</admin>
+              <adminNote type="noteSource">Regression test referens 6</adminNote>
+            </adminGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 6</descrip>
+          </descripGrp>
+          <note>Regression test note</note>
+          <adminGrp>
+            <admin type="annotatedNote">Regression test note</admin>
+            <adminNote type="noteSource">Regression test referens 6</adminNote>
+          </adminGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 6</term>
+            </termGrp>
+            <termNote type="partOfSpeech">noun</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_7">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 7</term>
+            </termGrp>
+            <termNote type="partOfSpeech">verb</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_8">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 8</term>
+            </termGrp>
+            <termNote type="partOfSpeech">verb</termNote>
+            <note>Regression test 8 note</note>
+            <adminGrp>
+              <admin type="annotatedNote">Regression test 8 note</admin>
+              <adminNote type="noteSource">Regression test 8 reference</adminNote>
+            </adminGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 8</descrip>
+            <admin type="sourceIdentifier">Regression  link 8</admin>
+          </descripGrp>
+          <note>Regression test 8 note</note>
+          <adminGrp>
+            <admin type="annotatedNote">Regression test 8 note</admin>
+            <adminNote type="noteSource">Regression test 8 reference</adminNote>
+          </adminGrp>
+        </langSet>
+        <ref type="crossReference" target="regression_test_6">Regression test 6</ref>
+      </termEntry>
+      <termEntry id="regression_test_9">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 9</term>
+            </termGrp>
+            <note>Regression test note 9 kursiv Mer regression test note 9 kursiv 2</note>
+            <note>Example: Regression test exempel 9</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym 9</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test synonym 9 definitio 9</descrip>
+          </descripGrp>
+          <note>Regression test note 9 kursiv Mer regression test note 9 kursiv 2</note>
+          <descripGrp>
+            <descrip type="example">Regression test exempel 9</descrip>
+          </descripGrp>
+          <admin type="searchTerm">Regression test search 9</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 9</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test English synonym 9</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_fras_10">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test fras 10</term>
+            </termGrp>
+            <termNote type="termType">phraseologicalUnit</termNote>
+            <note>Explanation: Regression test explanation 10</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="explanation">Regression test explanation 10</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_11">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 11</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym phrase 11</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="termType">synonymousPhrase</termNote>
+            <termNote type="termType">phraseologicalUnit</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="regression_test_12">Regression test 12</ref>
+      </termEntry>
+      <termEntry id="regression_test_12">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 12</term>
+            </termGrp>
+            <note>Domain: Regression test SA 12</note>
+            <note>Regression test 12</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>b 12</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <note>Domain: Regression test SA 12</note>
+          <descripGrp>
+            <descrip type="definition">Regression test df 12</descrip>
+          </descripGrp>
+          <note>Regression test 12</note>
+        </langSet>
+        <ref type="crossReference" target="regression_test_13">Regression test 13</ref>
+        <ref type="crossReference" target="regression_test_14">Regression test 14</ref>
+        <ref type="see" target="">Regression test: Here there should be the output: No matching reference found for</ref>
+      </termEntry>
+      <termEntry id="regression_test_13">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 13</term>
+            </termGrp>
+            <note>Regression test note 13</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym 13</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 13</descrip>
+          </descripGrp>
+          <note>Regression test note 13</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 13</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Regression test german 13</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test German synonym 13</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>Regression test French 13</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="es">
+          <ntig>
+            <termGrp>
+              <term>Regression test Estonian 13</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ca">
+          <ntig>
+            <termGrp>
+              <term>Regression test ca 13</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>Regression test Finnish 13</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test syn1 Finnish 13</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test syn2 Finnish 13</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_14">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 14</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">plural</termNote>
+            <note>Regression test note 14</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 14</descrip>
+          </descripGrp>
+          <note>Regression test note 14</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 14</term>
+            </termGrp>
+            <note>Regression test English 14</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test defintion 14</descrip>
+          </descripGrp>
+          <note>Regression test English 14</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_15">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 15</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">mass</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_16">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 16</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Regression test German 16</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_17">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 17</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Regression test 17</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_18">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 18</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_19">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 19</term>
+            </termGrp>
+            <termNote type="grammaticalGender">otherGender</termNote>
+            <termNote type="grammaticalNumber">singular</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_20">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 20</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">otherNumber</termNote>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="grammaticalValency">monovalent</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_21">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 21</term>
+            </termGrp>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="grammaticalValency">monovalent</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_22">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 22</term>
+            </termGrp>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="grammaticalValency">divalent or more</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_23">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 23</term>
+            </termGrp>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="grammaticalValency">divalent or more</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_23-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 23</term>
+            </termGrp>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 23</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ar">
+          <ntig>
+            <termGrp>
+              <term>عمق</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="regression_test_23-2">Regression test 23</ref>
+      </termEntry>
+      <termEntry id="regression_test_23-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 23</term>
+            </termGrp>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>deep</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ar">
+          <ntig>
+            <termGrp>
+              <term>عمق</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_24">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 24</term>
+            </termGrp>
+            <termNote type="partOfSpeech">adverb</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_25">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 25</term>
+            </termGrp>
+            <termNote type="partOfSpeech">other</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_26">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 26</term>
+            </termGrp>
+            <note>Explanation: Regression test 26 explanation</note>
+            <note>Regression test 26 note</note>
+            <note>Example: Regression test 26 example</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="explanation">Regression test 26 explanation</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="definition">Regression test 26 definition</descrip>
+          </descripGrp>
+          <note>Regression test 26 note</note>
+          <descripGrp>
+            <descrip type="example">Regression test 26 example</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_27">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 27</term>
+            </termGrp>
+            <note>Domain: Regression test SA (till språk) 27</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym 27</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="usageNote">Regression test SA (till term) 27</termNote>
+          </ntig>
+          <note>Domain: Regression test SA (till språk) 27</note>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>Regression test de 27</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fo">
+          <ntig>
+            <termGrp>
+              <term>viðmerkingarfreist 27</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="is">
+          <ntig>
+            <termGrp>
+              <term>Regression test is 27</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nb">
+          <ntig>
+            <termGrp>
+              <term>Regression test nb 27</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nn">
+          <ntig>
+            <termGrp>
+              <term>Regression test bb 27</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>Regression test Finnish 27</term>
+            </termGrp>
+            <termNote type="usageNote">Regression test 27 SA Finnish</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="se">
+          <ntig>
+            <termGrp>
+              <term>Regression test se 27</term>
+            </termGrp>
+            <termNote type="usageNote">Regression test seSA 27</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="kl">
+          <ntig>
+            <termGrp>
+              <term>Regression test kl 27</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_28">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 28</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym 2 28</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym 28</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 28</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym English 28</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym English 28</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">GB regression test 28</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>Regression test Finnish 28</term>
+            </termGrp>
+            <note>Regression test note Finnish 28</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition Finnish 28</descrip>
+          </descripGrp>
+          <note>Regression test note Finnish 28</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_abbreviation_29">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test abbreviation 29</term>
+            </termGrp>
+            <termNote type="termType">abbreviation</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test long 29</term>
+            </termGrp>
+            <termNote type="termType">fullForm</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 29</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="uppdragsgivare-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>uppdragsgivare</term>
+            </termGrp>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: Regression test SA 30</note>
+            <note>Example: Regression test example 30</note>
+          </ntig>
+          <note>Domain: Regression test SA 30</note>
+          <descripGrp>
+            <descrip type="definition">Regression test 30 definition</descrip>
+            <admin type="sourceIdentifier">Regression test RF 30</admin>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Regression test example 30</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="anlaeggning-1">anläggning</ref>
+        <ref type="crossReference" target="bedoemningsobjekt">bedömningsobjekt</ref>
+        <ref type="crossReference" target="organisation">organisation</ref>
+      </termEntry>
+      <termEntry id="uppdragsgivare-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>uppdragsgivare</term>
+            </termGrp>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: Regression test SA 31</note>
+          </ntig>
+          <note>Domain: Regression test SA 31</note>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 31</descrip>
+            <admin type="sourceIdentifier">Regression test reference 31</admin>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="organisation">organisation</ref>
+        <ref type="crossReference" target="validering-1">validering</ref>
+        <ref type="crossReference" target="verifiering-1">verifiering</ref>
+      </termEntry>
+      <termEntry id="validering-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>validering</term>
+            </termGrp>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: Regression test SA 32</note>
+          </ntig>
+          <note>Domain: Regression test SA 32</note>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 32</descrip>
+            <admin type="sourceIdentifier">Regression test reference 32</admin>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="bedoemare">bedömare</ref>
+      </termEntry>
+      <termEntry id="validering-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>validering</term>
+            </termGrp>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: Regression test SA 33</note>
+            <note>Regression test note 33</note>
+            <adminGrp>
+              <admin type="annotatedNote">Regression test note 33</admin>
+              <adminNote type="noteSource">Regression test reference 33</adminNote>
+            </adminGrp>
+          </ntig>
+          <note>Domain: Regression test SA 33</note>
+          <descripGrp>
+            <descrip type="definition">Regression test defintion 33</descrip>
+          </descripGrp>
+          <note>Regression test note 33</note>
+          <adminGrp>
+            <admin type="annotatedNote">Regression test note 33</admin>
+            <adminNote type="noteSource">Regression test reference 33</adminNote>
+          </adminGrp>
+        </langSet>
+        <ref type="crossReference" target="process">process</ref>
+        <ref type="crossReference" target="valideringskriterier">valideringskriterier</ref>
+      </termEntry>
+      <termEntry id="verifiering-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>verifiering</term>
+            </termGrp>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: Regression test SA 34</note>
+          </ntig>
+          <note>Domain: Regression test SA 34</note>
+          <descripGrp>
+            <descrip type="definition">Regression test defintion 34</descrip>
+            <admin type="sourceIdentifier">Regression test reference 34</admin>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="verifiering-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>verifiering</term>
+            </termGrp>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: Regression test SA 35</note>
+            <note>Regression test note 35</note>
+            <adminGrp>
+              <admin type="annotatedNote">Regression test note 35</admin>
+              <adminNote type="noteSource">Regression test reference 35</adminNote>
+            </adminGrp>
+          </ntig>
+          <note>Domain: Regression test SA 35</note>
+          <descripGrp>
+            <descrip type="definition">Regression test defintion 35</descrip>
+          </descripGrp>
+          <note>Regression test note 35</note>
+          <adminGrp>
+            <admin type="annotatedNote">Regression test note 35</admin>
+            <adminNote type="noteSource">Regression test reference 35</adminNote>
+          </adminGrp>
+        </langSet>
+        <ref type="crossReference" target="process">process</ref>
+        <ref type="crossReference" target="verifiering-1">verifiering</ref>
+        <ref type="crossReference" target="vaexthusgas">växthusgas</ref>
+      </termEntry>
+      <termEntry id="regression_test_36">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 36</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test defintion 36</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_37">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 37</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 37</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="anlaeggning-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>anläggning</term>
+            </termGrp>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test definition 38</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="bedoemningsobjekt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bedömningsobjekt</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="organisation">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>organisation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bedoemare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bedömare</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="process">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>process</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="valideringskriterier">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>valideringskriterier</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="vaexthusgas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>växthusgas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fartygschef">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fartygschef</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hala">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>hala</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="abdomen">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>abdomen</term>
+            </termGrp>
+            <termNote type="pronunciation">-do:’-</termNote>
+            <note>Explanation: Regression test 47</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="explanation">Regression test 47</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="term_med_referens">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>term med referens</term>
+            </termGrp>
+            <xref type="xSource" target="referensangivelse"/>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_48">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 48</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test defintion 48</descrip>
+            <admin type="sourceIdentifier">Regression test reference 48</admin>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="texter">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>texter</term>
+            </termGrp>
+            <termNote type="usageNote">aldrig</termNote>
+            <note>Example: exempel</note>
+            <note>Example: exempel 2</note>
+            <note>Explanation: förklaring</note>
+            <note>Explanation: förklaring 2</note>
+            <descripGrp>
+              <descrip type="context">kontext</descrip>
+            </descripGrp>
+            <descripGrp>
+              <descrip type="context">kontext 2</descrip>
+            </descripGrp>
+            <note>anteckning</note>
+            <adminGrp>
+              <admin type="annotatedNote">anteckning</admin>
+              <adminNote type="noteSource">referens till anteckning</adminNote>
+            </adminGrp>
+            <note>anteckning 2</note>
+            <adminGrp>
+              <admin type="annotatedNote">anteckning 2</admin>
+              <adminNote type="noteSource">referens till anteckning 2</adminNote>
+            </adminGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">definition</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="definition">definition 2</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">exempel</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">exempel 2</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="explanation">förklaring</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="explanation">förklaring 2</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="context">kontext</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="context">kontext 2</descrip>
+          </descripGrp>
+          <note>anteckning</note>
+          <adminGrp>
+            <admin type="annotatedNote">anteckning</admin>
+            <adminNote type="noteSource">referens till anteckning</adminNote>
+          </adminGrp>
+          <note>anteckning 2</note>
+          <adminGrp>
+            <admin type="annotatedNote">anteckning 2</admin>
+            <adminNote type="noteSource">referens till anteckning 2</adminNote>
+          </adminGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="referenstexter">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>referenstexter</term>
+            </termGrp>
+            <termNote type="usageNote">aldrig</termNote>
+            <note>Example: exempel</note>
+            <note>Example: exempel 2</note>
+            <note>Explanation: förklaring</note>
+            <note>Explanation: förklaring 2</note>
+            <descripGrp>
+              <descrip type="context">kontext</descrip>
+            </descripGrp>
+            <descripGrp>
+              <descrip type="context">kontext 2</descrip>
+            </descripGrp>
+            <note>anteckning</note>
+            <adminGrp>
+              <admin type="annotatedNote">anteckning</admin>
+              <adminNote type="noteSource">referens till anteckning</adminNote>
+            </adminGrp>
+            <note>anteckning 2</note>
+            <adminGrp>
+              <admin type="annotatedNote">anteckning 2</admin>
+              <adminNote type="noteSource">referens till anteckning 2</adminNote>
+            </adminGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">definition</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="definition">definition 2</descrip>
+            <admin type="sourceIdentifier">DFREF</admin>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">exempel</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">exempel 2</descrip>
+            <admin type="sourceIdentifier">EXREF</admin>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="explanation">förklaring</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="explanation">förklaring 2</descrip>
+            <admin type="sourceIdentifier">FKREF</admin>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="context">kontext</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="context">kontext 2</descrip>
+          </descripGrp>
+          <note>anteckning</note>
+          <adminGrp>
+            <admin type="annotatedNote">anteckning</admin>
+            <adminNote type="noteSource">referens till anteckning</adminNote>
+          </adminGrp>
+          <note>anteckning 2</note>
+          <adminGrp>
+            <admin type="annotatedNote">anteckning 2</admin>
+            <adminNote type="noteSource">referens till anteckning 2</adminNote>
+          </adminGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="term_med_ekvivalent">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>term med ekvivalent</term>
+            </termGrp>
+            <note>Equivalence: ekvivalenskommentar</note>
+          </ntig>
+          <note>Equivalence: ekvivalenskommentar</note>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_52">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 52</term>
+            </termGrp>
+            <note>Equivalence: Regression test ekvivalens 52</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test synonym 52</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Regression test defintion 52</descrip>
+          </descripGrp>
+          <note>Equivalence: Regression test ekvivalens 52</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Regression test English 52</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test English syn1 52</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test English syn2 52</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Regression test German synonym 52</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>Regression test Finnish synonym 52</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test Finnish synonym 52</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="regression_test_53">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Regression test 53</term>
+            </termGrp>
+            <termNote type="termType">abbreviation</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Regression test 53 long</term>
+            </termGrp>
+            <termNote type="termType">fullForm</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="uppslagsordsexempel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>uppslagsordsexempel</term>
+            </termGrp>
+          </ntig>
+          <admin type="searchTerm">aaa</admin>
+        </langSet>
+      </termEntry>
+      <termEntry id="uppslagsordsexempel2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>uppslagsordsexempel2</term>
+            </termGrp>
+          </ntig>
+          <admin type="searchTerm">bbb</admin>
+          <admin type="searchTerm">ccc</admin>
+          <admin type="searchTerm">ddd</admin>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

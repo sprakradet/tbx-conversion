@@ -1,0 +1,4446 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Terminologicentrum TNC: Rymdordlista | 1973</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="hoejdvinst">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>höjdvinst</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Höjdvinsten uppgår vid en konventionellt utformad bärfarkost till 10–15 % av markdrivkraftens värde.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tillskott i drivkraft på grund av ökning i utströmningshastighet som en termodynamisk raketmotor erhåller när atmosfärens statiska mottryck sjunker mot noll</descrip>
+          </descripGrp>
+          <note>Höjdvinsten uppgår vid en konventionellt utformad bärfarkost till 10–15 % av markdrivkraftens värde.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thrust gain</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="markdrivkraft">markdrivkraft</ref>
+        <ref type="crossReference" target="vakuumdrivkraft">vakuumdrivkraft</ref>
+      </termEntry>
+      <termEntry id="icke-kemisk_raketdrift">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>icke-kemisk raketdrift</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vid icke-kemisk raketdrift är energikälla, arbetsmedium och kraftalstrare vanligen skilda. Strålmassan som bildas i eller av arbetsmediet genom tillförsel av energi accelereras antingen termodynamiskt eller elektriskt.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">raketdrift där drivkraften alstras på annat sätt än genom förbränning av ett drivmedel</descrip>
+          </descripGrp>
+          <note>Vid icke-kemisk raketdrift är energikälla, arbetsmedium och kraftalstrare vanligen skilda. Strålmassan som bildas i eller av arbetsmediet genom tillförsel av energi accelereras antingen termodynamiskt eller elektriskt.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>non-chemical rocket propulsion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>nichtchemischer Raketenantrieb</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>propulsion par fusée à énergie non chimique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нехимическое ракетное движение</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kaernvaermeraket">kärnvärmeraket</ref>
+        <ref type="crossReference" target="radionuklidraketmotor">radionuklidraketmotor</ref>
+        <ref type="crossReference" target="solvaermeraket">solvärmeraket</ref>
+        <ref type="crossReference" target="straalningsraket">strålningsraket</ref>
+      </termEntry>
+      <termEntry id="ideal_hastighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ideal hastighet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>v</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sluthastighet som en bärfarkost eller rymdfarkost, eller delraket, skulle erhålla om inga andra krafter än drivkraften verkade på farkosten</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>characteristic velocity</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>charakteristische Geschwindigkeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>vitesse caractéristique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>характеристическая скорость</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="hastighetsfoerlust">hastighetsförlust</ref>
+      </termEntry>
+      <termEntry id="inledningsfas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>inledningsfas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Inledningsfasen varar vanligen någon timme.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">första delen av en magnetisk storm, karakteriserad av en höjning av den magnetiska fältstyrkan över större delen av jorden</descrip>
+          </descripGrp>
+          <note>Inledningsfasen varar vanligen någon timme.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>initial phase</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>начальная фаза</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="huvudfas">huvudfas</ref>
+        <ref type="crossReference" target="aaterhaemtningsfas">återhämtningsfas</ref>
+      </termEntry>
+      <termEntry id="inre_rymd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>inre rymd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>De funktionella avseenden som åsyftas exemplifieras under termen aeropaus.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rymden innanför aeropausen, dvs. den volym som innehåller jorden och atmosfären i något funktionellt avseende</descrip>
+          </descripGrp>
+          <note>De funktionella avseenden som åsyftas exemplifieras under termen aeropaus.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>inner space</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>innerer Weltraum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>espace intérieur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внутреннее пространство</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="insaendningspunkt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>insändningspunkt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Hastighet, hastighetsfel och höjd i insändningspunkten kallas insändningshastighet, insändningsfel och insändningshöjd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">punkt i rymden där en rymdfarkost inträder i en friflyktfas (t.ex. en jordkretsbana)</descrip>
+          </descripGrp>
+          <note>Hastighet, hastighetsfel och höjd i insändningspunkten kallas insändningshastighet, insändningsfel och insändningshöjd.</note>
+          <admin type="searchTerm">insändningshastighet</admin>
+          <admin type="searchTerm">insändningsfel</admin>
+          <admin type="searchTerm">insändningshöjd</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>injection point</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Einschusspunkt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>point d'injection</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пункт введения на орбиту</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="integrerat_baninmaetningssystem">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>integrerat baninmätningssystem</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">baninmätningssystem med flera stationer, av vilka endast de i varje ögonblick lämpligast placerade utnyttjas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>integrated tracking system</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>integriertes Bahnverfolgungssystem</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>système intégré de poursuite</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>система измерения траектории одновременно несколькими станциями</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="interferometer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>interferometer</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Eftersom interferensmönster beror av interferometerns inriktning i förhållande till vågornas fortplantningsriktning används interferometrar för riktningsbestämning i aktiva baninmätningssystem. Interferometern är ett viktigt instrument även inom astronomi och radioastronomi.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning för bildande och mätning av interferens mellan koherenta radiovågor från en och samma sändare</descrip>
+          </descripGrp>
+          <note>Eftersom interferensmönster beror av interferometerns inriktning i förhållande till vågornas fortplantningsriktning används interferometrar för riktningsbestämning i aktiva baninmätningssystem. Interferometern är ett viktigt instrument även inom astronomi och radioastronomi.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>interferometer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Interferometer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>interféromètre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>интерферометр</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="irfna">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>IRFNA</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Benämningen IRFNA är bildad av det engelska uttrycket inhibited red fuming nitric acid. En inhibitor är ett ämne som hämmar eller helt hindrar kemisk förändring av ett annat ämne under användning eller lagring.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rödrykande salpetersyra, till vilken ämnen, inhibitorer, tillsatts för att minska vätskans korrosiva egenskaper när den som konventionell oxidator lagras i tank</descrip>
+          </descripGrp>
+          <note>Benämningen IRFNA är bildad av det engelska uttrycket inhibited red fuming nitric acid. En inhibitor är ett ämne som hämmar eller helt hindrar kemisk förändring av ett annat ämne under användning eller lagring.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>IRFNA</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>inhibited red fuming nitric acid</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>IRFNA</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>IRFNA</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="rfna">RFNA</ref>
+        <ref type="crossReference" target="wfna">WFNA</ref>
+      </termEntry>
+      <termEntry id="jetstroem">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>jetström</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">band av starka vindar, i huvudsak riktade från väster mot öster, i den övre troposfären eller i stratosfären, ofta med en hastighet av storleksordningen 100 m/s</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>jet stream</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Strahlstrom</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>courant-jet</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>струйное течение</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="jonosfaer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>jonosfär</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För jordens del ligger jonosfärens undre gräns vid en höjd av 70–90 km och dess övre gräns vid 1000–1500 km. Den reflekterar radiovågor med våglängd större än 10–30 m.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">del av himlakropps atmosfär som utgörs av plasma och alltså kännetecknas av hög jontäthet och därav följande hög elektrisk ledningsförmåga</descrip>
+          </descripGrp>
+          <note>För jordens del ligger jonosfärens undre gräns vid en höjd av 70–90 km och dess övre gräns vid 1000–1500 km. Den reflekterar radiovågor med våglängd större än 10–30 m.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ionosphere</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Ionosphäre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ionosphère</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ионосфера</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="jonosfaerisk_substorm">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>jonosfärisk substorm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ionospheric substorm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>ionosphärischer Teilsturm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sousorage ionosphérique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ионосферная суббуря</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="substorm">substorm</ref>
+      </termEntry>
+      <termEntry id="jonosfaerstoerning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>jonosfärstörning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Många olika typer av jonosfärstörningar finns. De flesta innebär ökad jonisation i jonosfärens lägsta skikt. Orsaken är alltid ytterst något fenomen på solen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">avvikelse från jonosfärens normala tillstånd, sådan att radioförbindelser via jonosfären påverkas, huvudsakligen i negativ riktning</descrip>
+          </descripGrp>
+          <note>Många olika typer av jonosfärstörningar finns. De flesta innebär ökad jonisation i jonosfärens lägsta skikt. Orsaken är alltid ytterst något fenomen på solen.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ionospheric disturbance</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>ionosphärische Störung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>perturbation ionosphérique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ионосферное возмущение</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="jonosond">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>jonosond</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En sondraket för jonosfärundersökning kallas inte jonosond.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrustning för undersökning på avstånd av jonosfärens egenskaper som består av en pulsad radiosändare och mottagare, vanligen med variabel (svept) bärfrekvens, samt instrument för mätning av den tid det tar för en puls att reflekteras från jonosfären</descrip>
+          </descripGrp>
+          <note>En sondraket för jonosfärundersökning kallas inte jonosond.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ionosperic sounder</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ионосферная станция</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="jordresurssatellit">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>jordresurssatellit</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">konstgjord jordsatellit för kartläggning och registrering av förekomst och förändringar av naturtillgångar på eller under jordytan, bl.a. medelst sensorer för olika delar av det elektromagnetiska spektret</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>earth resources satellite</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kanal-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kanal</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Flera kanaler (1)  kan utnyttja samma ledning eller samma radioförbindelse genom multiplexteknik.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>datakanal</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förbindelse över vilken data överförs</descrip>
+          </descripGrp>
+          <note>Flera kanaler (1)  kan utnyttja samma ledning eller samma radioförbindelse genom multiplexteknik.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>channel</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kanal</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>canal</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>канал</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kanal-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kanal</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">frekvensband</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>channel</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kanal</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>canal</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>канал</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kapslad_raketmotor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kapslad raketmotor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vid användning punkteras t.ex. membran i drivmedlets utlopp.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">raketmotor för lagringsbart flytande drivmedel, vars tank(ar) tillslutits för lagring utan tillsyn under längre tid</descrip>
+          </descripGrp>
+          <note>Vid användning punkteras t.ex. membran i drivmedlets utlopp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>prepacked liquid rocket engine</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>prepacked rocket engine</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="karakteristisk_utstroemningshastighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>karakteristisk utströmningshastighet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Karakteristisk utströmningshastighet är ett jämförelsemått på hur effektivt kombinationen drivmedel-brännkammare omvandlar bränslets energi till rörelseenergi i en strålmassa, utan hänsyn till ökningen genom expansionsförloppet i dysan, dvs. vid en drivkraftkoefficient = 1.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vid kemisk raketdrift kvoten av utströmningshastigheten och drivkraftskoefficienten</descrip>
+          </descripGrp>
+          <note>Karakteristisk utströmningshastighet är ett jämförelsemått på hur effektivt kombinationen drivmedel-brännkammare omvandlar bränslets energi till rörelseenergi i en strålmassa, utan hänsyn till ökningen genom expansionsförloppet i dysan, dvs. vid en drivkraftkoefficient = 1.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>characteristic exhaust velocity</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>charakteristische Auspuffgeschwindigkeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>vitesse caractéristique d'éjection</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>характеристическая скорость истечения</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kardanstyrning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kardanstyrning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">strålstyrning vid (främst vätske)raketmotor med brännkammare och dysa svängbara i valfri riktning likt en kulled relativt motorns övriga delar så att dysans strålningsriktning ändras</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>gimballed control</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kardansteuerung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>comande à la cardan</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>управление на кардановом подвесе</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kemisk_raketmotor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kemisk raketmotor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Ett rymddrivsystem med kemisk raketmotor består utom av motor av tankar med arbetsmedium. Det senare utgör här såväl energikälla som strålmassa i en och samma substans och benämns (raket)drivmedel. Drivmedlet omvandlas genom upphettning och tryckökning i en brännkammare till strålmassa som expanderar i en dysa. Kemiska raketmotorer indelas med hänsyn till drivmedlets art i krutraketmotorer, vätskeraketmotorer och hybridraketmotorer.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">termodynamisk raketmotor som utnyttjar kemiska reaktioner, t.ex. förbränning, för energialstring</descrip>
+          </descripGrp>
+          <note>Ett rymddrivsystem med kemisk raketmotor består utom av motor av tankar med arbetsmedium. Det senare utgör här såväl energikälla som strålmassa i en och samma substans och benämns (raket)drivmedel. Drivmedlet omvandlas genom upphettning och tryckökning i en brännkammare till strålmassa som expanderar i en dysa. Kemiska raketmotorer indelas med hänsyn till drivmedlets art i krutraketmotorer, vätskeraketmotorer och hybridraketmotorer.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>chemical rocket</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>chemisches Raketentriebwerk</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>moteur-fusée à énergie chimique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>химическая ракета</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kemosfaer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kemosfär</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">tje'mo-</termNote>
+            <note>Det bör observeras att gränserna här är mer osäkra än vad fallet är vid andra indelningsgrunder.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">område (på ca 20–130 km höjd) av den övre jordatmosfären i vilket fotokemiska reaktioner äger rum</descrip>
+          </descripGrp>
+          <note>Det bör observeras att gränserna här är mer osäkra än vad fallet är vid andra indelningsgrunder.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>chemosphere</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Chemosphäre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>chémosphère</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>хемосфера</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="klockfrekvens">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>klockfrekvens</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">takt med vilken operationer styrs och synkroniseras i vissa elektroniska apparater och system</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>clock frequency</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Zeitgeberfrequenz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>fréquence de base</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тактовая частота</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kodare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kodare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning för kodning av meddelande för exempelvis telekommando</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>encoder</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Verschlüssler</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>convertisseur analogique-numérique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аналого-цифровой преобразователь</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="avkodare">avkodare</ref>
+      </termEntry>
+      <termEntry id="kodning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kodning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Kodningens uppgift är exempelvis att öka den informationsmängd som kan överföras på en kanal eller att nedbringa risken för att meddelanden tolkas felaktigt.Motsatsen till kodning, dvs. översättning av kodade data till ursprunglig form, kallas avkodning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">översättning av (digitala) data från en form till en annan</descrip>
+          </descripGrp>
+          <note>Kodningens uppgift är exempelvis att öka den informationsmängd som kan överföras på en kanal eller att nedbringa risken för att meddelanden tolkas felaktigt.Motsatsen till kodning, dvs. översättning av kodade data till ursprunglig form, kallas avkodning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>encoding</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Codierung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>codage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кодирование</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kodare">kodare</ref>
+        <ref type="crossReference" target="avkodare">avkodare</ref>
+      </termEntry>
+      <termEntry id="koherens">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>koherens</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Koherens mellan två signaler innebär att förhållandet mellan deras frekvenser är konstant.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">överensstämmelse mellan svängningstillstånd i olika punkter i tid eller rum</descrip>
+          </descripGrp>
+          <note>Koherens mellan två signaler innebär att förhållandet mellan deras frekvenser är konstant.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>coherence</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kohärenz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>cohérence</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>когерентность</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kommunikationssatellit">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kommunikationssatellit</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Kommunikationssatellit kan vara av två typer. En passiv kommunikationssatellit utgör reflektor för radiovågor. En aktiv kommunikationssatellit förstärker signaler för utsändning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">konstgjord satellit för elektromagnetisk överföring av information mellan två eller flera markstationer</descrip>
+          </descripGrp>
+          <note>Kommunikationssatellit kan vara av två typer. En passiv kommunikationssatellit utgör reflektor för radiovågor. En aktiv kommunikationssatellit förstärker signaler för utsändning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>communications satellite</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Nachtrichtensatellit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>satellite de télécommunication</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>спутник связи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kompositkrut">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kompositkrut</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mekanisk blandning av fast bränsle, t.ex. polybutadien med inblandat aluminiumpulver, och fast oxidation, t.ex. ammoniumperklorat</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>composite propellant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Komposit-Treibstoff</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>propergol composite</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>смесевое (ракетное) топливо</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="konstgjort_straalningsbaelte">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>konstgjort strålningsbälte</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>De hittills konstgjorda strålningsbältena har funnits kvar i flera år.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">område i magnetosfären med laddade partiklar som härstammar från kärnexplosioner och uppfångats av det geomagnetiska fältet</descrip>
+          </descripGrp>
+          <note>De hittills konstgjorda strålningsbältena har funnits kvar i flera år.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>artificial radiation belt</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>künstlicher Strahlungsgürtel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ceinture de rayonnement artificielle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>искусственный радиацонный пояс</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="straalningsbaelte">strålningsbälte</ref>
+      </termEntry>
+      <termEntry id="kosmisk_straalning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kosmisk strålning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">energirikaste delen (huvudsakligen protoner med energier på 10⁷–10²⁷ eV) av den partikelstrålning som synes genomtränga hela universum</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>cosmic radiation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>kosmische Strahlung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rayonnement cosmique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>космическое излучение</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="primaer_kosmisk_straalning">primär kosmisk strålning</ref>
+        <ref type="crossReference" target="sekundaer_kosmisk_straalning">sekundär kosmisk strålning</ref>
+      </termEntry>
+      <termEntry id="kosmisk_straalningsstorm">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kosmisk strålningsstorm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En kosmisk strålningsstorm varar i dagar eller veckor. Den innehåller vanligen några forbushnedgångar.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ovanligt stark fluktuation, huvudsakligen minskning med upp till 10–20 %, av kosmiska strålningens intensitet över hela jorden</descrip>
+          </descripGrp>
+          <note>En kosmisk strålningsstorm varar i dagar eller veckor. Den innehåller vanligen några forbushnedgångar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>cosmic ray storm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>kosmischer Strahlungssturm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>orage de rayonnement cosmique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>буря космических лучей</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kosmiskt_stoft">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kosmiskt stoft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Relativt tätare kosmiskt stoft med stor utbredning kan bilda skymmande moln i den interstellara rymden. Kosmiskt stoft förekommer också i den interplanetariska rymden, där det sannolikt är upphov till zodiakalljuset, samt i den yttre solkoronan.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fasta partiklar i rymden med storlek mellan molekyler och meteorider</descrip>
+          </descripGrp>
+          <note>Relativt tätare kosmiskt stoft med stor utbredning kan bilda skymmande moln i den interstellara rymden. Kosmiskt stoft förekommer också i den interplanetariska rymden, där det sannolikt är upphov till zodiakalljuset, samt i den yttre solkoronan.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>cosmic grains</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cosmic dust</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>kosmischer Staub</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>poussière cosmique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>космическая пыль</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="krets">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>krets</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">enkelt, passivt eller aktivt, elektriskt nätverk med väl definierad funktion</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>circuit</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Stromkreis</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Kreis</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>circuit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цепь</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kretsare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kretsare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rymdfarkost i kretsbana</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>orbiter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Orbiter</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>orbiteur</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>орбитальная ракета</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kretsbana">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kretsbana</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">himlakropps eller rymdfarkosts slutna bana kring ett dominerande gravitationscentrum</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>orbit</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Orbit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>orbite</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>орбита</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kretsbanestoerning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kretsbanestörning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ändring av en kretsbanas form genom atmosfärmotstånd och av dess läge i rymden genom avvikelse hos den dominerande himlakroppens gravitationsfält från ett centralt gravitationsfält</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>orbital disturbation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kreisbahnstörung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>perturbation orbitale</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>орбитальное возмущение</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kretshastighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kretshastighet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vid jordytan är kretshastigheten ca 7,9 km/s.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hastighet en kropp måste tilldelas nära en himlakropps yta för att utan hänsyn till atmosfärmotstånd och utan andra accelererande krafter än gravitationen kunna följa en stabil, cirkulär kretsbana kring himlakroppen</descrip>
+          </descripGrp>
+          <note>Vid jordytan är kretshastigheten ca 7,9 km/s.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>orbital velocity</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Umlaufgeschwindigkeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>vitesse orbitale</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>орбитальная скорость</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="krutladdning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>krutladdning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Krutladdningen gjuts vanligen direkt till önskad form i motorhylsan, vars vägg försetts med foder. Förbränningen sker vanligen inifrån en central hålighet ut mot brännkammarväggen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gjutet eller pressat krutstycke för krutraketmotor</descrip>
+          </descripGrp>
+          <note>Krutladdningen gjuts vanligen direkt till önskad form i motorhylsan, vars vägg försetts med foder. Förbränningen sker vanligen inifrån en central hålighet ut mot brännkammarväggen.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solid propellant grain</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feststoffkörper</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>grain de poudre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пороховая шашка</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="krutraketmotor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>krutraketmotor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kemisk raketmotor för fast drivmedel, bestående av en brännkammare som samtidigt tjänstgör som lagringsrum (motorhylsa) för krutladdningen, en dysa som vanligen är fast förenad med brännkammaren samt tänddon</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>solid propellant rocket motor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Festtreibstoff-Raketenmotor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>moteur-fusée à propergol solide</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ракетный двигатель на твердом топливе</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kryotiskt_drivmedel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kryotiskt drivmedel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på kryotiska vätskor, lämpliga som beståndsdelar i drivmedel, är flytande syre, flytande väte, flytande kväve och flytande fluor.</note>
+            <note>Trots god isolering sker en ständig avkokning vid förvaring av en kryotisk vätska.Förleden kryo- (av grekiska kryos, köld) avser i samband med vatten vanligen en temperatur understigande ca +30 ℃. Termer som kryogen (köldalstrande) och kryotisk (som har samband med köld) avser temperatur under 120 K.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>kryogent drivmedel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">flytande drivmedel med en eller flera kryotiska komponenter, dvs. vätskor med kokpunkt under 120 K</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på kryotiska vätskor, lämpliga som beståndsdelar i drivmedel, är flytande syre, flytande väte, flytande kväve och flytande fluor.</descrip>
+          </descripGrp>
+          <note>Trots god isolering sker en ständig avkokning vid förvaring av en kryotisk vätska.Förleden kryo- (av grekiska kryos, köld) avser i samband med vatten vanligen en temperatur understigande ca +30 ℃. Termer som kryogen (köldalstrande) och kryotisk (som har samband med köld) avser temperatur under 120 K.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>cryogenic propellant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>kryogener Treibstoff</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>propergol cryogénique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>криогенное топливо</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kurskorrektion">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kurskorrektion</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Oacceptabla banfel uppkommer exempelvis genom tidigare manövrer, atmosfärmotstånd vid lång fordrad livslängd hos en konstgjord satellit och gravitationsstörningar av en stationär satellits bana.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mindre ändring av rymdfarkosts banhastighet för kompensering av alltför stora banfel</descrip>
+          </descripGrp>
+          <note>Oacceptabla banfel uppkommer exempelvis genom tidigare manövrer, atmosfärmotstånd vid lång fordrad livslängd hos en konstgjord satellit och gravitationsstörningar av en stationär satellits bana.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mid-course correction</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mittkursmanöver</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>correction en course de route</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коррекция траектории на среднем участке полета</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kaernbatteri">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kärnbatteri</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Kärnbatteriet används för vissa rymdfarkosters energiförsörjning. Den radioaktiva nukliden kan exempelvis vara strontium-90, polonium-210 eller plutonium-238. Värmeenergin kan nyttjas för exempelvis upphettning av en behållare med termoelement fastsatta på insidan, varvid en elspänning alstras i elementen (termoelektrisk generator), eller för upphettning av en katod i en vakuumbehållare, varigenom elektroner sänds ut till anoden (termojonisk generator).Ett kärnbatteris effekt avtar med tiden på ett sätt som bestäms av den radioaktiva nuklidens halveringstid.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anordning som omvandlar energi från radioaktivt sönderfall direkt eller via värmeenergi till elektrisk energi</descrip>
+          </descripGrp>
+          <note>Kärnbatteriet används för vissa rymdfarkosters energiförsörjning. Den radioaktiva nukliden kan exempelvis vara strontium-90, polonium-210 eller plutonium-238. Värmeenergin kan nyttjas för exempelvis upphettning av en behållare med termoelement fastsatta på insidan, varvid en elspänning alstras i elementen (termoelektrisk generator), eller för upphettning av en katod i en vakuumbehållare, varigenom elektroner sänds ut till anoden (termojonisk generator).Ett kärnbatteris effekt avtar med tiden på ett sätt som bestäms av den radioaktiva nuklidens halveringstid.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>nuclear battery</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Isotopenbatterie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>batterie nucléaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kaernbombsraket">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kärnbombsraket</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>kärnpulsraket</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kärnstrålningsraket där drivkraften alstras av strålningstrycket från små detonerande kärnbomber</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>nuclear bomb rocket</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kaernfusionsraket">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kärnfusionsraket</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kärnraketmotor som utnyttjar energin från kärnfusionsreaktioner</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thermonuclear fusion rocket</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kaernraketmotor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kärnraketmotor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Med hänsyn till sättet att producera strålmassa indelas kärnraketmotorerna i kärnvärmeraketer och kärnstrålningsraketer. Energi kan erhållas genom fission, fusion eller radionukleärt sönderfall.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">motor för icke-kemisk raketdrift som utnyttjar kärnenergi</descrip>
+          </descripGrp>
+          <note>Med hänsyn till sättet att producera strålmassa indelas kärnraketmotorerna i kärnvärmeraketer och kärnstrålningsraketer. Energi kan erhållas genom fission, fusion eller radionukleärt sönderfall.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>nuclear rocket engine</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kernraketentriebwerk</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>moteur-fusée nucléaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ядерный ракетный двигатель</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kaernstraalningsraket">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kärnstrålningsraket</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kärnraketmotor där strålningsmassan härrör från kärnreaktioner eller radioaktiva nuklider</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>nuclear radiation rocket</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kaernbombsraket">kärnbombsraket</ref>
+      </termEntry>
+      <termEntry id="kaernvaermeraket">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kärnvärmeraket</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på arbetsmedium i en kärnvärmeraket är flytande väte.</note>
+            <note>Tre reaktortyper kan förekomma, med fast reaktorhärd, flytande reaktorhärd eller gasformig reaktorhärd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kärnraketmotor där värmeenergin från en kärnreaktor överförs till ett arbetsmedium varefter strålmassan expanderar i en dysa</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på arbetsmedium i en kärnvärmeraket är flytande väte.</descrip>
+          </descripGrp>
+          <note>Tre reaktortyper kan förekomma, med fast reaktorhärd, flytande reaktorhärd eller gasformig reaktorhärd.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thermonuclear fission rocket</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="lacemotor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>lacemotor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">lejs-</termNote>
+            <note>Atmosfärluft sugs in under uppfarten och kyls ned till flytande form, varefter luftsyret förbränns ovanför atmosfären tillsammans med medfört väte.Konstruktionen innebär en potentiell viktbesparing för horisontalstartande bärfarkoster. Kylmedlet kan vara samma flytande väte som används vid syrets förbränning.Benämningen lacemotor kommer av det engelska uttrycket liquid air-cycle engine.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">raketmotor för luftförbrukande drivsystem</descrip>
+          </descripGrp>
+          <note>Atmosfärluft sugs in under uppfarten och kyls ned till flytande form, varefter luftsyret förbränns ovanför atmosfären tillsammans med medfört väte.Konstruktionen innebär en potentiell viktbesparing för horisontalstartande bärfarkoster. Kylmedlet kan vara samma flytande väte som används vid syrets förbränning.Benämningen lacemotor kommer av det engelska uttrycket liquid air-cycle engine.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>lace engine</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="rammraketmotor">rammraketmotor</ref>
+      </termEntry>
+      <termEntry id="lagringsbart_drivmedel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>lagringsbart drivmedel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Allt fast drivmedel kan normalt räknas som lagringsbart.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">drivmedel som kan lagras i åratal utan ändring av kemiska eller fysikaliska egenskaper, utan mängdförlust och utan att menligt påverka behållarens material</descrip>
+          </descripGrp>
+          <note>Allt fast drivmedel kan normalt räknas som lagringsbart.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>storable propellant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>lagerbarer Treibstoff</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>propergol stockable</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>долгосохраняющееся топливо</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="rymdlagringsbart_drivmedel">rymdlagringsbart drivmedel</ref>
+      </termEntry>
+      <termEntry id="langmuirsond">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>langmuirsond</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Langmuirsonder används i satelliter för mätning av elektriska fält och plasmaegenskaper i rymden.I. Langmuir (1881–1957), amerikansk fysiker och kemist, nobelpristagare i kemi år 1932.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">metallsond i plasma kännetecknad av att den elektriska strömmen mäts vid olika spänningar, varur plasmats potential, temperatur och densitet kan beräknas</descrip>
+          </descripGrp>
+          <note>Langmuirsonder används i satelliter för mätning av elektriska fält och plasmaegenskaper i rymden.I. Langmuir (1881–1957), amerikansk fysiker och kemist, nobelpristagare i kemi år 1932.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Langmuir probe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Langmuir-Sonde</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sonde de Langmuir</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>зонд Lенгмюра</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="librationspunkt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>librationspunkt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Librationspunkten bildar tillsammans med de större kropparna en liksidig triangel.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">punkt i rymden, till sitt läge bestämd av två större himlakroppars gravitation, och omkring vilken en mindre kropp kan utföra svängningar, librationer, men så att den mindre kroppen är bunden till punktens närhet, dvs. befinner sig i stabil jämvikt</descrip>
+          </descripGrp>
+          <note>Librationspunkten bildar tillsammans med de större kropparna en liksidig triangel.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>libration point</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Librationspunkt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>point de libration</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>точка либрации</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="livslaengd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>livslängd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Uppskattad livslängd för en rymdfarkost är den förutsedda tidrymd under vilken dess utrustning, särskilt den elektroniska, är i funktion. För en konstgjord satellit avses med livslängd den tidrymd under vilken den stannar i kretsbana, fram till en ev. störning genom atmosfärmotståndets verkan. Livslängden för en raketmotor uttrycks ofta, språkligt oegentligt, i antalet starter.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tidrymd under vilken ett föremål eller ett system kan brukas för avsett ändamål</descrip>
+          </descripGrp>
+          <note>Uppskattad livslängd för en rymdfarkost är den förutsedda tidrymd under vilken dess utrustning, särskilt den elektroniska, är i funktion. För en konstgjord satellit avses med livslängd den tidrymd under vilken den stannar i kretsbana, fram till en ev. störning genom atmosfärmotståndets verkan. Livslängden för en raketmotor uttrycks ofta, språkligt oegentligt, i antalet starter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>life</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Lebensdauer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>durée de vie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>продолжительность (срок) службы</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ljusbaageraket">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ljusbågeraket</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I det förra fallet är ljusbågeraketen en elektronisk raketmotor, i det senare en elektromagnetisk raketmotor.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">elektrisk raketmotor där en ljusbåge upphettar arbetsmediet till strålmassa och eventuellt även accelererar denna</descrip>
+          </descripGrp>
+          <note>I det förra fallet är ljusbågeraketen en elektronisk raketmotor, i det senare en elektromagnetisk raketmotor.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plasma arc rocket</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="plasmaraket">plasmaraket</ref>
+      </termEntry>
+      <termEntry id="ljustryck">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>ljustryck</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>light pressure</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Lichtdruck</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pression de lumière</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>светное давление</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="straalningstryck">strålningstryck</ref>
+      </termEntry>
+      <termEntry id="luftemboli">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>luftemboli</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">uppträdande av luftbubblor i blodkärl, med återföljande blockering av blodflödet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>aeroembolism</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Luftembolie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>aéroembolie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>воздушная эмболия</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="lunar">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>lunar</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>lunär</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hörande till månen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>lunar</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>lunar</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>lunaire</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>лунный</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="lyftkraft">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>lyftkraft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Lyftkraften kan verka mot eller från jordens medelpunkt.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">aerodynamisk kraft som verkar på en i atmosfären flygande kropp och är riktad vinkelrätt mot rörelseriktningen</descrip>
+          </descripGrp>
+          <note>Lyftkraften kan verka mot eller från jordens medelpunkt.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>aerodynamic lift</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Auftriebskraft</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>force de sustentation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>подъемная сила</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="lysande_nattmoln">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>lysande nattmoln</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">samling av mycket små partiklar på 80–90 km höjd över jordytan, synlig som moln på hög latitud under sommarnätter</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>noctilucent cloud</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>nachtleuchtende Wolke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>nuage nocturne luminescent</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>серебристые облака</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="laasning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>låsning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tillstånd hos följesystem när det automatiskt utför följning av avsedd signal, inmätningsobjekt e.d.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>lock</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Einrasten</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>accrocher et suivre</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>захватывание</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="magnetisk_bukt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>magnetisk bukt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En magnetisk bukt yttrar sig som en höjning eller minskning av fältstyrkan med en varaktighet av en halv timme upp till några timmar.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">störning i geomagnetiska fältet, märkbar över områden av storleksordningen en kontinent, huvudsakligen omkring polarskenszonerna</descrip>
+          </descripGrp>
+          <note>En magnetisk bukt yttrar sig som en höjning eller minskning av fältstyrkan med en varaktighet av en halv timme upp till några timmar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>magnetic bay</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>erdmagnetische Bai</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>baie magnétique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>магнитная бухта</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="magnetisk_storm">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>magnetisk storm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I en magnetisk storm urskiljer man en inledningsfas, en huvudfas och en återhämtningsfas.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">global störning av det geomagnetiska fältet, med en varaktighet mellan några timmar och en vecka</descrip>
+          </descripGrp>
+          <note>I en magnetisk storm urskiljer man en inledningsfas, en huvudfas och en återhämtningsfas.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>magnetic storm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>erdmagnetischer Sturm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>orage magnétique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>магнитная буря</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="magnetohydrodynamik">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>magnetohydrodynamik</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>MHD</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">läran om elektriskt ledande vätskors och gasers dynamik i magnetfält</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>magnetohydrodynamics</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Magnetohydrodynamik</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>magnétohydrodynamique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>магнитогидродинамика</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="magnetopaus">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>magnetopaus</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">yttre avgränsning av magnetosfären mot solvinden</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>magnetopause</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Magnetopause</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>magnétopause</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>магнитопауза</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="magnetosfaer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>magnetosfär</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Jordens magnetosfär börjar på omkring 120 km höjd. Utsträckningen i riktning mot solen är ca 6–15 jordradier, medan den i riktning från solen är ca 1000 jordradier. Detta beror på att solvinden ger magnetosfären ungefär samma form som en kometsvans. Magnetosfären består av tre områden: plasmasfären, yttre magnetosfären som omfattar området mellan plasmapausen och magnetopausen, samt svansen på jordens nattsida bortom ca 10 jordradier.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">område i rymden omkring en himlakropp där dess magnetfält utövar ett dominerande inflytande på plasma och elektriskt laddade partiklar</descrip>
+          </descripGrp>
+          <note>Jordens magnetosfär börjar på omkring 120 km höjd. Utsträckningen i riktning mot solen är ca 6–15 jordradier, medan den i riktning från solen är ca 1000 jordradier. Detta beror på att solvinden ger magnetosfären ungefär samma form som en kometsvans. Magnetosfären består av tre områden: plasmasfären, yttre magnetosfären som omfattar området mellan plasmapausen och magnetopausen, samt svansen på jordens nattsida bortom ca 10 jordradier.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>magnetosphere</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Magnetosphäre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>magnétosphère</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>магнитосфера</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="magnetosfaerisk_substorm">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>magnetosfärisk substorm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>magnetospheric substorm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>magnetosphärischer Teilsturm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sousorage magnétosphérique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>магнитосферная суббуря</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="substorm">substorm</ref>
+      </termEntry>
+      <termEntry id="magnetoskikt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>magnetoskikt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I magnetoskiktet är solvinden subalfvénsk och dess magnetfält synnerligen turbulent.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">område mellan magnetopausen och chockfront (2) </descrip>
+          </descripGrp>
+          <note>I magnetoskiktet är solvinden subalfvénsk och dess magnetfält synnerligen turbulent.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>magnetosheath</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Magnetoschicht</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>magnetogain</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>магнитослой</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="manoever">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>manöver</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Hastighetsmanövrer är exempelvis kurskorrektioner, motorinbromsning för landning på atmosfärlös himlakropp, aerodynamisk bromsning från cislunar bana för ingång i nedfartskorridor, stegseparering, rymdmöte, dockning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ändring av en bärfarkosts eller rymdfarkosts attityd eller hastighet, med undantag av hastighetstillskott som tillförs en bärfarkost av banstegsmotor eller booster</descrip>
+          </descripGrp>
+          <note>Hastighetsmanövrer är exempelvis kurskorrektioner, motorinbromsning för landning på atmosfärlös himlakropp, aerodynamisk bromsning från cislunar bana för ingång i nedfartskorridor, stegseparering, rymdmöte, dockning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>manoeuvre</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Manöver</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>manœuvre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>маневр</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="markdrivkraft">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>markdrivkraft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">drivkraft som en raketmotor alstrar när omgivande trycket är lika med atmosfärtrycket vid markytan</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>sea level thrust</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schub in Meereshöhe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>poussée au niveau de la mer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тяга на уровне моря</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="hoejdvinst">höjdvinst</ref>
+        <ref type="crossReference" target="vakuumdrivkraft">vakuumdrivkraft</ref>
+      </termEntry>
+      <termEntry id="markstation">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>markstation</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anläggning på jordytan för överföring av data (telemätning, telekommando m.m.) till och från rymdfarkoster, för baninmätning e.d.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ground station</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bodenstation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>station terrienne</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>наземная станция</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="marssond">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>marssond</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Martian probe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Marssonde</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sonde de Mars</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ракета в сторону Mарса</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="rymdsond">rymdsond</ref>
+      </termEntry>
+      <termEntry id="massfloede">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>massflöde</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel är massflödet från en raketmotor, den utströmmande strålmassemängden per tidenhet.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">massa som per tidenhet passerar en yta vinkelrätt mot strömningsriktningen i ett strömningsfält</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel är massflödet från en raketmotor, den utströmmande strålmassemängden per tidenhet.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mass flow</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Massenfluss</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>flux massique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>массовый расход</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="masskoncentration">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>masskoncentration</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Masskoncentrationer orsakar en onormalt stor lokal gravitation. De har påträffats i vissa mare-områden på månen.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>mascon</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">koncentration av materia med onormalt stor densitet på relativt ringa djup under lokalt område på planet eller måne</descrip>
+          </descripGrp>
+          <note>Masskoncentrationer orsakar en onormalt stor lokal gravitation. De har påträffats i vissa mare-områden på månen.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mascon</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mascon</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>réplétion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="masskvot">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>masskvot</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>r</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mass ratio</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Massenverhältnis</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rapport de masses</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>относительная масса</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="disponibel_masskvot">disponibel masskvot</ref>
+        <ref type="crossReference" target="erforderlig_masskvot">erforderlig masskvot</ref>
+      </termEntry>
+      <termEntry id="mesopaus">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>mesopaus</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mesosfärens övre gräns</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mesopause</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mesopause</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mésopause</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мезопауза</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="mesosfaer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>mesosfär</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Mesosfären sträcker sig från ca 50 km till ca 85 km höjd över jordytan, alltså mellan stratosfären och termosfären.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">det övre av de båda jordatmosfärskikt där temperaturen minskar med ökad höjd</descrip>
+          </descripGrp>
+          <note>Mesosfären sträcker sig från ca 50 km till ca 85 km höjd över jordytan, alltså mellan stratosfären och termosfären.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mesosphere</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mesosphäre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mésosphère</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мезосфера</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="meteor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meteor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Även det ljusfenomen (stjärnfall) som åtföljer en sådan händelse.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fast kropp som infaller i jordatmosfären med stor hastighet och därigenom helt eller delvis förgasas</descrip>
+          </descripGrp>
+          <note>Även det ljusfenomen (stjärnfall) som åtföljer en sådan händelse.</note>
+          <admin type="searchTerm">stjärnfall</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>meteor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Meteor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>météore</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метеор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="meteorid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meteorid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En meteorid med diameter mindre än storleksordningen 0,1 mm kallas mikrometeorid.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fast naturlig kropp som rör sig genom yttre rymden, mycket större än atomer och molekyler och mycket mindre än asteroider</descrip>
+          </descripGrp>
+          <note>En meteorid med diameter mindre än storleksordningen 0,1 mm kallas mikrometeorid.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>meteoroid</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Meteoroid</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>météoroide</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метеороид</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="meteorit">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meteorit</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En meteorit med diameter mindre än storleksordningen 1 mm kallas mikrometeorit.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">meteorid som nått jordytan utan att helt ha förgasats</descrip>
+          </descripGrp>
+          <note>En meteorit med diameter mindre än storleksordningen 1 mm kallas mikrometeorit.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>meteorite</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Meteorit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>météorite</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метеорит</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="meteorologisk_satellit">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meteorologisk satellit</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kostgjord satellit för observation av väderförhållanden</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>meteorological satellite</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>meteorologischer Satellit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>satellite météorologique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метеорологический спутник</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="meteorsvaerm-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meteorsvärm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>En meteorsvärm (2)  kan givetvis innehålla flera meteorsvärmar (1) .</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">samling meteorider som rör sig i nästan parallella banor</descrip>
+          </descripGrp>
+          <note>En meteorsvärm (2)  kan givetvis innehålla flera meteorsvärmar (1) .</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>meteor shower</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>meteor stream</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Meteorschauer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Meteorstrom</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>averse de météores</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>courant de météores</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метеорный дождь</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>метеорный поток</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="meteorsvaerm-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meteorsvärm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>En meteorsvärm (2)  kan givetvis innehålla flera meteorsvärmar (1) .</note>
+            <note>Example: Exempel på meteorsvärm (2)  är Perseiderna och Leoniderna, vilkas banor jorden korsar i augusti resp. november.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">grupp av meteorider som rör sig i och är utspridda längs en i huvudsak gemensam bana</descrip>
+          </descripGrp>
+          <note>En meteorsvärm (2)  kan givetvis innehålla flera meteorsvärmar (1) .</note>
+          <descripGrp>
+            <descrip type="example">Exempel på meteorsvärm (2)  är Perseiderna och Leoniderna, vilkas banor jorden korsar i augusti resp. november.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>meteor shower</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>meteor stream</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Meteorschauer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Meteorstrom</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>averse de météores</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>courant de météores</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метеорный дождь</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>метеорный поток</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="mikrometeorid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>mikrometeorid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>micrometeoroid</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mikrometeoroid</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>micrométéoroide</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>микрометеороид</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="meteorid">meteorid</ref>
+      </termEntry>
+      <termEntry id="mikrometeorit">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>mikrometeorit</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>micrometeorite</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mikrometeorit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>micrométéorite</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>микрометеорит</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="meteorit">meteorit</ref>
+      </termEntry>
+      <termEntry id="mikropulsation">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>mikropulsation</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Två typer av mikropulsation finns, regelbunden (betecknad Pc) och oregelbunden (betecknad Pi). De fortplantas som alfvénvågor i magnetosfären. Studiet av mikropulsationer ger viktiga upplysningar om tillståndet i magnetosfären.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">variation i det geomagnetiska fältet inom frekvensbandet 0,001–10 Hz</descrip>
+          </descripGrp>
+          <note>Två typer av mikropulsation finns, regelbunden (betecknad Pc) och oregelbunden (betecknad Pi). De fortplantas som alfvénvågor i magnetosfären. Studiet av mikropulsationer ger viktiga upplysningar om tillståndet i magnetosfären.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>micropulsation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mikropulsation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>micropulsation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>микропульсация</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="mikrotrustor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>mikrotrustor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>microthruster</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="trustor">trustor</ref>
+      </termEntry>
+      <termEntry id="modulering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>modulering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Beroende på vilken parameter som varieras skiljer man mellan amplitudmodulering (AM), frekvensmodulering (FM), fasmodulering (PM) och pulstågsmodulering.</note>
+            <note>Example: Exempel på sammansatt modulering är FM/PM som betecknar fasmodulering av en bärvåg med underbärvågor som är frekvensmodulerade.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">variation av en parameter hos en periodisk signal (bärvåg) med hjälp av en annan signal</descrip>
+          </descripGrp>
+          <note>Beroende på vilken parameter som varieras skiljer man mellan amplitudmodulering (AM), frekvensmodulering (FM), fasmodulering (PM) och pulstågsmodulering.</note>
+          <descripGrp>
+            <descrip type="example">Exempel på sammansatt modulering är FM/PM som betecknar fasmodulering av en bärvåg med underbärvågor som är frekvensmodulerade.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>modulation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Modulation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>modulation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>модуляция</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="monteringstorn">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>monteringstorn</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">servicetorn varifrån monteringsarbete utförs på bärfarkost eller rymdfarkost</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>assembling tower</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Montageturm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>tour de montage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tour d'assamblage</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>башня обслуживания (монтажа)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="motorhosta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>motorhosta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Orsaken till motorhosta är en koppling mellan förbränningsmekanismen och akustiska störningar i brännkammaren. I en krutraketmotor ger företeelsen upphov till ett ojämnt tryckförlopp som kan leda till explosion.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">instabilt förbrännningsförlopp i kemisk raketmotor, yttrande sig som ljudfenomen med antingen relativt låg frekvens eller relativt hög frekvens</descrip>
+          </descripGrp>
+          <note>Orsaken till motorhosta är en koppling mellan förbränningsmekanismen och akustiska störningar i brännkammaren. I en krutraketmotor ger företeelsen upphov till ett ojämnt tryckförlopp som kan leda till explosion.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>chugging</term>
+            </termGrp>
+            <termNote type="usageNote">relativt låg frekvens</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>screaming</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="usageNote">relativt hög frekvens</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Husten</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>grondement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>hurlement</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>неустойчивое горение</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="multiplexteknik">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>multiplexteknik</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Multiplexteknik kan använda tiddelning (tidsmultiplex), varvid överföring utförs för en storhet i taget och informationen om de olika storheterna på kanalen kommer att uppträda som pulsmodulering, eller tilldelning av viss frekvenskanal åt varje storhet (frekvensmultiplex).</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">metod för överföring av information avseende två eller flera storheter över en gemensam ledning eller radioförbindelse</descrip>
+          </descripGrp>
+          <note>Multiplexteknik kan använda tiddelning (tidsmultiplex), varvid överföring utförs för en storhet i taget och informationen om de olika storheterna på kanalen kommer att uppträda som pulsmodulering, eller tilldelning av viss frekvenskanal åt varje storhet (frekvensmultiplex).</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>multiplexing</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Multiplex-Schaltung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>multiplexage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>многократность</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="maanfoeljare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>månföljare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moon tracker</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mondverfolger</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pointeur lunaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>лунный пеленгатор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="foeljare">följare</ref>
+      </termEntry>
+      <termEntry id="maansensor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>månsensor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moon sensor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mondfühler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>détecteur lunaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>лунный датчик</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="sensor">sensor</ref>
+      </termEntry>
+      <termEntry id="maansond">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>månsond</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>lunar probe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mondsonde</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sonde lunaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ракета в сторону Луны</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="rymdsond">rymdsond</ref>
+      </termEntry>
+      <termEntry id="maansoekare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>månsökare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>moon scanner</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mondabtaster</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>analyseur lunaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>лунный развертыватель</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="soekare">sökare</ref>
+      </termEntry>
+      <termEntry id="maenniskocentrifug">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>människocentrifug</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Termen människocentrifug är vanligare än den sakligt bättre motiverade termen biocentrifug.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>biocentrifug</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">roterande anordning i vilken försökspersoner eller försöksdjur kan bringas att kretsa med olika hastighet, varigenom den långvariga acceleration simuleras som kan förekomma i flygplan samt i bärfarkost och rymdfarkost</descrip>
+          </descripGrp>
+          <note>Termen människocentrifug är vanligare än den sakligt bättre motiverade termen biocentrifug.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>human centrifuge</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Menschenzentrifuge</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>centrifugeuse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>центрифуга</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="navigeringssatellit">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>navigeringssatellit</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">konstgjord satellit avsedd som hjälpmedel vid yt- eller flygnavigering</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>navigation satellite</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Navigationssatellit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>atellite de navigation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>навигацонный спутник</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="nedfart">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>nedfart</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Till en atmosfärlös himlakropp företas nedfarten genom bromsning med raketmotorer, till en atmosfärförsedd himlakropp dessutom eller enbart genom aerodynamisk bromsning. I det senare fallet är nedfarten ofta förbunden med svåra värmeproblem.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">slutfas i en rymdfarkosts färd till en planet- eller månyta</descrip>
+          </descripGrp>
+          <note>Till en atmosfärlös himlakropp företas nedfarten genom bromsning med raketmotorer, till en atmosfärförsedd himlakropp dessutom eller enbart genom aerodynamisk bromsning. I det senare fallet är nedfarten ofta förbunden med svåra värmeproblem.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>re-entry</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wiedereintritt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rentrée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>возврат через атмосферу</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="nedfartskorridor">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>nedfartskorridor</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Nedfartskorridorens övre gräns bestäms av risken för att centrifugalkraften blir större än skillnaden mellan gravitationen och den från himlakroppens medelpunkt riktade lyftkraften, varigenom himlakroppen aldrig kan fånga rymdfarkosten. Korridorens undre gräns bestäms av risken för att en alltför kraftig aerodynamisk bromsning ger en för stor tyngdreaktion eller en för hög skaltemperatur.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">område i höjd- och sidled inom vilket en rymdfarkost, som anländer till en atmosfärförsedd himlakropp med hastigheten lika med eller större än flykthastigheten, måste bringas att flyga för att kunna landa utan att skadas under nedfarten</descrip>
+          </descripGrp>
+          <note>Nedfartskorridorens övre gräns bestäms av risken för att centrifugalkraften blir större än skillnaden mellan gravitationen och den från himlakroppens medelpunkt riktade lyftkraften, varigenom himlakroppen aldrig kan fånga rymdfarkosten. Korridorens undre gräns bestäms av risken för att en alltför kraftig aerodynamisk bromsning ger en för stor tyngdreaktion eller en för hög skaltemperatur.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>re-entry corridor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wiedereintrittskorridor</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>corridor de rentrée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коридор возвращения (в атмосферу)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="nedraekning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>nedräkning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Nedräkningen avslutas vanligen med noggrann tidangivelse de tio sista sekunderna.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förberedelser före start av bärfarkost eller rymdfarkost, genomförda i sträng tidordning och innefattande slutmontering samt påfyllning av drivmedel, tryckluft, elenergi m.m. och funktionskontroll</descrip>
+          </descripGrp>
+          <note>Nedräkningen avslutas vanligen med noggrann tidangivelse de tio sista sekunderna.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>countdown</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Countdown</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Auszählen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>compte à rebours</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>предстартовый отчет времени</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fylltorn">fylltorn</ref>
+        <ref type="crossReference" target="servicetorn">servicetorn</ref>
+        <ref type="crossReference" target="startfixtur">startfixtur</ref>
+        <ref type="crossReference" target="starttidstolerans">starttidstolerans</ref>
+      </termEntry>
+      <termEntry id="negativ_acceleration">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>negativ acceleration</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">acceleration i riktning från huvudet till fötterna hos en människa eller annan högre levande varelse, med resultat att blodmängden minskar i benen och ökar i huvudet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>negative acceleration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>negative Beschleunigung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>accéleration négative</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>отрицательное ускорение</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="neutral_linje">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>neutral linje</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>På den del av jordens magnetopaus som ligger på dagsidan ungefär över ekvatorn finns åtminstone tidvis en neutral linje som kallas cahilldiskontinuiteten.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">isolerad linje där ett kraftfält (t.ex. ett magnetfält eller ett elektriskt fält) praktiskt taget försvinner jämfört med området utanför</descrip>
+          </descripGrp>
+          <note>På den del av jordens magnetopaus som ligger på dagsidan ungefär över ekvatorn finns åtminstone tidvis en neutral linje som kallas cahilldiskontinuiteten.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>neutral line</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Neutrallinie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ligne neutre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нейтральная линия</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

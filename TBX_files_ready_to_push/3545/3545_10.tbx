@@ -1,0 +1,2312 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Högskoleverket, Universitets- och högskolerådet: Svensk-engelsk ordbok | 2021</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="anmaelningsblankett">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>anmälningsblankett</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ansökningsblankett</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>application form</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="anmaelningskod">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>anmälningskod</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ansökningskod</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>application code</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="antagen">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagen</term>
+            </termGrp>
+            <note>Använd inte intagen.</note>
+          </ntig>
+          <note>Använd inte intagen.</note>
+          <admin type="searchTerm">intagen</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admitted</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antagning">antagning</ref>
+      </termEntry>
+      <termEntry id="antagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagning</term>
+            </termGrp>
+            <note>Termen antagning används ibland för den process som pågår från fastställande av utbildningsutbud till utbildningens start. Använd då hellre antagningsprocess.Använd inte intagning för detta begrepp.</note>
+            <note>Equivalence: När termen antagning används om själva processen förekommer också admissions process och admissions som engelska ekvivalenter.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">beslut om att en person erbjuds plats på viss utbildning</descrip>
+          </descripGrp>
+          <note>Termen antagning används ibland för den process som pågår från fastställande av utbildningsutbud till utbildningens start. Använd då hellre antagningsprocess.Använd inte intagning för detta begrepp.</note>
+          <note>Equivalence: När termen antagning används om själva processen förekommer också admissions process och admissions som engelska ekvivalenter.</note>
+          <admin type="searchTerm">antagningsprocess</admin>
+          <admin type="searchTerm">intagning</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admission</term>
+            </termGrp>
+          </ntig>
+          <admin type="searchTerm">admissions process</admin>
+          <admin type="searchTerm">admissions</admin>
+        </langSet>
+        <ref type="crossReference" target="registrering">registrering</ref>
+        <ref type="crossReference" target="tilltraede">tillträde</ref>
+      </termEntry>
+      <termEntry id="antagningsbesked">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagningsbesked</term>
+            </termGrp>
+            <note>När ett beslut om antagning till en högskoleutbildning är fattat får den sökande till utbildningen i fråga ett antagningsbesked, oavsett om hen är antagen eller ej.</note>
+          </ntig>
+          <note>När ett beslut om antagning till en högskoleutbildning är fattat får den sökande till utbildningen i fråga ett antagningsbesked, oavsett om hen är antagen eller ej.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admission decision</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kontrollbesked">kontrollbesked</ref>
+      </termEntry>
+      <termEntry id="antagningsbestaemmelser">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagningsbestämmelser</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admission regulations</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="antagningsenhet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagningsenhet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admissions office</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="antagningsomgaang">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagningsomgång</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">sammanhållen hantering av anmälningar till högskoleutbildning, med gemensam anmälningstid och urvalstidpunkt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admissions round</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="antagningsordning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagningsordning</term>
+            </termGrp>
+            <note>Se vidare 6 kap. högskoleförordningen (1993:100).</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">lokala regler dels för behörighet och urval, dels för hur beslut om antagning fattas och hur beslut om behörighet överklagas</descrip>
+          </descripGrp>
+          <note>Se vidare 6 kap. högskoleförordningen (1993:100).</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admission regulations</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="antagningsprov">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>antagningsprov</term>
+            </termGrp>
+            <note>Ibland används inträdesprov i stället för antagningsprov.  Inom de konstnärliga utbildningarna används ofta arbetsprov.</note>
+          </ntig>
+          <note>Ibland används inträdesprov i stället för antagningsprov.  Inom de konstnärliga utbildningarna används ofta arbetsprov.</note>
+          <admin type="searchTerm">inträdesprov</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>entrance examination</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>entrance test</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="arbetsprov">arbetsprov</ref>
+      </termEntry>
+      <termEntry id="arbetslivserfarenhet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>arbetslivserfarenhet</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ALE</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>yrkeslivserfarenhet</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>professional experience</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>work experience</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="arbetsprov">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>arbetsprov</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>portfolio</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>work samples</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antagningsprov">antagningsprov</ref>
+      </termEntry>
+      <termEntry id="avgiftsbefriad">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>avgiftsbefriad</term>
+            </termGrp>
+            <note>I förordningen (2010:543) beskrivs villkor för betalande studenter, se termposten betalande student.</note>
+          </ntig>
+          <note>I förordningen (2010:543) beskrivs villkor för betalande studenter, se termposten betalande student.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>non-fee paying</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>exempted from fees</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="anmaelningsavgift">anmälningsavgift</ref>
+        <ref type="crossReference" target="avgiftsskyldig">avgiftsskyldig</ref>
+        <ref type="crossReference" target="betalande_student">betalande student</ref>
+        <ref type="crossReference" target="studieavgift">studieavgift</ref>
+      </termEntry>
+      <termEntry id="avgiftsskyldig">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>avgiftsskyldig</term>
+            </termGrp>
+            <note>I förordningen (2010:543) beskrivs villkor för betalande studenter, se termposten betalande student.</note>
+          </ntig>
+          <note>I förordningen (2010:543) beskrivs villkor för betalande studenter, se termposten betalande student.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>required to pay fees</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="anmaelningsavgift">anmälningsavgift</ref>
+        <ref type="crossReference" target="avgiftsbefriad">avgiftsbefriad</ref>
+        <ref type="crossReference" target="betalande_student">betalande student</ref>
+        <ref type="crossReference" target="studieavgift">studieavgift</ref>
+      </termEntry>
+      <termEntry id="behoerig_soekande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörig sökande</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>qualified applicant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="behoerig_till_studier">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörig till studier</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>qualified for entry</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>qualified for admission</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="behoerighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighet</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+            <note>För att studera vid universitet eller högskola måste man uppfylla behörighetskrav. Dessa är indelade i grundläggande respektive särskilda behörighetskrav. För all högskoleutbildning krävs grundläggande behörighet. För tillträde till många högskoleutbildningar krävs dessutom särskild behörighet.</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">erforderliga kvalifikationer för att antas till högskoleutbildning</descrip>
+          </descripGrp>
+          <note>För att studera vid universitet eller högskola måste man uppfylla behörighetskrav. Dessa är indelade i grundläggande respektive särskilda behörighetskrav. För all högskoleutbildning krävs grundläggande behörighet. För tillträde till många högskoleutbildningar krävs dessutom särskild behörighet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>entry requirements</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>admission requirements</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="grundlaeggande_behoerighet">grundläggande behörighet</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighetskrav">grundläggande behörighetskrav</ref>
+        <ref type="crossReference" target="saerskild_behoerighet">särskild behörighet</ref>
+        <ref type="crossReference" target="saerskilda_behoerighetskrav">särskilda behörighetskrav</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+        <ref type="crossReference" target="standardbehoerighet">standardbehörighet</ref>
+      </termEntry>
+      <termEntry id="behoerighetsbevis_foer_laerare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetsbevis för lärare</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">dokument som intygar att en person har behörighet till läraryrket</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>qualified teacher status certificate</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>QTS certificate</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="behoerighetsgivande_kurs">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetsgivande kurs</term>
+            </termGrp>
+            <note>För att få behörighet till en mer avancerad kurs inom sin högskoleutbildning kan man först behöva läsa en eller flera kurser, s.k. behörighetsgivande kurser.</note>
+          </ntig>
+          <note>För att få behörighet till en mer avancerad kurs inom sin högskoleutbildning kan man först behöva läsa en eller flera kurser, s.k. behörighetsgivande kurser.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>prerequisite course</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>qualifying course</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetsgivande_foerutbildning">behörighetsgivande förutbildning</ref>
+        <ref type="crossReference" target="behoerighetskurs">behörighetskurs</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighet">grundläggande behörighet</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+        <ref type="crossReference" target="saerskild_behoerighet">särskild behörighet</ref>
+      </termEntry>
+      <termEntry id="behoerighetsgivande_foerutbildning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetsgivande förutbildning</term>
+            </termGrp>
+            <note>Behörighetsgivande förutbildning får erbjudas om det finns brist på behöriga sökande och det finns ett behov på arbetsmarknaden av utbildad arbetskraft inom detta område. Den får omfatta högst ett år. En form av behörighetsgivande förutbildning kallas basårsutbildning eller basår.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utbildning som syftar till att ge den studerande kunskaper motsvarande de behörighetskrav som är uppställda för en viss högskoleutbildning</descrip>
+          </descripGrp>
+          <note>Behörighetsgivande förutbildning får erbjudas om det finns brist på behöriga sökande och det finns ett behov på arbetsmarknaden av utbildad arbetskraft inom detta område. Den får omfatta högst ett år. En form av behörighetsgivande förutbildning kallas basårsutbildning eller basår.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>access programme</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="basaarsutbildning">basårsutbildning</ref>
+        <ref type="crossReference" target="behoerighetskurs">behörighetskurs</ref>
+        <ref type="crossReference" target="hoegskoleintroducerande_utbildning">högskoleintroducerande utbildning</ref>
+      </termEntry>
+      <termEntry id="behoerighetsintyg_foer_utlandsstudier">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetsintyg för utlandsstudier</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>behörighetsbevis för utlandsstudier</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>certificate of eligibility for higher education studies</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="behoerighetskomplettering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetskomplettering</term>
+            </termGrp>
+            <note>Behörighetskomplettering innebär att den sökande har läst upp eller läst in ett ämne eller en kurs som han eller hon tidigare hade för lågt betyg i eller som helt saknades.</note>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som förklaring av det svenska begreppet än som en etablerad engelsk term.På engelska används verbfrasen take a qualification to fulfil entry requirements som översättning till göra en behörighetskomplettering respektive submit a qualification to fulfil entry requirements som översättning till skicka in en behörighetskomplettering.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">komplettering som ger behörighet</descrip>
+          </descripGrp>
+          <note>Behörighetskomplettering innebär att den sökande har läst upp eller läst in ett ämne eller en kurs som han eller hon tidigare hade för lågt betyg i eller som helt saknades.</note>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som förklaring av det svenska begreppet än som en etablerad engelsk term.På engelska används verbfrasen take a qualification to fulfil entry requirements som översättning till göra en behörighetskomplettering respektive submit a qualification to fulfil entry requirements som översättning till skicka in en behörighetskomplettering.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>qualification to fulfil entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="komplettering">komplettering</ref>
+        <ref type="crossReference" target="konkurrenskomplettering">konkurrenskomplettering</ref>
+        <ref type="crossReference" target="meritpoaengskomplettering">meritpoängskomplettering</ref>
+        <ref type="crossReference" target="tillaeggskomplettering">tilläggskomplettering</ref>
+        <ref type="crossReference" target="utbyteskomplettering">utbyteskomplettering</ref>
+      </termEntry>
+      <termEntry id="behoerighetskrav">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetskrav</term>
+            </termGrp>
+            <note>För att bli antagen till studier vid universitet eller högskola måste den sökande uppfylla behörighetskrav.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>förkunskapskrav</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <note>För att bli antagen till studier vid universitet eller högskola måste den sökande uppfylla behörighetskrav.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>entry requirements</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>admission requirements</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighetskrav">grundläggande behörighetskrav</ref>
+        <ref type="crossReference" target="saerskilda_behoerighetskrav">särskilda behörighetskrav</ref>
+      </termEntry>
+      <termEntry id="behoerighetskurs">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetskurs</term>
+            </termGrp>
+            <note>För att få behörighet till högskoleutbildning kan man behöva läsa vissa gymnasiekurser, s.k. behörighetskurser.</note>
+          </ntig>
+          <note>För att få behörighet till högskoleutbildning kan man behöva läsa vissa gymnasiekurser, s.k. behörighetskurser.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>required course</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetsgivande_foerutbildning">behörighetsgivande förutbildning</ref>
+        <ref type="crossReference" target="behoerighetsgivande_kurs">behörighetsgivande kurs</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighet">grundläggande behörighet</ref>
+        <ref type="crossReference" target="meritkurs">meritkurs</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+        <ref type="crossReference" target="omraadeskurs">områdeskurs</ref>
+        <ref type="crossReference" target="saerskild_behoerighet">särskild behörighet</ref>
+      </termEntry>
+      <termEntry id="behoerighetsproevning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetsprövning</term>
+            </termGrp>
+            <note>Universiteten och högskolorna prövar om personer som söker högskoleutbildning uppfyller grundläggande och eventuella särskilda behörighetskrav. Behörighetsprövningar görs också bland annat för att avgöra om en sökande med utländsk utbildning uppfyller behörighetskraven för att få svensk lärarbehörighet.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">prövning för att avgöra om en sökande uppfyller behörighetskrav</descrip>
+          </descripGrp>
+          <note>Universiteten och högskolorna prövar om personer som söker högskoleutbildning uppfyller grundläggande och eventuella särskilda behörighetskrav. Behörighetsprövningar görs också bland annat för att avgöra om en sökande med utländsk utbildning uppfyller behörighetskraven för att få svensk lärarbehörighet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>assessment of qualifications</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>evaluation of qualifications</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="behoerighetsregler">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>behörighetsregler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>entry regulations</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>admission regulations</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="betalande_student">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>betalande student</term>
+            </termGrp>
+            <note>Termen betalande student används för en student som enligt förordningen (2010:543) om anmälningsavgift och studieavgift vid universitet och högskolor måste betala för att studera i Sverige. Avgiften kan delas upp i anmälningsavgift och studieavgift.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>betalstudent</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">(inom högskoleväsendet:) student som betalar avgift för sin högskoleutbildning</descrip>
+          </descripGrp>
+          <note>Termen betalande student används för en student som enligt förordningen (2010:543) om anmälningsavgift och studieavgift vid universitet och högskolor måste betala för att studera i Sverige. Avgiften kan delas upp i anmälningsavgift och studieavgift.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fee-paying student</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="anmaelningsavgift">anmälningsavgift</ref>
+        <ref type="crossReference" target="avgiftsbefriad">avgiftsbefriad</ref>
+        <ref type="crossReference" target="avgiftsskyldig">avgiftsskyldig</ref>
+        <ref type="crossReference" target="studieavgift">studieavgift</ref>
+      </termEntry>
+      <termEntry id="betygsutdrag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>betygsutdrag</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>official transcript</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="betygsvaerde">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>betygsvärde</term>
+            </termGrp>
+            <note>Betygsvärde är ett viktat värde som används för att räkna ut en elevs jämförelsetal.</note>
+          </ntig>
+          <note>Betygsvärde är ett viktat värde som används för att räkna ut en elevs jämförelsetal.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>course value</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tariff points</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">GB</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="jaemfoerelsetal">jämförelsetal</ref>
+        <ref type="crossReference" target="meritpoaeng">meritpoäng</ref>
+        <ref type="crossReference" target="meritvaerde">meritvärde</ref>
+      </termEntry>
+      <termEntry id="bevilja_undantag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bevilja undantag</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ge dispens</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>exempt</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>waive</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="breddad_rekrytering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>breddad rekrytering</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">rekrytering av studenter från grupper som på olika sätt är underrepresenterade vid universitet och högskola</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>widening participation</term>
+            </termGrp>
+            <termNote type="geographicalUsage">GB</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>broader recruitment</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dispensansoekan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>dispensansökan</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>application for exemption</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="efteranmaelan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>efteranmälan</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>efteransökan</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sen anmälan</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>late application</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="anmaelan">anmälan</ref>
+      </termEntry>
+      <termEntry id="efterantagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>efterantagning</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>kompletterande antagning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>acceptance of late applicants</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="erkaennande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>erkännande</term>
+            </termGrp>
+            <note>Tidigare baserades erkännande av meriter på en mer direkt jämförelse av antal poäng, en så kallade ekvivalering, något som inte görs i samma utsträckning i dag.</note>
+          </ntig>
+          <note>Tidigare baserades erkännande av meriter på en mer direkt jämförelse av antal poäng, en så kallade ekvivalering, något som inte görs i samma utsträckning i dag.</note>
+          <admin type="searchTerm">ekvivalering</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>recognition of qualification</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="formell_behoerighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>formell behörighet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>formal entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fortsaettningsregistrering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>fortsättningsregistrering</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">registrering som en student gör på en kurs när kursen fortsätter över terminsskifte</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>continued registration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="registrering">registrering</ref>
+      </termEntry>
+      <termEntry id="foerstagaangsregistrering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>förstagångsregistrering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>first registration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="registrering">registrering</ref>
+      </termEntry>
+      <termEntry id="foerstahandssoekande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>förstahandssökande</term>
+            </termGrp>
+            <note>Till utbildningar med hårt söktryck är den sökandes prioritetsordning avgörande för fördelningen av platser.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">person som sökt viss högskoleutbildning som sitt förstahandsval</descrip>
+          </descripGrp>
+          <note>Till utbildningar med hårt söktryck är den sökandes prioritetsordning avgörande för fördelningen av platser.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>first choice applicant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="grundlaeggande_behoerighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>grundläggande behörighet</term>
+            </termGrp>
+            <note>De som uppfyller grundläggande behörighetskrav för högskoleutbildning har grundläggande behörighet. Den grundläggande behörigheten måste i många fall kompletteras med särskild behörighet.Kraven för grundläggande behörighet fastställs av regeringen.Grundläggande behörighet kallades tidigare allmän behörighet.</note>
+          </ntig>
+          <note>De som uppfyller grundläggande behörighetskrav för högskoleutbildning har grundläggande behörighet. Den grundläggande behörigheten måste i många fall kompletteras med särskild behörighet.Kraven för grundläggande behörighet fastställs av regeringen.Grundläggande behörighet kallades tidigare allmän behörighet.</note>
+          <admin type="searchTerm">allmän behörighet</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>general entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighetskrav">grundläggande behörighetskrav</ref>
+        <ref type="crossReference" target="reell_kompetens">reell kompetens</ref>
+        <ref type="crossReference" target="saerskild_behoerighet">särskild behörighet</ref>
+        <ref type="crossReference" target="standardbehoerighet">standardbehörighet</ref>
+      </termEntry>
+      <termEntry id="grundlaeggande_behoerighetskrav">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>grundläggande behörighetskrav</term>
+            </termGrp>
+            <note>De som uppfyller grundläggande behörighetskrav för högskoleutbildning har grundläggande behörighet. Kraven uppfylls vanligen genom utbildning, framför allt från gymnasieskolan, men även de som av andra skäl har förutsättningar att klara högskoleutbildningen kan ha grundläggande behörighet. Den grundläggande behörigheten måste i många fall kompletteras med särskild behörighet.De grundläggande behörighetskraven fastställs av regeringen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vissa fastställda lägsta krav för tillträde till högskoleutbildning</descrip>
+          </descripGrp>
+          <note>De som uppfyller grundläggande behörighetskrav för högskoleutbildning har grundläggande behörighet. Kraven uppfylls vanligen genom utbildning, framför allt från gymnasieskolan, men även de som av andra skäl har förutsättningar att klara högskoleutbildningen kan ha grundläggande behörighet. Den grundläggande behörigheten måste i många fall kompletteras med särskild behörighet.De grundläggande behörighetskraven fastställs av regeringen.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>general entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+        <ref type="crossReference" target="reell_kompetens">reell kompetens</ref>
+      </termEntry>
+      <termEntry id="hoegskoleprovet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Högskoleprovet</term>
+            </termGrp>
+            <note>Högskoleprovet, som är ett nationellt studiefärdighetsprov administrerat av Universitets- och högskolerådet, används som en av flera urvalsgrunder vid urvalet till högskoleutbildning på grundnivå för nybörjare.</note>
+          </ntig>
+          <note>Högskoleprovet, som är ett nationellt studiefärdighetsprov administrerat av Universitets- och högskolerådet, används som en av flera urvalsgrunder vid urvalet till högskoleutbildning på grundnivå för nybörjare.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Swedish Scholastic Aptitude Test</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>SweSAT</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="jaemfoerelsetal">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>jämförelsetal</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+            <note>För att få fram ett jämförelsetal tilldelas betygen ett siffervärde (till exempel Godkänt = 10). Siffervärdet multipliceras med kursens gymnasiepoäng för att kursen ska ges ett betygsvärde. Betyget Godkänt på en 100-poängskurs ger betygsvärdet 1000. Alla kursers betygsvärden summeras, och resultatet divideras med gymnasieutbildningens totala poängsumma. Jämförelsetalet kan som mest bli 20,0.</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">sammanräknat värde av en elevs gymnasiebetyg</descrip>
+          </descripGrp>
+          <note>För att få fram ett jämförelsetal tilldelas betygen ett siffervärde (till exempel Godkänt = 10). Siffervärdet multipliceras med kursens gymnasiepoäng för att kursen ska ges ett betygsvärde. Betyget Godkänt på en 100-poängskurs ger betygsvärdet 1000. Alla kursers betygsvärden summeras, och resultatet divideras med gymnasieutbildningens totala poängsumma. Jämförelsetalet kan som mest bli 20,0.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>grade average</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="betygsvaerde">betygsvärde</ref>
+        <ref type="crossReference" target="meritpoaeng">meritpoäng</ref>
+        <ref type="crossReference" target="meritvaerde">meritvärde</ref>
+      </termEntry>
+      <termEntry id="komplettering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>komplettering</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+            <note>Ibland avses med komplettering även själva dokumentationen det vill säga de dokument som bevisar ett visst tillägg av meriter, till exempel ett betygsdokument.</note>
+            <note>Equivalence: På engelska används verbfrasen take a supplementary qualification som översättning till göra en komplettering respektive submit a supplementary qualification som översättning till skicka in en komplettering.</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">tillägg av meriter</descrip>
+          </descripGrp>
+          <note>Ibland avses med komplettering även själva dokumentationen det vill säga de dokument som bevisar ett visst tillägg av meriter, till exempel ett betygsdokument.</note>
+          <note>Equivalence: På engelska används verbfrasen take a supplementary qualification som översättning till göra en komplettering respektive submit a supplementary qualification som översättning till skicka in en komplettering.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>supplementary qualification</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetskomplettering">behörighetskomplettering</ref>
+        <ref type="crossReference" target="konkurrenskomplettering">konkurrenskomplettering</ref>
+        <ref type="crossReference" target="meritpoaengskomplettering">meritpoängskomplettering</ref>
+        <ref type="crossReference" target="tillaeggskomplettering">tilläggskomplettering</ref>
+        <ref type="crossReference" target="utbyteskomplettering">utbyteskomplettering</ref>
+        <ref type="crossReference" target="merit">merit</ref>
+      </termEntry>
+      <termEntry id="konkurrenskomplettering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>konkurrenskomplettering</term>
+            </termGrp>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som förklaring av det svenska begreppet än som en etablerad engelsk term.På engelska används verbfrasen take a top-up qualification som översättning till göra en konkurrenskomplettering respektive submit a top-up qualification som översättning till skicka in en konkurrenskomplettering.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">komplettering i form av höjning av betygsvärde genom ytterligare studier eller prövning, i syfte att förbättra sina konkurrensmöjligheter vid urval till högskoleutbildning</descrip>
+          </descripGrp>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som förklaring av det svenska begreppet än som en etablerad engelsk term.På engelska används verbfrasen take a top-up qualification som översättning till göra en konkurrenskomplettering respektive submit a top-up qualification som översättning till skicka in en konkurrenskomplettering.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>top-up qualification</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetskomplettering">behörighetskomplettering</ref>
+        <ref type="crossReference" target="komplettering">komplettering</ref>
+        <ref type="crossReference" target="meritpoaengskomplettering">meritpoängskomplettering</ref>
+        <ref type="crossReference" target="tillaeggskomplettering">tilläggskomplettering</ref>
+        <ref type="crossReference" target="utbyteskomplettering">utbyteskomplettering</ref>
+      </termEntry>
+      <termEntry id="kontrollbesked">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kontrollbesked</term>
+            </termGrp>
+            <note>Den som har sökt till en högskoleutbildning får ett kontrollbesked över bokförda meriter innan hen får ett antagningsbesked.</note>
+            <note>Equivalence: De engelska uttrycken ska snarare ses som förklaringar av det svenska begreppet än som etablerade engelska termer.</note>
+          </ntig>
+          <note>Den som har sökt till en högskoleutbildning får ett kontrollbesked över bokförda meriter innan hen får ett antagningsbesked.</note>
+          <note>Equivalence: De engelska uttrycken ska snarare ses som förklaringar av det svenska begreppet än som etablerade engelska termer.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>preliminary assessment</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>proof of submission and preliminary assessment</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antagningsbesked">antagningsbesked</ref>
+        <ref type="crossReference" target="merit">merit</ref>
+      </termEntry>
+      <termEntry id="kvoterad_antagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kvoterad antagning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>quota-based admissions</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="kvotering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>kvotering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>affirmative quotas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ladok">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>Ladok</term>
+            </termGrp>
+            <note>Ladok stod ursprungligen för ”lokalt ADB-baserat studiedokumentationssystem”.Se vidare Ladok [ladok.se].</note>
+          </ntig>
+          <note>Ladok stod ursprungligen för ”lokalt ADB-baserat studiedokumentationssystem”.Se vidare Ladok [ladok.se].</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>Ladok</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Ladok student registry</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="lokal_antagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>lokal antagning</term>
+            </termGrp>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">antagning som görs lokalt av universitet eller högskola</descrip>
+          </descripGrp>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>local admissions</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antagning">antagning</ref>
+        <ref type="crossReference" target="samordnad_antagning">samordnad antagning</ref>
+      </termEntry>
+      <termEntry id="merit">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>merit</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">dokumenterad kunskap eller erfarenhet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>qualification</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="betyg">betyg</ref>
+        <ref type="crossReference" target="meritering">meritering</ref>
+        <ref type="crossReference" target="meritpoaeng">meritpoäng</ref>
+        <ref type="crossReference" target="meritvaerde">meritvärde</ref>
+      </termEntry>
+      <termEntry id="meritberaekning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritberäkning</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>meritvärdering</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">aktiviteten att räkna samman meritvärde</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>assessment of qualifications</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="meritvaerde">meritvärde</ref>
+      </termEntry>
+      <termEntry id="meritera_sig">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritera sig</term>
+            </termGrp>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+          </ntig>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>acquire further qualifications</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="merit">merit</ref>
+        <ref type="crossReference" target="meriteringsanstaellning">meriteringsanställning</ref>
+      </termEntry>
+      <termEntry id="meriterande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meriterande</term>
+            </termGrp>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+          </ntig>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>providing a useful qualification</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="merit">merit</ref>
+      </termEntry>
+      <termEntry id="meritering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritering</term>
+            </termGrp>
+            <note>Equivalence: De engelska uttrycken ska snarare ses som förklaringar av det svenska begreppet än etablerade	engelska termer.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">process att skaffa sig meriter</descrip>
+          </descripGrp>
+          <note>Equivalence: De engelska uttrycken ska snarare ses som förklaringar av det svenska begreppet än etablerade	engelska termer.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>acquisition of qualifications</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>acquisition of skills and experience</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="merit">merit</ref>
+      </termEntry>
+      <termEntry id="meritfoerteckning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritförteckning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>curriculum vitae</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>CV</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="merit">merit</ref>
+      </termEntry>
+      <termEntry id="meritkurs">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritkurs</term>
+            </termGrp>
+            <note>Meritkurser är en del av systemet med områdesbehörigheter. En elev i gymnasieskolan kan höja sitt jämförelsetal genom att läsa meritkurser i moderna språk, engelska eller matematik.</note>
+          </ntig>
+          <note>Meritkurser är en del av systemet med områdesbehörigheter. En elev i gymnasieskolan kan höja sitt jämförelsetal genom att läsa meritkurser i moderna språk, engelska eller matematik.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>weighted course</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="jaemfoerelsetal">jämförelsetal</ref>
+        <ref type="crossReference" target="merit">merit</ref>
+        <ref type="crossReference" target="meritpoaeng">meritpoäng</ref>
+        <ref type="crossReference" target="omraadeskurs">områdeskurs</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+      </termEntry>
+      <termEntry id="meritpoaeng">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritpoäng</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+            <note>I det system med områdesbehörigheter som införts fr.o.m. 2010-01-01 utgör meritpoäng en integrerad del. Meritpoängen (maximalt 2,5 poäng) läggs till jämförelsetalet.</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">poäng som en elev kan få på särskilda meritkurser från gymnasieskolan</descrip>
+          </descripGrp>
+          <note>I det system med områdesbehörigheter som införts fr.o.m. 2010-01-01 utgör meritpoäng en integrerad del. Meritpoängen (maximalt 2,5 poäng) läggs till jämförelsetalet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>credit increment</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="betygsvaerde">betygsvärde</ref>
+        <ref type="crossReference" target="jaemfoerelsetal">jämförelsetal</ref>
+        <ref type="crossReference" target="merit">merit</ref>
+        <ref type="crossReference" target="meritkurs">meritkurs</ref>
+        <ref type="crossReference" target="omraadeskurs">områdeskurs</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+      </termEntry>
+      <termEntry id="meritpoaengskomplettering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritpoängskomplettering</term>
+            </termGrp>
+            <note>Equivalence: På engelska används verbfrasen take a supplementary credit increment som översättning till göra en meritpoängskomplettering respektive submit a supplementary credit increment som översättning till skicka in en meritpoängskomplettering.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">konkurrenskomplettering genom ytterligare studier och prövning i kurs som ger meritpoäng och som inte finns i gymnasiebetyg eller som inte har godkänts i gymnasiebetyg</descrip>
+          </descripGrp>
+          <note>Equivalence: På engelska används verbfrasen take a supplementary credit increment som översättning till göra en meritpoängskomplettering respektive submit a supplementary credit increment som översättning till skicka in en meritpoängskomplettering.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>supplementary credit increment</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetskomplettering">behörighetskomplettering</ref>
+        <ref type="crossReference" target="komplettering">komplettering</ref>
+        <ref type="crossReference" target="konkurrenskomplettering">konkurrenskomplettering</ref>
+        <ref type="crossReference" target="merit">merit</ref>
+        <ref type="crossReference" target="meritpoaeng">meritpoäng</ref>
+        <ref type="crossReference" target="tillaeggskomplettering">tilläggskomplettering</ref>
+        <ref type="crossReference" target="utbyteskomplettering">utbyteskomplettering</ref>
+      </termEntry>
+      <termEntry id="meritvaerde">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>meritvärde</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+            <note>Vid antagning till högskoleutbildning på grundnivå används framför allt gymnasiebetyg och högskoleprov som meriter. I det meritvärdet ingår jämförelsetal och meritpoäng.</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">sammanräknat värde av en persons meriter vid antagning till högskoleutbildning</descrip>
+          </descripGrp>
+          <note>Vid antagning till högskoleutbildning på grundnivå används framför allt gymnasiebetyg och högskoleprov som meriter. I det meritvärdet ingår jämförelsetal och meritpoäng.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>merit rating</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>grade tariff</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="betygsvaerde">betygsvärde</ref>
+        <ref type="crossReference" target="jaemfoerelsetal">jämförelsetal</ref>
+        <ref type="crossReference" target="merit">merit</ref>
+        <ref type="crossReference" target="meritpoaeng">meritpoäng</ref>
+      </termEntry>
+      <termEntry id="motsvarandebedoemning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>motsvarandebedömning</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bedömning av om en sökandes meriter motsvarar behörighetskraven för en viss högskoleutbildning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>equivalence assessment</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="merit">merit</ref>
+        <ref type="crossReference" target="reell_kompetens">reell kompetens</ref>
+        <ref type="crossReference" target="validering">validering</ref>
+      </termEntry>
+      <termEntry id="obehoerig">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>obehörig</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>unqualified</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="omregistrering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>omregistrering</term>
+            </termGrp>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">registrering som görs när en student behöver registrera sig på samma kurs som hen tidigare varit registrerad på</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>re-registration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="registrering">registrering</ref>
+      </termEntry>
+      <termEntry id="omraadesbehoerighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>områdesbehörighet</term>
+            </termGrp>
+            <note>Den särskilda behörigheten är inte densamma för all högskoleutbildning utan är sedan 2010-01-01 uppdelad i så kallade områdesbehörigheter. Systemet med standardbehörigheter har upphört att gälla. Systemet med områdesbehörigheter består av behörighetskrav för olika utbildningar, kopplade till kurser som ger extra poäng, så kallade meritkurser.</note>
+          </ntig>
+          <note>Den särskilda behörigheten är inte densamma för all högskoleutbildning utan är sedan 2010-01-01 uppdelad i så kallade områdesbehörigheter. Systemet med standardbehörigheter har upphört att gälla. Systemet med områdesbehörigheter består av behörighetskrav för olika utbildningar, kopplade till kurser som ger extra poäng, så kallade meritkurser.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>field-specific entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighet">grundläggande behörighet</ref>
+        <ref type="crossReference" target="meritkurs">meritkurs</ref>
+        <ref type="crossReference" target="omraadeskurs">områdeskurs</ref>
+        <ref type="crossReference" target="standardbehoerighet">standardbehörighet</ref>
+        <ref type="crossReference" target="saerskild_behoerighet">särskild behörighet</ref>
+      </termEntry>
+      <termEntry id="pedagogisk_meritering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pedagogisk meritering</term>
+            </termGrp>
+            <note>Equivalence: De engelska uttrycken ska snarare ses som förklaringar av det svenska begreppet än etablerade engelska termer.</note>
+          </ntig>
+          <note>Equivalence: De engelska uttrycken ska snarare ses som förklaringar av det svenska begreppet än etablerade engelska termer.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>acquisition of educational qualifications</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>acquisition of educational skills and experience</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="merit">merit</ref>
+        <ref type="crossReference" target="meritering">meritering</ref>
+      </termEntry>
+      <termEntry id="positiv_saerbehandling">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>positiv särbehandling</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>affirmative action</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>positive discrimination</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="proevning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>prövning</term>
+            </termGrp>
+            <note>Begreppet prövning kan stå för dels själva förfarandet att undersöka och bedöma, dels resultatet av detta förfarande, som till exempel visas i form av en rapport.Inom högskoleväsendet görs prövningar av bland annat följande slag: behörighetsprövning av vissa personer som söker högskoleutbildning och prövning av om en viss högskola kan få examenstillstånd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">undersökning och bedömning för att avgöra om något eller någon godkänns eller ej</descrip>
+          </descripGrp>
+          <note>Begreppet prövning kan stå för dels själva förfarandet att undersöka och bedöma, dels resultatet av detta förfarande, som till exempel visas i form av en rapport.Inom högskoleväsendet görs prövningar av bland annat följande slag: behörighetsprövning av vissa personer som söker högskoleutbildning och prövning av om en viss högskola kan få examenstillstånd.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>assessment</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>evaluation</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>review</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetsproevning">behörighetsprövning</ref>
+        <ref type="crossReference" target="examenstillstaandsproevning">examenstillståndsprövning</ref>
+      </termEntry>
+      <termEntry id="reell_kompetens">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reell kompetens</term>
+            </termGrp>
+            <note>Reell kompetens kan användas som underlag när man fastställer om en individ uppfyller grundläggande eller särskild behörighet inför antagning till högskoleutbildning eller om hen ska kunna tillgodoräkna sig viss utbildning eller vissa kunskaper och färdigheter.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">samlad faktisk kompetens som en individ har oberoende av hur, när eller var den har utvecklats</descrip>
+          </descripGrp>
+          <note>Reell kompetens kan användas som underlag när man fastställer om en individ uppfyller grundläggande eller särskild behörighet inför antagning till högskoleutbildning eller om hen ska kunna tillgodoräkna sig viss utbildning eller vissa kunskaper och färdigheter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>prior learning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="tillgodoraekna_sig">tillgodoräkna sig</ref>
+        <ref type="crossReference" target="validering">validering</ref>
+        <ref type="crossReference" target="validering_av_reell_kompetens">validering av reell kompetens</ref>
+      </termEntry>
+      <termEntry id="registrera">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>registrera</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>register</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="registrering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>registrering</term>
+            </termGrp>
+            <note>Genom att registrera sig på den aktuella institutionen bekräftar en student att hen kommer att delta i en viss utbildning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">inskrivning vid en institution efter antagning till en utbildning</descrip>
+          </descripGrp>
+          <note>Genom att registrera sig på den aktuella institutionen bekräftar en student att hen kommer att delta i en viss utbildning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>registration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antagning">antagning</ref>
+      </termEntry>
+      <termEntry id="rekrytering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>rekrytering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>recruitment</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="breddad_rekrytering">breddad rekrytering</ref>
+      </termEntry>
+      <termEntry id="reserv">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reserv</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>applicant on waiting list</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reservantagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reservantagning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admission from waiting list</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reservplacerad">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reservplacerad</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>placed on a waiting list</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="reservplats">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>reservplats</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>waiting list number</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="samordnad_antagning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>samordnad antagning</term>
+            </termGrp>
+            <note>Med samordnad antagning menas den centrala och nationella antagning som administreras via VHS (Verket för högskoleservice) antagningssystem NyA.Ibland används central antagning eller gemensam antagning för detta begrepp.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">antagning som görs samtidigt till högskoleutbildning som ges vid fler än ett lärosäte</descrip>
+          </descripGrp>
+          <note>Med samordnad antagning menas den centrala och nationella antagning som administreras via VHS (Verket för högskoleservice) antagningssystem NyA.Ibland används central antagning eller gemensam antagning för detta begrepp.</note>
+          <admin type="searchTerm">central antagning</admin>
+          <admin type="searchTerm">gemensam antagning</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pooled admissions system</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antagning">antagning</ref>
+        <ref type="crossReference" target="lokal_antagning">lokal antagning</ref>
+      </termEntry>
+      <termEntry id="sista_anmaelningsdag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sista anmälningsdag</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sista ansökningsdag</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>application deadline</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>closing date for applications</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="standardbehoerighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>standardbehörighet</term>
+            </termGrp>
+            <note>Den särskilda behörigheten är inte densamma för all högskoleutbildning utan är uppdelad i så kallade standardbehörigheter beroende på vilken utbildning det gäller. För att till exempel antas till en utbildning som leder till sjuksköterskeexamen krävs standardbehörighet F.1.1, vilket innebär krav på godkänt betyg på gymnasiekurserna Samhällskunskap A, Matematik B och Naturkunskap B (alternativt Fysik A, Kemi A och Biologi A).Systemet med standardbehörigheter upphörde att gälla 2009-12-31 och har ersatts av ett system av områdesbehörigheter.</note>
+          </ntig>
+          <note>Den särskilda behörigheten är inte densamma för all högskoleutbildning utan är uppdelad i så kallade standardbehörigheter beroende på vilken utbildning det gäller. För att till exempel antas till en utbildning som leder till sjuksköterskeexamen krävs standardbehörighet F.1.1, vilket innebär krav på godkänt betyg på gymnasiekurserna Samhällskunskap A, Matematik B och Naturkunskap B (alternativt Fysik A, Kemi A och Biologi A).Systemet med standardbehörigheter upphörde att gälla 2009-12-31 och har ersatts av ett system av områdesbehörigheter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>standardised specific entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighet">grundläggande behörighet</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+        <ref type="crossReference" target="saerskild_behoerighet">särskild behörighet</ref>
+      </termEntry>
+      <termEntry id="studieovan_miljoe">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>studieovan miljö</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>non-academic background</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="breddad_rekrytering">breddad rekrytering</ref>
+      </termEntry>
+      <termEntry id="saerskild_behoerighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>särskild behörighet</term>
+            </termGrp>
+            <note>Den som uppfyller särskilda behörighetskrav för en viss högskoleutbildning har särskild behörighet. Särskild behörighet krävs för tillträde till många högskoleutbildningar.</note>
+          </ntig>
+          <note>Den som uppfyller särskilda behörighetskrav för en viss högskoleutbildning har särskild behörighet. Särskild behörighet krävs för tillträde till många högskoleutbildningar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>specific entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="grundlaeggande_behoerighet">grundläggande behörighet</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+        <ref type="crossReference" target="standardbehoerighet">standardbehörighet</ref>
+        <ref type="crossReference" target="saerskilda_behoerighetskrav">särskilda behörighetskrav</ref>
+      </termEntry>
+      <termEntry id="saerskilda_behoerighetskrav">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>särskilda behörighetskrav</term>
+            </termGrp>
+            <note>Den som utöver att ha grundläggande behörighet uppfyller särskilda behörighetskrav för en viss högskoleutbildning har särskild behörighet för att antas till denna utbildning. Särskilda behörighetskrav ställs för tillträde till många högskoleutbildningar. Kraven utgörs av viss utbildning på gymnasienivå men kan inkludera annat, till exempel arbetslivserfarenhet.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>särskilda förkunskapskrav</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">särskilda krav på tidigare utbildning eller annan särskild kompetens, utöver grundläggande behörighetskrav, för tillträde till viss högskoleutbildning</descrip>
+          </descripGrp>
+          <note>Den som utöver att ha grundläggande behörighet uppfyller särskilda behörighetskrav för en viss högskoleutbildning har särskild behörighet för att antas till denna utbildning. Särskilda behörighetskrav ställs för tillträde till många högskoleutbildningar. Kraven utgörs av viss utbildning på gymnasienivå men kan inkludera annat, till exempel arbetslivserfarenhet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>specific entry requirements</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>specific admission requirements</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+        <ref type="crossReference" target="grundlaeggande_behoerighet">grundläggande behörighet</ref>
+        <ref type="crossReference" target="omraadesbehoerighet">områdesbehörighet</ref>
+        <ref type="crossReference" target="standardbehoerighet">standardbehörighet</ref>
+      </termEntry>
+      <termEntry id="soekande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>sökande</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>applicant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="soektryck">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>söktryck</term>
+            </termGrp>
+            <note>Ordet söktryck används övergripande när man vill beskriva exempelvis att det är svårt att bli antagen till en högskoleutbildning på grund av att det är många sökande: ”Det är högt söktryck.” Men i statistiska sammanhang (inom Universitetskanslersämbetet) kan söktryck avse exempelvis ”antal behöriga förstahandssökande per antagen” eller ”antal behöriga förstahandssökande per plats”. Det är därför viktigt att man förklarar i vilken betydelse man använder ordet.</note>
+            <note>Equivalence: Söktryck har olika ekvivalenter beroende på sammanhang: many applications eller many applicants används när det är många sökande. Och när det är svårt att komma in på en utbildning används applicants per place, acceptance ratio eller acceptance rate.Inom statistik används qualified first-choice applicants per admitted student. ”Det är högt söktryck.” motsvaras av ”There are many applicants (per place).” eller ”There is a low acceptance ratio/rate.”</note>
+          </ntig>
+          <note>Ordet söktryck används övergripande när man vill beskriva exempelvis att det är svårt att bli antagen till en högskoleutbildning på grund av att det är många sökande: ”Det är högt söktryck.” Men i statistiska sammanhang (inom Universitetskanslersämbetet) kan söktryck avse exempelvis ”antal behöriga förstahandssökande per antagen” eller ”antal behöriga förstahandssökande per plats”. Det är därför viktigt att man förklarar i vilken betydelse man använder ordet.</note>
+          <note>Equivalence: Söktryck har olika ekvivalenter beroende på sammanhang: many applications eller many applicants används när det är många sökande. Och när det är svårt att komma in på en utbildning används applicants per place, acceptance ratio eller acceptance rate.Inom statistik används qualified first-choice applicants per admitted student. ”Det är högt söktryck.” motsvaras av ”There are many applicants (per place).” eller ”There is a low acceptance ratio/rate.”</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>applicants per place</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>acceptance rate</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>acceptance ratio</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <admin type="searchTerm">qualified first-choice applicants per admitted student</admin>
+        </langSet>
+        <ref type="crossReference" target="antagning">antagning</ref>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+        <ref type="crossReference" target="tilltraedesregler">tillträdesregler</ref>
+      </termEntry>
+      <termEntry id="terminsregistrering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>terminsregistrering</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>semester registration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="registrering">registrering</ref>
+      </termEntry>
+      <termEntry id="tillgodoraekna_sig">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tillgodoräkna sig</term>
+            </termGrp>
+            <note>Att en student får tillgodoräkna sig en viss högskoleutbildning eller vissa kunskaper eller färdigheter innebär att ett universitet eller en högskola erkänner att utbildningen, kunskaperna eller färdigheterna motsvarar en viss specifik kurs eller en del av en kurs på grundnivå, avancerad nivå eller forskarnivå.</note>
+          </ntig>
+          <note>Att en student får tillgodoräkna sig en viss högskoleutbildning eller vissa kunskaper eller färdigheter innebär att ett universitet eller en högskola erkänner att utbildningen, kunskaperna eller färdigheterna motsvarar en viss specifik kurs eller en del av en kurs på grundnivå, avancerad nivå eller forskarnivå.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>be given credit for</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>be credited with</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tillgodoraeknande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tillgodoräknande</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>credit transfer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="tillgodoraekna_sig">tillgodoräkna sig</ref>
+      </termEntry>
+      <termEntry id="tilltraede">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tillträde</term>
+            </termGrp>
+            <note>Termen tillträde används i huvudsak i juridiska texter ¬i samband med de regler och krav som ställs på en person för att hen ska kunna bli antagen till högskoleutbildning. Exempelvis finns krav på grundläggande behörighet för att man över huvud taget ska få tillträde till högskoleutbildning.I Högskoleförordningen används termen tillträde mer övergripande.Ordet tillträde kan användas i delvis en annan betydelse i uttryck som ”tillträde till tjänsten som rektor”. Då används tillträde för ”det att inleda sin verksamhet som rektor”.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">(inom högskoleväsendet:) rätt att kunna bli antagen till högskoleutbildning</descrip>
+          </descripGrp>
+          <note>Termen tillträde används i huvudsak i juridiska texter ¬i samband med de regler och krav som ställs på en person för att hen ska kunna bli antagen till högskoleutbildning. Exempelvis finns krav på grundläggande behörighet för att man över huvud taget ska få tillträde till högskoleutbildning.I Högskoleförordningen används termen tillträde mer övergripande.Ordet tillträde kan användas i delvis en annan betydelse i uttryck som ”tillträde till tjänsten som rektor”. Då används tillträde för ”det att inleda sin verksamhet som rektor”.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>entry</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>access</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="antagning">antagning</ref>
+        <ref type="crossReference" target="behoerighet">behörighet</ref>
+      </termEntry>
+      <termEntry id="tilltraedesregler">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tillträdesregler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>admission regulations</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tillaeggskomplettering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>tilläggskomplettering</term>
+            </termGrp>
+            <note>Equivalence: På engelska används verbfrasen take an additional qualification som översättning till göra en tilläggskomplettering respektive submit an additional qualification som översättning till skicka in en tilläggskomplettering.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">konkurrenskomplettering genom ytterligare studier och prövning i kurs som inte finns i gymnasiebetyg</descrip>
+          </descripGrp>
+          <note>Equivalence: På engelska används verbfrasen take an additional qualification som översättning till göra en tilläggskomplettering respektive submit an additional qualification som översättning till skicka in en tilläggskomplettering.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>additional qualification</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetskomplettering">behörighetskomplettering</ref>
+        <ref type="crossReference" target="komplettering">komplettering</ref>
+        <ref type="crossReference" target="konkurrenskomplettering">konkurrenskomplettering</ref>
+        <ref type="crossReference" target="meritpoaengskomplettering">meritpoängskomplettering</ref>
+        <ref type="crossReference" target="utbyteskomplettering">utbyteskomplettering</ref>
+      </termEntry>
+      <termEntry id="undantag_fraan_behoerighetskrav">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>undantag från behörighetskrav</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>dispens från behörighetskrav</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>exemption from entry requirements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="urval">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>urval</term>
+            </termGrp>
+            <note>Domain: inom högskoleväsendet</note>
+            <note>Urval som baseras på betyg kallas i ledigt språkbruk för betygsurval.Begreppet urval kan stå för dels processen, dels resultatet av processen, dvs. de sökande som valts ut.</note>
+          </ntig>
+          <note>Domain: inom högskoleväsendet</note>
+          <descripGrp>
+            <descrip type="definition">process att välja ut genom att rangordna sökande till högskoleutbildning när antalet sökande är fler än dem som kommer att antas</descrip>
+          </descripGrp>
+          <note>Urval som baseras på betyg kallas i ledigt språkbruk för betygsurval.Begreppet urval kan stå för dels processen, dels resultatet av processen, dvs. de sökande som valts ut.</note>
+          <admin type="searchTerm">betygsurval</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selection</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="alternativt_urval">alternativt urval</ref>
+      </termEntry>
+      <termEntry id="urvalsbestaemmelse">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>urvalsbestämmelse</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selection regulations</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="urvalsfoerfarande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>urvalsförfarande</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selection procedure</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="urvalsgrund">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>urvalsgrund</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>urvalskriterium</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selection criterion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="urvalsgrupp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>urvalsgrupp</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selection group</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="urvalsregler">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>urvalsregler</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selection rules and procedures</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="utbyteskomplettering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>utbyteskomplettering</term>
+            </termGrp>
+            <note>Equivalence: På engelska används verbfrasen retake a qualification som översättning till göra en utbyteskomplettering respektive submit a retaken qualification som översättning till skicka in en utbyteskomplettering.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">konkurrenskomplettering genom ytterligare studier och prövning i kurs som redan finns i gymnasiebetyg</descrip>
+          </descripGrp>
+          <note>Equivalence: På engelska används verbfrasen retake a qualification som översättning till göra en utbyteskomplettering respektive submit a retaken qualification som översättning till skicka in en utbyteskomplettering.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>retaken qualification</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="behoerighetskomplettering">behörighetskomplettering</ref>
+        <ref type="crossReference" target="komplettering">komplettering</ref>
+        <ref type="crossReference" target="konkurrenskomplettering">konkurrenskomplettering</ref>
+        <ref type="crossReference" target="meritpoaengskomplettering">meritpoängskomplettering</ref>
+        <ref type="crossReference" target="tillaeggskomplettering">tilläggskomplettering</ref>
+      </termEntry>
+      <termEntry id="validering_av_reell_kompetens">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>validering av reell kompetens</term>
+            </termGrp>
+            <note>Vid universiteten och högskolorna görs en validering av reell kompetens genom en process som innebär en strukturerad bedömning, värdering, dokumentation och erkännande av kunskaper och kompetens som en person besitter oberoende av hur de förvärvats.</note>
+            <note>Equivalence: På engelska skiljer man mellan validation of prior learning som används om bedömningsprocessen vid antagning till högre utbildning och recognition of prior learning som används vid positivt bedömningsresultat, det vill säga när poäng tilldelas för reell kompetens.</note>
+          </ntig>
+          <note>Vid universiteten och högskolorna görs en validering av reell kompetens genom en process som innebär en strukturerad bedömning, värdering, dokumentation och erkännande av kunskaper och kompetens som en person besitter oberoende av hur de förvärvats.</note>
+          <note>Equivalence: På engelska skiljer man mellan validation of prior learning som används om bedömningsprocessen vid antagning till högre utbildning och recognition of prior learning som används vid positivt bedömningsresultat, det vill säga när poäng tilldelas för reell kompetens.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>validation of prior learning</term>
+            </termGrp>
+          </ntig>
+          <admin type="searchTerm">recognition of prior learning</admin>
+        </langSet>
+        <ref type="crossReference" target="reell_kompetens">reell kompetens</ref>
+        <ref type="crossReference" target="tillgodoraeknande">tillgodoräknande</ref>
+        <ref type="crossReference" target="validering">validering</ref>
+      </termEntry>
+      <termEntry id="validering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>validering</term>
+            </termGrp>
+            <note>Inom högskoleväsendet i Sverige görs olika valideringar, till exempel validering av yrkeskunskaper, validering av reell kompetens.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kontroll av att någonting är korrekt i enlighet med uppställda regler</descrip>
+          </descripGrp>
+          <note>Inom högskoleväsendet i Sverige görs olika valideringar, till exempel validering av yrkeskunskaper, validering av reell kompetens.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>validation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="ackreditering">ackreditering</ref>
+        <ref type="crossReference" target="motsvarandebedoemning">motsvarandebedömning</ref>
+        <ref type="crossReference" target="reell_kompetens">reell kompetens</ref>
+        <ref type="crossReference" target="tillgodoraeknande">tillgodoräknande</ref>
+        <ref type="crossReference" target="utvaerdering">utvärdering</ref>
+        <ref type="crossReference" target="validering_av_reell_kompetens">validering av reell kompetens</ref>
+      </termEntry>
+      <termEntry id="webbanmaelan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>webbanmälan</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>online application</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

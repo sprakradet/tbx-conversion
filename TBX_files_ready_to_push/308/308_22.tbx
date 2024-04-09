@@ -1,0 +1,4021 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Sveriges Skogsvårdsförbund, Terminologicentrum TNC: Skogsordlista | 1994</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="parvoherbid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>parvoherbid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>parvo-herbid</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="herbid">herbid</ref>
+      </termEntry>
+      <termEntry id="pass">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pass</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: vid jakt</note>
+          </ntig>
+          <note>Domain: vid jakt</note>
+          <descripGrp>
+            <descrip type="definition">plats som skytt intar under jakt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>stand</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Ansitz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Platz, von dem aus das Wild erwartet wird</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>passi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="passpunkt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>passpunkt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Passpunkter används bland annat som stöd vid kartdigitalisering.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fast punkt som används vid koordinat- eller bildtransformation</descrip>
+          </descripGrp>
+          <note>Passpunkter används bland annat som stöd vid kartdigitalisering.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>tic</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Passpunkt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tihennyspiste</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fast_punkt">fast punkt</ref>
+        <ref type="crossReference" target="stompunkt">stompunkt</ref>
+      </termEntry>
+      <termEntry id="patogen">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>patogen</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-je'n</termNote>
+            <note>Parasiter, svampar och bakterier som orsakar sjukdom på träd och växter kallas patogener.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>sjukdomsalstrare</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">organism som orsakar sjukdom hos sin värd</descrip>
+          </descripGrp>
+          <note>Parasiter, svampar och bakterier som orsakar sjukdom på träd och växter kallas patogener.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pathogene</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>pathogen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>patogeeninen taudinaiheuttaja</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pedigree">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pedigree</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-gri:</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>stamtavla</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">beskrivning av en individs härstamning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pedigree</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Stammbaum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">schematische Dartstellung der natürlichen Verwandtschaften zwischen den systematischen Gruppen der Lebewesen unter dem Bild eines sich verzweigenden Baumes</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>sukupuu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pektin">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pektin</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-i'n</termNote>
+            <note>I pektins huvudkomponent ingår galakturonsyra.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">blandning av polymera kolhydrater, mestadels förekommande i frukt, men även i små mängder i ved</descrip>
+          </descripGrp>
+          <note>I pektins huvudkomponent ingår galakturonsyra.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pectin</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pektine</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">in Zellwänden höherer Pflanzen (besonders in Früchten und Wurzeln) vorkommende komplexe Polysaccharide</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pektiini</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pelare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pelare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: hos kran</note>
+            <note>Pelare bör inte benämnas stomme.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>stomme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Domain: hos kran</note>
+          <note>Pelare bör inte benämnas stomme.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>post</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>mast</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Säule</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pylväs</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pendelarm">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pendelarm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>svängarm</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hjulbärande arm i fordons längdriktning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pivoted arm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>heilurivipu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pendelaxel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pendelaxel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">axel lagrad på mitten i fordons längdriktning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>oscillating axle</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pendelachse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>heiluriakseli</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pendlingshoejd_foer_boggi">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pendlingshöjd för boggi</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: hos fordon</note>
+          </ntig>
+          <note>Domain: hos fordon</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>climb</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>pivoting height</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>telipyörästön heilahduskorkeus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pentos">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pentos</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-å's</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sockerart med molekylformeln C₅H₁₀O₅</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pentose</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pentose</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Gruppe von Monosacchariden mit 5 Kohlenstoffatomen C₅H₁₀O₅</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pentoosi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="hexos">hexos</ref>
+      </termEntry>
+      <termEntry id="pentosan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pentosan</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-a'n</termNote>
+            <note>Pentosanerna utgör en viktig beståndsdel hos vedens hemicellulosa.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">polysackarid uppbyggd av pentosenheter</descrip>
+          </descripGrp>
+          <note>Pentosanerna utgör en viktig beståndsdel hos vedens hemicellulosa.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pentosan</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pentosane</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">in Pflanzen weit verbreitete Hemizellusosen, die aus Pentosen aufgebaut sind</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pentosaani</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pentosanhalt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pentosanhalt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-a'n-</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">halt av pentosenheter i ett polysackaridmaterial</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pentosan content</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pentosaanipitoisuus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="perenn">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>perenn</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-en'</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">flerårig växt eller svamp</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>perennial</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Perenne</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mehrjährige, unterirdisch ausdauernde, krautige Pflanze</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>monivuotinen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="annuell">annuell</ref>
+        <ref type="crossReference" target="bienn">bienn</ref>
+      </termEntry>
+      <termEntry id="periderm">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>periderm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vävnad som bildats av korkkambium såväl utåt som inåt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>periderm</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Periderm</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>peridermi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="perithecium">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>perithecium</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-te'sium</termNote>
+            <note>I peritheciet bildas ascosporer. Flera perithecier kan vara nedsänkta i ett stroma, t.ex. hos släktena Rhytisma och Hypoxylon.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sexuell fruktkropp hos vissa sporsäcksvampar, vilken är klot- eller flaskformad och har en öppning</descrip>
+          </descripGrp>
+          <note>I peritheciet bildas ascosporer. Flera perithecier kan vara nedsänkta i ett stroma, t.ex. hos släktena Rhytisma och Hypoxylon.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>perithecium</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Perithecium</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>periteekio</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="perkolation">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>perkolation</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vattnets rörelse i marken till följd av gravitationen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>percolation</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>seepage</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Perkolation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Durchsickerung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>perkolaatio</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>suodanta</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="infiltration">infiltration</ref>
+      </termEntry>
+      <termEntry id="permafrost">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>permafrost</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Permafrost förekommer bl.a. på tundra och i högfjäll.I praktiken används termen permafrost om tjälen varar minst två år i följd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ständig tjäle</descrip>
+          </descripGrp>
+          <note>Permafrost förekommer bl.a. på tundra och i högfjäll.I praktiken används termen permafrost om tjälen varar minst två år i följd.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>permafrost</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Dauerfrost</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Permafrost</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>ikirouta</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="permanent_skogsbilvaeg">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>permanent skogsbilväg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>året-runt-väg</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">för långsiktigt bruk byggd skogsbilväg användbar hela året, eventuellt med undantag av tjällossningsperioder o.d.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>permanent forest road</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>permanent bush road</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>permanent woods road</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>year-round forest road</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Waldstraße</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vakituinen metsäautotie</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pesticid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pesticid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-si'd</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ämne med förmåga att döda skadedjur</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pesticide</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pestizid</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Schädlingsbekämfungsmittel</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pestisidi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="biocid">biocid</ref>
+        <ref type="crossReference" target="insekticid">insekticid</ref>
+        <ref type="crossReference" target="systemiskt_gift">systemiskt gift</ref>
+      </termEntry>
+      <termEntry id="pf-vaerde">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pF-värde</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tiologaritmen för kapillärpotentialen, uttryckt som centimeter vattenpelare</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pF-value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>pF-Wert</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ph-vaerde">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pH-värde</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En lösnings (t.ex. en vattenlösnings) pH-värde är ett mått på dess aciditet. Vid pH = 7 är en lösning neutral. Vid lägre värden, dvs. mycket vätejoner, är lösningen sur och vid högre värden basisk (alkalisk).</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">negativa tiologaritmen för vätejonaktiviteten, uttryckt som gram vätejoner per liter lösning</descrip>
+          </descripGrp>
+          <note>En lösnings (t.ex. en vattenlösnings) pH-värde är ett mått på dess aciditet. Vid pH = 7 är en lösning neutral. Vid lägre värden, dvs. mycket vätejoner, är lösningen sur och vid högre värden basisk (alkalisk).</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pH-value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>pH-Wert</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pH-arvo</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pikhacka">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pikhacka</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">redskap för skogsodlingsarbeten som är försett med pik och motstående mejselformat blad</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Spitzhacke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>piikkikuokka</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pilhoejd-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pilhöjd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vertikalt avstånd mellan lina och den raka linjen mellan dennas upphängningspunkter</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>deflection</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>köyden riippuma</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pilskorv">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pilskorv</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Pilskorv orsakas främst av konidiesvampen Pollacia saliciperda, men även andra svamparter kan orsaka sådana symptom.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">svampsjukdom på pil vilken leder till att skottspetsar och unga blad svartnar och dör</descrip>
+          </descripGrp>
+          <note>Pilskorv orsakas främst av konidiesvampen Pollacia saliciperda, men även andra svamparter kan orsaka sådana symptom.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>willow scab</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="da">
+          <ntig>
+            <termGrp>
+              <term>pileskurv</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="is">
+          <ntig>
+            <termGrp>
+              <term>viðikláði</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="no">
+          <ntig>
+            <termGrp>
+              <term>pileskurv</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pinnmo">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pinnmo</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">finkornig, hårt packad bottenmorän</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>compacted till</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tiivistynyt moreenimaa</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pinnved">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pinnved</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>bångved</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>grenved</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">brännved av grenar</descrip>
+          </descripGrp>
+          <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>branch firewood</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brennholz aus Zweigen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kapulahalko</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>kalikkahalko</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pinosylvin">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pinosylvin</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-i'n</termNote>
+            <note>Pinosylvin har fungicid verkan.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fenolderivat som förekommer i kärnved hos tall</descrip>
+          </descripGrp>
+          <note>Pinosylvin har fungicid verkan.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pinosylvin</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pinosylvin</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pinosylviini</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pionjaervaext">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pionjärväxt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Björken är exempelvis den postglaciala tidens pionjärträd.Sekundärträd har bättre förmåga att växa i svagare solljus och brukar så småningom växa upp under pionjärträdslagen. Typiska sekundärträdslag är gran, bok, alm, lind och i viss mån lönn och ask.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">växt som koloniserar ett förut obevuxet eller på annat sätt bevuxet område</descrip>
+          </descripGrp>
+          <note>Björken är exempelvis den postglaciala tidens pionjärträd.Sekundärträd har bättre förmåga att växa i svagare solljus och brukar så småningom växa upp under pionjärträdslagen. Typiska sekundärträdslag är gran, bok, alm, lind och i viss mån lönn och ask.</note>
+          <admin type="searchTerm">pionjärträd</admin>
+          <admin type="searchTerm">sekundärträd</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pioneer plant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pionierpflanze</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anspruchslose Pflanze, die als erste auf einem vegetationslosen Boden wächst (z.B. Flechten auf Felsen)</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pioneerilaji</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pipkrake">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pipkrake</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Iskristallerna i pipkrake står vinkelrätt mot avkylningsytan och bildas vid frost i fuktig mark, ofta vid vintersäsongens början.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">isbildning bestående av nålformiga iskristaller vid eller mycket nära markytan</descrip>
+          </descripGrp>
+          <note>Iskristallerna i pipkrake står vinkelrätt mot avkylningsytan och bildas vid frost i fuktig mark, ofta vid vintersäsongens början.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pipkrake</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>needle ice</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Haareis</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Nadeleis</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>rouste</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="tjaellyftning">tjällyftning</ref>
+      </termEntry>
+      <termEntry id="piskare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>piskare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">träd som genom nötning skadar närstående träds kronor</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>whip</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Peitscher</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pieksijä</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pistill">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pistill</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">honligt könsorgan hos fanerogam</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pistil</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Stempel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>emi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="staandare">ståndare</ref>
+      </termEntry>
+      <termEntry id="pixe-metoden">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>PIXE-metoden</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Förkortning för Particle Induced X-ray Emission. Metoden används bl.a. för analys av borrkärnors spårämnesinnehåll.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">metod för grundämnesanalys vid låga koncentrationer</descrip>
+          </descripGrp>
+          <note>Förkortning för Particle Induced X-ray Emission. Metoden används bl.a. för analys av borrkärnors spårämnesinnehåll.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>PIXE analysis</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>PIXE-Methode</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>PIXE-menetelmä</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plagiotropism">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plagiotropism</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på plagiotropism är växtsättet hos grenarna med förgreningar hos gran.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">egenskapen hos växtdelar att växa snett utåt eller vågrätt</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på plagiotropism är växtsättet hos grenarna med förgreningar hos gran.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plagiotropism</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Plagiotropismus</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Plagiogeotropismus</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Schrägwüchsigkeit von Seitensprossen oder -wurzeln</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>plagiotropismi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="tropism">tropism</ref>
+      </termEntry>
+      <termEntry id="planering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">terrassering av väg där höjdskillnaden mellan terrasseringsplanet och marknivån är ringa (vanligen ca 0,5 m)</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>grading</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Planieren</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tasoitus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="planimeter">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planimeter</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">instrument för mätning av areal hos ägofigur</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>planimeter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Planimeter</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>planimetri</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="planka">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planka</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">virke med tjocklek minst 32 mm och bredd minst 140 mm</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plank</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>deal</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bohle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>lankku</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="braeda">bräda</ref>
+      </termEntry>
+      <termEntry id="planreducerare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planreducerare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>canter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Planschnitzler</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="reducerare">reducerare</ref>
+      </termEntry>
+      <termEntry id="planspraengning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plansprängning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sprängning i öppet schakt till djup mindre än eller lika med 0,7 m under befintlig bergyta</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>surface blasting</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Übertagesprengung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>tasoräjäyttäminen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bergspraengning">bergsprängning</ref>
+      </termEntry>
+      <termEntry id="planta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>skogsplanta</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">träd som ej nått 1,3 meters höjd över mark</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plant</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>forest plant</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bäume niedriger als BHD</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Bäume niedriger als Brusthöhendurchmesser</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantavgaang">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantavgång</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Plantavgång kan bl.a. bero på torka eller insektsangrepp.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">reducering av individantal som inträffar på plantstadiet</descrip>
+          </descripGrp>
+          <note>Plantavgång kan bl.a. bero på torka eller insektsangrepp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plant loss</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzenabgang</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimien kuolleisuus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantering_i_fylld_grop">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantering i fylld grop</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">plantering varvid plantan placeras i en upphackad/upptagen grop som är fylld med lucker jord</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>planting in refilled pit</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Lochpflanzung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutus täytettyyn kuoppaan</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantering_i_groent_ris">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantering i grönt ris</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">plantering på färskt hygge</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mulch planting</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wiederbestockung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>viheristutus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantering_i_omvaend_torva">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantering i omvänd torva</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">plantering på fuktig, starkt gräsbunden eller uppfrysningsbenägen mark varvid plantan sätts i en utskuren, uppochnedvänd humustorva eller grästorva lagd ovanpå marken</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>turf-planting</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Plaggenpflanzung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutus käännettyyn turpeeseen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantering_i_oeppen_grop">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantering i öppen grop</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>gropplantering</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">plantering varvid plantan placeras i en upptagen grop varefter jorden packas kring de utbredda rötterna</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>open-pit planting</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Lochpflanzung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kuoppaistutus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantering_paa_tilta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantering på tilta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Plantering på tilta sker vanligen på åkrar men förekommer även på skogsmark efter hyggesplöjning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">plantering där plantorna sätts i tiltor upplagda med plog</descrip>
+          </descripGrp>
+          <note>Plantering på tilta sker vanligen på åkrar men förekommer även på skogsmark efter hyggesplöjning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ridge-planting</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kammpflanzung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutus palteeseen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="planteringsborr">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planteringsborr</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">redskap för upptagning av planteringshål</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>planting auger</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>semi-circular spade</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Hohlspaten</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutuskaira</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="planteringsflaeck">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planteringsfläck</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">markberedningsfläck upptagen för plantering</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>scarified patch</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzstreifen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutuslaikku</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="planteringsstaelle">planteringsställe</ref>
+      </termEntry>
+      <termEntry id="planteringsgrop">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planteringsgrop</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>plantgrop</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">grop för plantering som tagits upp med hacka eller spade</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pit dug</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>pit</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzloch</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutuskuoppa</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="planteringshaal">planteringshål</ref>
+      </termEntry>
+      <termEntry id="planteringshacka">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planteringshacka</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">redskap för markberedning, luckring och upptagning av planteringsgrop</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>planting mattock</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzhacke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutuskuokka</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="planteringshaal">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planteringshål</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hål för plantering som tagits upp med hjälp av spett eller borr</descrip>
+          </descripGrp>
+          <note>Equivalence: Det engelska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad engelsk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pit or dibble hole made with auger or semi-circular spade</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzspalte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutuskuoppa</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="planteringsgrop">planteringsgrop</ref>
+      </termEntry>
+      <termEntry id="planteringsroer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planteringsrör</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">redskap för plantering av täckrotsplantor med vilket plantören hela tiden kan arbeta i upprätt ställning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>planting pipe</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzenrohr</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutusputki</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="planteringsstaelle">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>planteringsställe</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">markberedd area inom vilken det finns minst en planteringspunkt lämplig för en planta</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>planting area</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzplatz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>istutuspaikka</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="planteringsflaeck">planteringsfläck</ref>
+      </termEntry>
+      <termEntry id="plantgallring">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantgallring</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utglesning genom gallring bland företrädesvis oomskolade plantor i plantsängar för att förbättra de kvarlämnade plantornas utveckling</descrip>
+          </descripGrp>
+          <note>Equivalence: Det tyska uttrycket ska snarare ses som en förklaring av det svenska begreppet än en etablerad tysk term.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thinning-out</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Standraumerweiterung im Saatbeet</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimien harvennus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="plantskogsroejning">plantskogsröjning</ref>
+      </termEntry>
+      <termEntry id="plantkvot">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantkvot</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Plantkvot anges i procent, vilket har gjort att termen plantprocent också förekommer. Denna term rekommenderas inte eftersom den kan förväxlas med enheten för plantkvot. Inte heller bör plantutbyte användas för detta begrepp.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>plantprocent</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>plantutbyte</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kvot av antal uppkomna plantor och antal grobara frön</descrip>
+          </descripGrp>
+          <note>Plantkvot anges i procent, vilket har gjort att termen plantprocent också förekommer. Denna term rekommenderas inte eftersom den kan förväxlas med enheten för plantkvot. Inte heller bör plantutbyte användas för detta begrepp.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plant per cent</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Anwuchsprozent</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>itävyysprosentti</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="markgroningstal">markgroningstal</ref>
+      </termEntry>
+      <termEntry id="plantlyftare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantlyftare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">redskap för lösgörande av plantor i plantsängar i syfte att underlätta maskinell eller manuell upptagning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>lifting tool</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzheber</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimien irrottaja</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantskog">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantskog</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skog där medelhöjd av härskande och medhärskande träd understiger 6 m</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>thicket stage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Jungwuchs</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">junge Waldbestände von der Kultur bis zur Dickung</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimisto</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantskogsroejning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantskogsröjning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>plantröjning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tidig röjning</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">röjning i plantskog</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>cleaning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Läuterung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimiston perkaus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="roejning">röjning</ref>
+        <ref type="crossReference" target="ungskogsroejning">ungskogsröjning</ref>
+        <ref type="crossReference" target="plantgallring">plantgallring</ref>
+      </termEntry>
+      <termEntry id="plantskola">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantskola</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">anläggning för produktion av plantor</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>nursery</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Baumschule</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimitarha</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantsortering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantsortering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sortering av plantor i kvalitetsklasser</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>grading</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzensortierung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimilajittelu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantsaeng">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantsäng</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">avdelning i plantskola på vilken plantor odlas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>seed bed</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>transplant bed</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pflanzbeet</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kylvölava</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantuppslag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantuppslag</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förekomst av plantor som uppkommit genom naturlig föryngring</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>stocking of natural regeneration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Naturverjüngung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimiaines</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plantupptagningsmaskin">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plantupptagningsmaskin</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">maskin för upptagning av plantor i plantskola</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mechanical lifter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>taimiennostokone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plattgran">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plattgran</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gran tillhörande en naturlig förgreningstyp med kortare, förgrenade, flackt utbredda grenar och kvistar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bürstentyp</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="usageNote">Fichtenart</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="borstgran">borstgran</ref>
+        <ref type="crossReference" target="kamgran">kamgran</ref>
+      </termEntry>
+      <termEntry id="plockhuggning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plockhuggning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Plockhuggning förekommer vid uttag av specialsortiment, t.ex. stolpar.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">avverkning av spridda träd i bestånd utan gallring av mellanliggande partier</descrip>
+          </descripGrp>
+          <note>Plockhuggning förekommer vid uttag av specialsortiment, t.ex. stolpar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>exploitation felling</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Einzelstammentnahme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>poimintahakkuu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="blaedning">blädning</ref>
+      </termEntry>
+      <termEntry id="plogsula">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plogsula</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kompakt lager i gränsen mellan matjord och alv</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plough pan</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kyntöantura</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="plustraed">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plusträd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fenotypiskt förstklassigt träd, förväxande och av god kvalitet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plus tree</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Auslesebaum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Plusbaum</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pluspuu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="elittraed">elitträd</ref>
+        <ref type="crossReference" target="minusbestaand">minusbestånd</ref>
+      </termEntry>
+      <termEntry id="plywood">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>plywood</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I regel orienteras fanerskikten med fiberriktningarna vinkelräta mot varandra.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>kryssfaner</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skiva uppbyggd av flera faner som limmats samman</descrip>
+          </descripGrp>
+          <note>I regel orienteras fanerskikten med fiberriktningarna vinkelräta mot varandra.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>plywood</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Furnierplatte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vaneri</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ristivaneri</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>viilulevy</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="podsol">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>podsol</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">pådså'l</termNote>
+            <note>Podsol är vanlig i kalltempererad barrskogsmiljö. Olika podsoltyper förekommer:- lavpodsol med tunt humuslager och svagt utbildad blekjord och rostjord- järnpodsol där anrikningshorisonten är rostfärgad och huvudsakligen består av järn- och aluminiumhydroxider- järnhumuspodsol där de översta centimetrarna av anrikningshorisonten är mörkfärgad på grund av humus- humuspodsol där en stor del av anrikningshorisonten är mörkfärgad av organiska ämnen och blekjorden &quot;smutsig&quot;.Järnpodsol förekommer på väl dränerade marker och humuspodsol på dåligt dränerade marker med tidvis högt grundvatten.Ordet podsol kommer av ryska pod 'under' och zola 'aska'.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jordmån där urlakningshorisonten utgörs av blekjord och där anrikningshorisonten innehåller utfällningar av järnhydroxider, aluminiumhydroxider och humus</descrip>
+          </descripGrp>
+          <note>Podsol är vanlig i kalltempererad barrskogsmiljö. Olika podsoltyper förekommer:- lavpodsol med tunt humuslager och svagt utbildad blekjord och rostjord- järnpodsol där anrikningshorisonten är rostfärgad och huvudsakligen består av järn- och aluminiumhydroxider- järnhumuspodsol där de översta centimetrarna av anrikningshorisonten är mörkfärgad på grund av humus- humuspodsol där en stor del av anrikningshorisonten är mörkfärgad av organiska ämnen och blekjorden &quot;smutsig&quot;.Järnpodsol förekommer på väl dränerade marker och humuspodsol på dåligt dränerade marker med tidvis högt grundvatten.Ordet podsol kommer av ryska pod 'under' och zola 'aska'.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>podzol</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Podsol</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>podsoli</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="poikiloterm">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>poikiloterm</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: om djur</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>växelvarm</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Domain: om djur</note>
+          <descripGrp>
+            <descrip type="definition">som har varierande kroppstemperatur</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>poikilothermal</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>wechselwarm</term>
+            </termGrp>
+            <descripGrp>
+              <descrip type="context">Außer bei den Vögeln und Säugern entspricht die Körpertemperatur der Tiere etwa der Außentemperatur und ändert sich mit ihr. Deshalb bezeichnet man solche Tiere als wechselwarm (poikilotherm).</descrip>
+            </descripGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>poikilotherm</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="context">Außer bei den Vögeln und Säugern entspricht die Körpertemperatur der Tiere etwa der Außentemperatur und ändert sich mit ihr. Deshalb bezeichnet man solche Tiere als wechselwarm (poikilotherm).</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>vaihtolämpöinen</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>poikiloterminen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="homoioterm">homoioterm</ref>
+      </termEntry>
+      <termEntry id="pollakant">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pollakant</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">pål'-</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">växt som blommar flera år i följd</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pollacanth</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>pollakanthe Pflanze</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Bezeichnung für mehrjährige Pflanzen, die nach Eintritt der Blühfähigkeit alljährlich wieder blühen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pollakantti</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="hapaxant">hapaxant</ref>
+      </termEntry>
+      <termEntry id="pollen">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pollen</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Pollen är bärare av arvsanlag från faderplantan. De mikroskopiskt små pollenkornen har för varje art, släkte eller familj karakteristisk form och struktur. Tallar, granar och vissa andra barrträdssläkten har pollenkorn med luftsäckar.Pollen bör inte benämnas frömjöl.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ståndarmjöl</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>frömjöl</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">celler bildade genom meios i fanerogamers ståndarknappar</descrip>
+          </descripGrp>
+          <note>Pollen är bärare av arvsanlag från faderplantan. De mikroskopiskt små pollenkornen har för varje art, släkte eller familj karakteristisk form och struktur. Tallar, granar och vissa andra barrträdssläkten har pollenkorn med luftsäckar.Pollen bör inte benämnas frömjöl.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pollen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pollen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">die männlichen Sporen der Samenpflanze</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>siitepöly</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="pollination">pollination</ref>
+      </termEntry>
+      <termEntry id="pollination">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pollination</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Pollination kan ske med vind, vatten, insekter (sällan andra djur).</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>pollinering</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">överföring av pollenkorn från pollensäck till fröämnen (hos gymnosperm) eller pistillmärke (hos angiosperm)</descrip>
+          </descripGrp>
+          <note>Pollination kan ske med vind, vatten, insekter (sällan andra djur).</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pollination</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bestäubung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pölytys</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="polycross">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polycross</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: inom botanik</note>
+            <note>Polycross används ibland vid kontrollerad korsning.</note>
+          </ntig>
+          <note>Domain: inom botanik</note>
+          <descripGrp>
+            <descrip type="definition">korsning med en blandning av pollen från flera olika fäder</descrip>
+          </descripGrp>
+          <note>Polycross används ibland vid kontrollerad korsning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>poly-cross</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Polycross-Methode</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>moniristeytys</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="polyedervirus">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polyedervirus</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Polyedervirus förekommer hos insekter, framför allt hos fjärils- och stekellarver. I de infekterade cellerna uppträder glasklara polyederformade kristaller, därav namnet.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">virus som orsakar polyedersjuka</descrip>
+          </descripGrp>
+          <note>Polyedervirus förekommer hos insekter, framför allt hos fjärils- och stekellarver. I de infekterade cellerna uppträder glasklara polyederformade kristaller, därav namnet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>polyhedral virus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Polyedervirus</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>monisärmiötauti</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="polyfag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polyfag</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Äter djurarten både växter och djur kallas den omnivor.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>mångätare</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">djur som livnär sig av många olika sorters föda</descrip>
+          </descripGrp>
+          <note>Äter djurarten både växter och djur kallas den omnivor.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>polyphag</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Polyphage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Tiere, die von verschiedenartigen Organismen leben</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kaikkiruokainen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="monofag">monofag</ref>
+      </termEntry>
+      <termEntry id="polyfyletisk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polyfyletisk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: om grupp av organismer</note>
+          </ntig>
+          <note>Domain: om grupp av organismer</note>
+          <descripGrp>
+            <descrip type="definition">som anses ha olika evolutionära ursprung</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>polyphyletic</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>polyphyletisch</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="monofyletisk">monofyletisk</ref>
+      </termEntry>
+      <termEntry id="polymer">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polymer</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-e'r</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ämne vars molekyler bortsett från smärre oregelbundenheter är uppbyggda av upprepade mindre enheter av ett eller flera slag (merer) i sådant antal att tillägg eller minskning med en eller ett fåtal enheter inte nämnvärt påverkar egenskaperna</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>polymer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Polymer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">aus Makromolekülen bestehender Stoff</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>polymeeri</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="polymerisation">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polymerisation</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på polymerisation är cellulosabildningen i ved.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kemisk reaktion vid vilken små molekyler, monomerer, sammanbinds till polymer</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på polymerisation är cellulosabildningen i ved.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>polymerization</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Polymerisation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">chemischer Vorgang, durch den ein Polymer entsteht</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>polymeroiminen</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>polymerisoiminen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="polymerisationsgrad">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polymerisationsgrad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">medelantalet monomermolekyler som åtgått för att bygga upp en polymer</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>degree of polymerization</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Polymerisationsgrad</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="polyploid_organism">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>polyploid organism</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="pronunciation">-åi'd, -oi'd</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">organism med tre eller fler homologa genom i de somatiska cellerna</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>polyploid organism</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>polyploider Organismus</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">(von Zellkernen) mehr als zwei Chromosomensätze aufweisend</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>polyploidi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="diploid_organism">diploid organism</ref>
+        <ref type="crossReference" target="haploid_organism">haploid organism</ref>
+        <ref type="crossReference" target="tetraploid_organism">tetraploid organism</ref>
+        <ref type="crossReference" target="triploid_organism">triploid organism</ref>
+      </termEntry>
+      <termEntry id="population-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>population</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>I regel avses med population bara en art inom området. En växtpopulation kallas också bestånd och en djurpopulation stam. Termmotsvarigheterna stand och Bestand avser enbart växter.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mängd bestående av samtliga inom ett område förekommande individer</descrip>
+          </descripGrp>
+          <note>I regel avses med population bara en art inom området. En växtpopulation kallas också bestånd och en djurpopulation stam. Termmotsvarigheterna stand och Bestand avser enbart växter.</note>
+          <admin type="searchTerm">stam</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>population</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>stand</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Population</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <note>Die Gesamtheit der Individuen einer Organismen-Art in einem umgrenzten Gebiet</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Bestand</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Gesamtheit der an einem Ort vorhandenen Individuen einer Art</descrip>
+          </descripGrp>
+          <note>Die Gesamtheit der Individuen einer Organismen-Art in einem umgrenzten Gebiet</note>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>perusjoukko</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>kanta</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>populaatio</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="population-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>population</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: inom genetik</note>
+            <note>Vanligen är en population ärftligt anpassad till viss miljö.</note>
+          </ntig>
+          <note>Domain: inom genetik</note>
+          <descripGrp>
+            <descrip type="definition">samling av individer som förökas som en enhet</descrip>
+          </descripGrp>
+          <note>Vanligen är en population ärftligt anpassad till viss miljö.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>population</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Population</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">die Population umfaßt alle artgleichen Individuen eines Gebietes, die sich in der Regel beliebig miteinander paaren können</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>populaatio</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="populationsdynamik">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>populationsdynamik</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förändring i individantal i en population beroende på nativitet, mortalitet och invandring och utvandring</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>population dynamics</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Populationsdynamik</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">Wandlungen in der Struktur einer Population unter dem Einfluß von Mobilität, Mortalität, Witterungsbedingungen, Nahrungsmangel, u.a.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>kannanvaihtelu</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="artdynamik">artdynamik</ref>
+      </termEntry>
+      <termEntry id="populationstaethet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>populationstäthet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på områdesenhet är area, volym, blad, träd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">antal individer i en population per områdesenhet</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på områdesenhet är area, volym, blad, träd.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>population density</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Populationsdichte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">durchschnittliche Anzahl der Individuen einer Art je Einheit der Gesamtsiedlungsfläche</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>populaatiotiheys</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="abundans">abundans</ref>
+        <ref type="crossReference" target="frekvens">frekvens</ref>
+      </termEntry>
+      <termEntry id="por">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>por</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i cell</note>
+            <note>Observera att termen por i detta fall har en annan innebörd än i bandporig, ströporig etc.</note>
+          </ntig>
+          <note>Domain: i cell</note>
+          <descripGrp>
+            <descrip type="definition">förtunnat ställe på cellvägg vilket uppkommit genom att sekundärvägg inte utbildats</descrip>
+          </descripGrp>
+          <note>Observera att termen por i detta fall har en annan innebörd än i bandporig, ströporig etc.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pit</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Tüpfel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">dünne Stellen in verdickten Zellwänden zum Stoffaustausch zwischen den Zellen</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>huokonen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="porkammare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>porkammare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rum mellan pormembran och den framskjutande runda öppningen hos gårdad por</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pit chamber</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Tüpfelkammer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>huokospiha</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="porkanal">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>porkanal</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">passage från lumen till porkammare hos gårdad por</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pit canal</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Tüpfelkanal</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>huokostiehyt</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pormembran">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pormembran</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Perforeringen kallas margo och den centrala förtjockade delen torus.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">två intilliggande cellers primärväggar jämte mellanliggande mittlamell som genom perforering möjliggör transport av vätska från en cell till en annan</descrip>
+          </descripGrp>
+          <note>Perforeringen kallas margo och den centrala förtjockade delen torus.</note>
+          <admin type="searchTerm">margo</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pit membrane</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Schließmembran</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>huokosparin sulkukalvo</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="porositet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>porositet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: hos jord</note>
+          </ntig>
+          <note>Domain: hos jord</note>
+          <descripGrp>
+            <descrip type="definition">kvot av porvolym och total skrymvolym</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>porosity</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Porosität</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="porsvamp">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>porsvamp</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Sporlagret hos porsvamp består av vertikala rör, t.ex. hos tickor och soppar.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">svamp tillhörande familjen Polyporaceae eller Boletacae</descrip>
+          </descripGrp>
+          <note>Sporlagret hos porsvamp består av vertikala rör, t.ex. hos tickor och soppar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pore-fungi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>pillisieni</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="porvolym">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>porvolym</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i ved</note>
+          </ntig>
+          <note>Domain: i ved</note>
+          <descripGrp>
+            <descrip type="definition">förhållande mellan sammanlagd volym av cellumina och vedens yttre volym</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pore volume</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Porenvolumen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>huokostilavuus</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="poroes_traefiberskiva">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>porös träfiberskiva</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>insulating fibreboard</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Halbfaserdämmplatte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>poröse Holzfaserplatte</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="traefiberskiva">träfiberskiva</ref>
+      </termEntry>
+      <termEntry id="positiv_fototropism">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>positiv fototropism</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>positive phototropism</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>positiver Phototropismus</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>positiivinen fototropismi</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="see" target="fototropism">fototropism</ref>
+      </termEntry>
+      <termEntry id="positiv_tropism">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>positiv tropism</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>positive tropism</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>positiver Tropismus</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="tropism">tropism</ref>
+      </termEntry>
+      <termEntry id="postglacial">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>postglacial</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bildad efter istiden</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>postglacial</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>postglazial</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>postglasiaalinen</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="posthornsbildning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>posthornsbildning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: på tall</note>
+            <note>Posthornsbildningar beror på skador orsakade av vissa småfjärilslarver, t.ex. tallkottvecklare.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>posthorn</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <note>Domain: på tall</note>
+          <descripGrp>
+            <descrip type="definition">defekt bestående av en krök som uppkommit genom att toppskottet först böjt sig nedåt och sedan åter böjt sig uppåt</descrip>
+          </descripGrp>
+          <note>Posthornsbildningar beror på skador orsakade av vissa småfjärilslarver, t.ex. tallkottvecklare.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>post-horn deformation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Posthornwuchs</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="postning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>postning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Termen postning betecknar även inställning av sågbladens inbördes avstånd.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">sågningsmönster som bestämmer uttag av dimensioner ur sågtimret</descrip>
+          </descripGrp>
+          <note>Termen postning betecknar även inställning av sågbladens inbördes avstånd.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>dimensions of sawing yield</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>asete</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="pottaskebraenning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>pottaskebränning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bränning av lövved, främst björk och bok, i syfte att utvinna pottaska</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>potash burning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>potaskanpoltto</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="prealpin_region">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>prealpin region</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Den prealpina skogen är i regel gles och är sammansatt av huvudsakligen tall, gran och glasbjörk (Betula pubescens). Den övergår i den subalpina björkskogsregionen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">region direkt under den subalpina regionen</descrip>
+          </descripGrp>
+          <note>Den prealpina skogen är i regel gles och är sammansatt av huvudsakligen tall, gran och glasbjörk (Betula pubescens). Den övergår i den subalpina björkskogsregionen.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>prealpine zone</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>hochmontaner Bereich</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <ntig>
+            <termGrp>
+              <term>montaaninen vyökyke</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>

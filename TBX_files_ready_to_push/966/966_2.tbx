@@ -1,0 +1,4446 @@
+<?xml version="1.0" ?>
+<martifHeader>
+  <fileDesc>
+    <sourceDesc>
+      <p>Tekniska nomenklaturcentralen, Terminologicentrum TNC: Plan- och byggtermer 1994 | 1994</p>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <p type="XCSURI">https://eurotermbank.com/tbx-0.5.1.xcs</p>
+  </encodingDesc>
+  <text>
+    <body>
+      <termEntry id="begraensad_infordran_av_anbud">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>begränsad infordran av anbud</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>selective tendering</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>limited tendering</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>beschränkte Ausschreibung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>appel d'offres restreint</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>adjudication restreinte</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="sluten_upphandling">sluten upphandling</ref>
+        <ref type="see" target="foerhandlingsupphandling">förhandlingsupphandling</ref>
+      </termEntry>
+      <termEntry id="beklaednad-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>beklädnad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: i byggnad</note>
+            <note>Ytskikt som påförs i flytande form, t.ex. färg, räknas inte som beklädnad.Den engelska termen lining används om invändig beklädnad och cladding om utvändig beklädnad.</note>
+          </ntig>
+          <note>Domain: i byggnad</note>
+          <descripGrp>
+            <descrip type="definition">ytskikt på tak- eller väggyta</descrip>
+          </descripGrp>
+          <note>Ytskikt som påförs i flytande form, t.ex. färg, räknas inte som beklädnad.Den engelska termen lining används om invändig beklädnad och cladding om utvändig beklädnad.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>cladding</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>lining</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Verkleidung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Bekleidung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>revêtement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="belaeggning">beläggning</ref>
+        <ref type="crossReference" target="ytskikt-1">ytskikt</ref>
+      </termEntry>
+      <termEntry id="beklaednad-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>beklädnad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: i brandtekniska sammanhang</note>
+            <note>Beklädnad klassificeras som tändskyddande eller icke tändskyddande.</note>
+          </ntig>
+          <note>Domain: i brandtekniska sammanhang</note>
+          <descripGrp>
+            <descrip type="definition">skikt som är fäst på ett material och som bedöms med hänsyn till sin förmåga att vid brand fördröja eller hindra det brännbara materialets antändning</descrip>
+          </descripGrp>
+          <note>Beklädnad klassificeras som tändskyddande eller icke tändskyddande.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>protective cladding</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>protective lining</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>feuerhemmende Verkleidung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>revêtement ignifuge</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandteknisk_klass">brandteknisk klass</ref>
+        <ref type="crossReference" target="ytskikt-2">ytskikt</ref>
+      </termEntry>
+      <termEntry id="belaaningsvaerde">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>belåningsvärde</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Vanligen bestäms beloppet med utgångspunkt från marknadsvärdet.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">belopp utifrån vilket kredit beviljas</descrip>
+          </descripGrp>
+          <note>Vanligen bestäms beloppet med utgångspunkt från marknadsvärdet.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mortgage value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Beleihungswert</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>valeur pour le calcul de l'emprunt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="laaneunderlag">låneunderlag</ref>
+        <ref type="crossReference" target="pantvaerde">pantvärde</ref>
+      </termEntry>
+      <termEntry id="belaeggning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>beläggning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Ytskikt som påförs i flytande form, t.ex. färg, räknas inte som beläggning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ytskikt på horisontal eller nästan horisontal överyta</descrip>
+          </descripGrp>
+          <note>Ytskikt som påförs i flytande form, t.ex. färg, räknas inte som beläggning.</note>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bodenbelag</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="beklaednad-1">beklädnad</ref>
+        <ref type="crossReference" target="golvbelaeggning">golvbeläggning</ref>
+        <ref type="crossReference" target="ytskikt-1">ytskikt</ref>
+      </termEntry>
+      <termEntry id="berg">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>berg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">del av jordskorpan som vanligen kännetecknas av stor hårdhet och liten porositet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>rock</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>bedrock</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Gestein</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Felsen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>roc</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>roche</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="jord-1">jord</ref>
+      </termEntry>
+      <termEntry id="bergfoerstaerkning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bergförstärkning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">stabilisering av bergparti genom t.ex. bultning, injektering eller betonginbyggnad</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>rock stabilization</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>rock reinforcement</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bergsicherung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>soutènement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="injektering">injektering</ref>
+        <ref type="crossReference" target="jordfoerstaerkning">jordförstärkning</ref>
+      </termEntry>
+      <termEntry id="bergsko">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bergsko</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">pålsko försedd med dubb av stål</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>rock point</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Pfahlschuh</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sabot à roc</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="paalsko">pålsko</ref>
+      </termEntry>
+      <termEntry id="besiktning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>besiktning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se 9 kap PBL och AB 92 kap 7.Resultatet av besiktningen meddelas vanligen i dokumenterad form (intyg eller besiktningsprotokoll).Ordet besiktning har tidigare använts i nästan samma betydelse som kontroll och finns kvar i denna allmänna betydelse i vissa lagar och förordningar.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">undersökning som utförs av myndighet eller av särskilt utsedd förrättare (besiktningsman) för att konstatera om ett objekt i ett eller flera avseenden uppfyller ställda krav</descrip>
+          </descripGrp>
+          <note>Se 9 kap PBL och AB 92 kap 7.Resultatet av besiktningen meddelas vanligen i dokumenterad form (intyg eller besiktningsprotokoll).Ordet besiktning har tidigare använts i nästan samma betydelse som kontroll och finns kvar i denna allmänna betydelse i vissa lagar och förordningar.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>inspection</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Abnahme</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Besichtigung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>vérification de conformité</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="garantibesiktning">garantibesiktning</ref>
+        <ref type="crossReference" target="grundbottenbesiktning">grundbottenbesiktning</ref>
+        <ref type="crossReference" target="kontroll">kontroll</ref>
+        <ref type="crossReference" target="schaktbottenbesiktning">schaktbottenbesiktning</ref>
+        <ref type="crossReference" target="slutbesiktning-1">slutbesiktning</ref>
+        <ref type="crossReference" target="slutbesiktning-2">slutbesiktning</ref>
+        <ref type="crossReference" target="oeverbesiktning">överbesiktning</ref>
+      </termEntry>
+      <termEntry id="besiktningsorgan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>besiktningsorgan</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ackrediterat kontrollorgan i tredjepartsställning</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="ackrediterat_kontrollorgan">ackrediterat kontrollorgan</ref>
+        <ref type="crossReference" target="tredje_part">tredje part</ref>
+      </termEntry>
+      <termEntry id="besiktningsplan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>besiktningsplan</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">handling som anger av parterna upprättad plan för genomförande av besiktningar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>inspection plan</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Abnahmeplan</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="besiktningsunderlag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>besiktningsunderlag</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I produktionsskedet utgörs besiktningsunderlaget av entreprenadhandlingar. I förvaltningsskedet utgörs det av drift- och underhållsinstruktioner, myndighetsbestämmelser m.m.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">handlingar som erfordras för att genomföra en besiktning</descrip>
+          </descripGrp>
+          <note>I produktionsskedet utgörs besiktningsunderlaget av entreprenadhandlingar. I förvaltningsskedet utgörs det av drift- och underhållsinstruktioner, myndighetsbestämmelser m.m.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>basic inspection documents</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Abnahmeunterlagen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Besichtigungsunterlagen</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="besiktningsutlaatande">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>besiktningsutlåtande</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">handling som redovisar hur entreprenaden eller del därav uppfyller ställda krav</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Abnahmeprotokoll</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Besichtigungsbericht</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>procès-verbal d'inspection</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bestaellare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>beställare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">uppdragsgivare enligt förfrågningsunderlag, beställning eller kontrakt för konsult, entreprenör, leverantör eller uppdragstagare</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>client</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>employer</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Auftraggeber</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>maître d'ouvrage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>donneur d'ordre</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="byggherre">byggherre</ref>
+      </termEntry>
+      <termEntry id="bestaellning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>beställning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: enligt AB 92</note>
+          </ntig>
+          <note>Domain: enligt AB 92</note>
+          <descripGrp>
+            <descrip type="definition">handling som utgör bekräftelse på att anbud godtas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>order</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>letter of acceptance</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>notice of award</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Zuschlag</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Auftragsbestätigung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Bestellung</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>notification d'un marché</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="anbud">anbud</ref>
+        <ref type="crossReference" target="bestaellare">beställare</ref>
+        <ref type="crossReference" target="foerfraagningsunderlag">förfrågningsunderlag</ref>
+      </termEntry>
+      <termEntry id="bestaemmelsekarta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bestämmelsekarta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">karta som hör till jordregistret och som visar områden med detaljplaner, områdesbestämmelser och vissa andra bestämmelser, t.ex. för naturreservat</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>land register regulation map</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Flächennutzungsplan</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="fastighetskarta">fastighetskarta</ref>
+        <ref type="crossReference" target="jordregister">jordregister</ref>
+        <ref type="crossReference" target="registerkarta">registerkarta</ref>
+      </termEntry>
+      <termEntry id="bestaendighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>beständighet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: om byggvara, byggnadsdel, installation</note>
+            <note>Kravet på beständighet hos en byggnads bärande del (PBL 3:4) innebär att den bärande delens livslängd svarar mot byggnadens avsedda brukstid.</note>
+          </ntig>
+          <note>Domain: om byggvara, byggnadsdel, installation</note>
+          <descripGrp>
+            <descrip type="definition">förmåga att vid påverkan i en viss användning och miljö bibehålla avsedda egenskaper</descrip>
+          </descripGrp>
+          <note>Kravet på beständighet hos en byggnads bärande del (PBL 3:4) innebär att den bärande delens livslängd svarar mot byggnadens avsedda brukstid.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>durability</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Beständigkeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>durabilité</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brukstid">brukstid</ref>
+        <ref type="crossReference" target="baerfoermaaga">bärförmåga</ref>
+        <ref type="crossReference" target="stadga">stadga</ref>
+      </termEntry>
+      <termEntry id="betalningsplan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>betalningsplan</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En betalningsplan kan vara relaterad till prestation eller tid.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>lyftningsplan</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">handling som innehåller föreskrifter om den ordning som gäller för betalning</descrip>
+          </descripGrp>
+          <note>En betalningsplan kan vara relaterad till prestation eller tid.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>payment plan</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>payment schedule</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Zahlungsplan</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>échéancier</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="betong">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>betong</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">blandning av cement, ballast, vatten och eventuella tillsatsmedel, vare sig denna blandning hårdnat eller inte</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>concrete</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Beton</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>béton</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="cement">cement</ref>
+      </termEntry>
+      <termEntry id="betongpaale">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>betongpåle</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Betongpålar är vanligen armerade. De kan ha cirkulärt, kvadratiskt eller månghörnigt tvärsnitt samt vara förtillverkade eller gjutna i mark.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">påle av betong</descrip>
+          </descripGrp>
+          <note>Betongpålar är vanligen armerade. De kan ha cirkulärt, kvadratiskt eller månghörnigt tvärsnitt samt vara förtillverkade eller gjutna i mark.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>concrete pile</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Betonpfahl</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pieu en béton</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="betongsten">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>betongsten</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mursten av betong</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>concrete brick</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Betonstein</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>brique en ciment</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="mursten">mursten</ref>
+      </termEntry>
+      <termEntry id="biarea">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>biarea</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.I nybyggnadslåneförordningen (SFS 1986:692), som upphört att gälla, användes termen sekundär bruksarea i stället för biarea.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>BIA</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bruksarea för biutrymmen</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.I nybyggnadslåneförordningen (SFS 1986:692), som upphört att gälla, användes termen sekundär bruksarea i stället för biarea.</note>
+          <admin type="searchTerm">sekundär bruksarea</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>secondary area in a dwelling</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>subsidiary usable area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Nebennutzfläche pro Wohneinheit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="area">area</ref>
+        <ref type="crossReference" target="biutrymme-1">biutrymme</ref>
+        <ref type="crossReference" target="boarea">boarea</ref>
+      </termEntry>
+      <termEntry id="bidragsunderlag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bidragsunderlag</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se förordningen om statlig bostadsbyggnadssubvention (SFS 1992:986).</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">belopp som utgör underlag för beräkning av författningsreglerad subvention</descrip>
+          </descripGrp>
+          <note>Se förordningen om statlig bostadsbyggnadssubvention (SFS 1992:986).</note>
+        </langSet>
+        <ref type="crossReference" target="raentebidrag">räntebidrag</ref>
+      </termEntry>
+      <termEntry id="bilhiss">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bilhiss</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">varupersonhiss för transport av personbilar</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>vehicle lift</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Autoaufzug</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>monte-voitures</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bilokal">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bilokal</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på bilokaler är foajéer och grupparbetsrum.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">mindre utrymme i samlingslokal som används separat eller tillsammans med huvudlokal</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på bilokaler är foajéer och grupparbetsrum.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>secondary place of assembly</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="biutrymme-2">biutrymme</ref>
+        <ref type="crossReference" target="huvudlokal">huvudlokal</ref>
+        <ref type="crossReference" target="samlingslokal">samlingslokal</ref>
+      </termEntry>
+      <termEntry id="bilplats">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bilplats</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En bilplats som är utmärkt med vägmarkering kallas parkeringsruta.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">uppställningsutrymme för en bil</descrip>
+          </descripGrp>
+          <note>En bilplats som är utmärkt med vägmarkering kallas parkeringsruta.</note>
+          <admin type="searchTerm">parkeringsruta</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>parking space</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>parking place</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Stellplatz</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Parkstand</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>emplacement de stationnement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>place de stationnement</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="parkeringsplats">parkeringsplats</ref>
+      </termEntry>
+      <termEntry id="bindemedel-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bindemedel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Domain: allmänt</note>
+            <note>Example: Exempel: lim, klister, cement, kalk.</note>
+          </ntig>
+          <note>Domain: allmänt</note>
+          <descripGrp>
+            <descrip type="definition">ämne med förmåga att hålla samman fasta kroppar genom vidhäftning</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel: lim, klister, cement, kalk.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>binder</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bindemittel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Klebstoff</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>liant</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bindemedel-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bindemedel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Domain: i färg eller lack</note>
+          </ntig>
+          <note>Domain: i färg eller lack</note>
+          <descripGrp>
+            <descrip type="definition">beståndsdel avsedd att hålla samman skiktet och fästa det vid underlaget</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>binder</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bindemittel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Medium</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>milieu de suspension</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>liant</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="faerg-1">färg</ref>
+        <ref type="crossReference" target="lack">lack</ref>
+      </termEntry>
+      <termEntry id="bindemedel-3">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bindemedel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">3</termNote>
+            <note>Domain: i bruk</note>
+          </ntig>
+          <note>Domain: i bruk</note>
+          <descripGrp>
+            <descrip type="definition">beståndsdel med uppgift att åstadkomma fäste vid underlaget och att hålla samman de övriga beståndsdelarna</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>binding agent</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>binder</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bindemittel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>liant</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bruk">bruk</ref>
+      </termEntry>
+      <termEntry id="bindetid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bindetid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tid det tar för limfog att erhålla tillräcklig hållfasthet för sitt ändamål</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>setting time</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Abbindezeit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>temps de prise</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="biobraensle">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>biobränsle</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>I många sammanhang räknas även torv som biobränsle.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bränsle bestående av material av biologiskt ursprung som inte i någon högre grad omvandlats kemiskt</descrip>
+          </descripGrp>
+          <note>I många sammanhang räknas även torv som biobränsle.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>biofuel</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>biomass fuel</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Biobrennstoff</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Biokraftstoff</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>biocombustible</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>biocarburant</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="biutrymme-1">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>biutrymme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">1</termNote>
+            <note>Example: Exempel på biutrymmen är pannrum i småhus, garage, förråd.</note>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme i anslutning till bostad som huvudsakligen är inrättat för sidofunktioner till boende</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på biutrymmen är pannrum i småhus, garage, förråd.</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>secondary space in a dwelling</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bostadskomplement">bostadskomplement</ref>
+        <ref type="crossReference" target="boutrymme">boutrymme</ref>
+        <ref type="crossReference" target="gemensamhetsutrymme">gemensamhetsutrymme</ref>
+        <ref type="crossReference" target="lokalutrymme">lokalutrymme</ref>
+      </termEntry>
+      <termEntry id="biutrymme-2">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>biutrymme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="homograph">2</termNote>
+            <note>Example: Exempel på biutrymmen är kapprum och toalettrum i anslutning till foajé samt pentry i anslutning till församlingssal.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme i samlingslokal som är inrättat som komplement till huvudlokal eller bilokal</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på biutrymmen är kapprum och toalettrum i anslutning till foajé samt pentry i anslutning till församlingssal.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ancillary space</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bilokal">bilokal</ref>
+        <ref type="crossReference" target="huvudlokal">huvudlokal</ref>
+        <ref type="crossReference" target="samlingslokal">samlingslokal</ref>
+      </termEntry>
+      <termEntry id="bjaelklag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bjälklag</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Bjälklagets bärande del kallas bärlag eller stombjälklag.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">huvudsakligen horisontal, bärande byggnadsdel som åtminstone från endera över- eller undersidan avgränsar olika våningar i en byggnad</descrip>
+          </descripGrp>
+          <note>Bjälklagets bärande del kallas bärlag eller stombjälklag.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>floor structure</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Geschossdecke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>plancher</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>solivage</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="golv">golv</ref>
+      </termEntry>
+      <termEntry id="bjaelklagshoejd">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bjälklagshöjd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>bjälklagstjocklek</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">avstånd från färdig underyta till färdig överyta av ett bjälklag</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>floor thickness</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Dicke der fertigen Decke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>hauteur de solivage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="baerlagshoejd">bärlagshöjd</ref>
+      </termEntry>
+      <termEntry id="blandkornig_jordart">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>blandkornig jordart</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på blandkornig jordart är siltig eller lerig sand.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">jordart vars finjordshalt är mellan 15 och 40 % och vars masshalt block och sten är mindre än 40 %</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på blandkornig jordart är siltig eller lerig sand.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mixed-grained soil</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kies-Sand-Gemisch</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="finjordshalt">finjordshalt</ref>
+      </termEntry>
+      <termEntry id="blandluft">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>blandluft</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">luft som består av minst två luftflöden</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mixed air</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mischluft</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>air mélangé</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="blandningsapparat">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>blandningsapparat</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En blandningsapparat innehåller t.ex. termostatstyrda spjäll, don för konstanthållning av luftflödet, ljuddämpare.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>tvåkanalsapparat</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">enhetsapparat för blandning av varm och kall luft i ett tvåkanalssystem</descrip>
+          </descripGrp>
+          <note>En blandningsapparat innehåller t.ex. termostatstyrda spjäll, don för konstanthållning av luftflödet, ljuddämpare.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mixing box</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mischkasten</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>boîte de mélange</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>caisson de mélange</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="blandningsdel">blandningsdel</ref>
+        <ref type="crossReference" target="enkanalsapparat">enkanalsapparat</ref>
+      </termEntry>
+      <termEntry id="blandningsdel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>blandningsdel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i ventilationsinstallation</note>
+            <note>Blandningsdel kan utgöra del av blandningsapparat eller enhetsaggregat.</note>
+          </ntig>
+          <note>Domain: i ventilationsinstallation</note>
+          <descripGrp>
+            <descrip type="definition">apparatdel för blandning av luftflöden med olika tillstånd</descrip>
+          </descripGrp>
+          <note>Blandningsdel kan utgöra del av blandningsapparat eller enhetsaggregat.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mixing section</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mischteil</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>section de mélange</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="blandningsapparat">blandningsapparat</ref>
+        <ref type="crossReference" target="enhetsaggregat">enhetsaggregat</ref>
+      </termEntry>
+      <termEntry id="bleck">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bleck</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skyddande beslag av plan plåt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flashing</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Blechabdeckung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>bavette</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="plaat-2">plåt</ref>
+      </termEntry>
+      <termEntry id="blixtledare">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>blixtledare</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Blixtledaren är elektriskt och mekaniskt så dimensionerad att den tål direkt blixtinslag och överför blixtströmmen utan att skadas.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>åskledare</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ledare som ingår i en åskskyddsanläggning och som är avsedd att överföra och avleda blixtströmmen</descrip>
+          </descripGrp>
+          <note>Blixtledaren är elektriskt och mekaniskt så dimensionerad att den tål direkt blixtinslag och överför blixtströmmen utan att skadas.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>lightning conductor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Blitzschutzleitung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>paratonnerre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="nedledare">nedledare</ref>
+        <ref type="crossReference" target="takledare">takledare</ref>
+      </termEntry>
+      <termEntry id="blockfraktion">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>blockfraktion</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>De engelska, franska och tyska termerna avser kornstorlek större än 200 mm.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kornfraktion med kornstorlek större än 600 mm</descrip>
+          </descripGrp>
+          <note>De engelska, franska och tyska termerna avser kornstorlek större än 200 mm.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>boulder fraction</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Blöcke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>blocs</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="boardlamell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>boardlamell</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>boardlamellskiva</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">skiva av hårda träfiberskivor, limmade på båda sidor om tät eller lätt lamellkonstruktion av massivträ</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>laminated fibre wallboard</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Tischlerplatte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="boarea">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>boarea</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.I nybyggnadslåneförordningen (SFS 1986:692), som upphört att gälla, användes termen primär bruksarea i stället för boarea.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>BOA</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bruksarea för boutrymmen</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.I nybyggnadslåneförordningen (SFS 1986:692), som upphört att gälla, användes termen primär bruksarea i stället för boarea.</note>
+          <admin type="searchTerm">primär bruksarea</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>residential floor area</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>habitable area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>main usable area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>net floor area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohnnutzfläche</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>surface habitable</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">surface de plancher construit, après déduction de la surface occupée par les murs, cloisons, marches et cages d'escalier...</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="area">area</ref>
+        <ref type="crossReference" target="biarea">biarea</ref>
+        <ref type="crossReference" target="lokalarea">lokalarea</ref>
+      </termEntry>
+      <termEntry id="bockningsradie">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bockningsradie</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">inre krökningsradie vid ett bockat hörn efter återfjädring</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>radius of bend</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Biegeradius</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rayon de pliage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bostad">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostad</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>En bostad består i regel av primära delar, boutrymmen, t.ex. sovrum, kök, vardagsrum, och sekundära delar, biutrymmen, t.ex. förvaringsutrymme, soprum, garage, tvättstuga. Vissa delar av bostaden, i synnerhet sekundära delar, kan utgöras av utrymmen gemensamma för flera hushåll.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hus, lägenhet, rum eller annat utrymme att bo i</descrip>
+          </descripGrp>
+          <note>En bostad består i regel av primära delar, boutrymmen, t.ex. sovrum, kök, vardagsrum, och sekundära delar, biutrymmen, t.ex. förvaringsutrymme, soprum, garage, tvättstuga. Vissa delar av bostaden, i synnerhet sekundära delar, kan utgöras av utrymmen gemensamma för flera hushåll.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>dwelling</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>home</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohnung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>logement</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">local à usage d'habitation où l'on réside habituellement</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="bostadsenhet">bostadsenhet</ref>
+        <ref type="crossReference" target="bostadshus">bostadshus</ref>
+        <ref type="crossReference" target="bostadslaegenhet">bostadslägenhet</ref>
+        <ref type="crossReference" target="bostadsrum">bostadsrum</ref>
+      </termEntry>
+      <termEntry id="bostadsenhet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostadsenhet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se vidare SS 02 10 52 [upphävd].</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">nyttjandeenhet som omfattar boutrymmen och tillhörande biutrymmen</descrip>
+          </descripGrp>
+          <note>Se vidare SS 02 10 52 [upphävd].</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>housing unit</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>dwelling unit</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohneinheit</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>cellule d'habitation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">groupement des différentes pièces et éléments de services qui, par leur organisation et leur volume propre, est susceptible de donner satisfaction aux besoins familiaux...</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="bostad">bostad</ref>
+        <ref type="crossReference" target="boutrymme">boutrymme</ref>
+        <ref type="crossReference" target="biutrymme-1">biutrymme</ref>
+        <ref type="crossReference" target="lokal">lokal</ref>
+        <ref type="crossReference" target="nyttjandeenhet">nyttjandeenhet</ref>
+      </termEntry>
+      <termEntry id="bostadshus">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostadshus</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Bostadshus kan indelas i en-, två- och flerbostadshus.Beträffande gränsdragning mellan småhus och flerbostadshus, se under småhus.I statistiska sammanhang preciseras bostadshus till att omfatta hus i vilket minst halva bruttoarean är avsedd för bostäder.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hus som till övervägande del innehåller bostäder</descrip>
+          </descripGrp>
+          <note>Bostadshus kan indelas i en-, två- och flerbostadshus.Beträffande gränsdragning mellan småhus och flerbostadshus, se under småhus.I statistiska sammanhang preciseras bostadshus till att omfatta hus i vilket minst halva bruttoarean är avsedd för bostäder.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>residential building</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>housing</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohngebäude</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Wohnhaus</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>maison d'habitation</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">construction réservée exclusivement au logement</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="enbostadshus">enbostadshus</ref>
+        <ref type="crossReference" target="flerbostadshus">flerbostadshus</ref>
+        <ref type="crossReference" target="tvaabostadshus">tvåbostadshus</ref>
+      </termEntry>
+      <termEntry id="bostadskomplement">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostadskomplement</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Example: Exempel på bostadskomplement är gemensamma utrymmen för tvättning och utrymmen för förvaring av säsongsutrustning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme utanför bostad för sidofunktioner till boende</descrip>
+          </descripGrp>
+          <descripGrp>
+            <descrip type="example">Exempel på bostadskomplement är gemensamma utrymmen för tvättning och utrymmen för förvaring av säsongsutrustning.</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>supplementary housing facility</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>ancillary service area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Gemeinschaftseinrichtungen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>communs</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">bâtiments annexes, dépendances d'une habitation principale</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="biutrymme-1">biutrymme</ref>
+      </termEntry>
+      <termEntry id="bostadslaaneraenta">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostadslåneränta</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Bostadslåneräntan avser bostadslån utbetalade före den 1 juli 1985. För bostadslån utbetalade efter denna tidpunkt fastställs räntan av SBAB, Statens Bostadsfinansieringsaktiebolag.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">ränta för bostadslån som fastställs av regeringen för varje kalenderår</descrip>
+          </descripGrp>
+          <note>Bostadslåneräntan avser bostadslån utbetalade före den 1 juli 1985. För bostadslån utbetalade efter denna tidpunkt fastställs räntan av SBAB, Statens Bostadsfinansieringsaktiebolag.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>rate of government mortgage interest</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Zinsen für öffentliche Darlehen</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="foerfattningsreglerat_bostadslaan">författningsreglerat bostadslån</ref>
+        <ref type="crossReference" target="garanterad_raenta">garanterad ränta</ref>
+        <ref type="crossReference" target="raentebidrag">räntebidrag</ref>
+      </termEntry>
+      <termEntry id="bostadslaegenhet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostadslägenhet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>dwelling</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>apartment</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>flat</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohnung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>local à usage résidentiel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>appartement</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>logement</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="laegenhet">lägenhet</ref>
+      </termEntry>
+      <termEntry id="bostadsrum">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostadsrum</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Bostadsrum saknar vanligen fast inredning och utrustning för matlagning, personlig hygien m.m.Se vidare BBR 94 och SS 91 42 21.Termen bostadsrum har tidigare använts i betydelsen 'rum som utgör eller ingår i en bostad', dvs. även om rum för matlagning och personlig hygien.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rum i bostad som är avsett att användas för sömn och vila eller daglig samvaro</descrip>
+          </descripGrp>
+          <note>Bostadsrum saknar vanligen fast inredning och utrustning för matlagning, personlig hygien m.m.Se vidare BBR 94 och SS 91 42 21.Termen bostadsrum har tidigare använts i betydelsen 'rum som utgör eller ingår i en bostad', dvs. även om rum för matlagning och personlig hygien.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>habitable room</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohnzimmer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pièce habitable</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">pièce dont le volume et les dispositions répondent à des volumes d'usage et d'hygiène permettant à l'homme d'y vivre d'une façon permanente</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="arbetsrum">arbetsrum</ref>
+        <ref type="crossReference" target="hygienrum">hygienrum</ref>
+        <ref type="crossReference" target="koek">kök</ref>
+        <ref type="crossReference" target="sovrum">sovrum</ref>
+      </termEntry>
+      <termEntry id="bostadsraekning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bostadsräkning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>housing census</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohnungszählung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>recensement de l'habitat</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="folk-_och_bostadsraekning">folk- och bostadsräkning</ref>
+      </termEntry>
+      <termEntry id="bottenbjaelklag">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bottenbjälklag</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">nedersta bjälklag i hus med krypgrund</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>floor above crawl space</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Kriechdecke</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Decke über Kriechkeller</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>solivage sur vide sanitaire</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="kryputrymme-1">kryputrymme</ref>
+        <ref type="crossReference" target="kaellarbjaelklag">källarbjälklag</ref>
+        <ref type="crossReference" target="vindsbjaelklag">vindsbjälklag</ref>
+      </termEntry>
+      <termEntry id="bottenlaan">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bottenlån</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fastighetslån mot säkerhet av panträtt med bästa förmånsrätt</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>first mortgage</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>erste Hypothek</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>hypothèque de premier rang</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="enhetslaan">enhetslån</ref>
+        <ref type="crossReference" target="primaerlaan">primärlån</ref>
+        <ref type="crossReference" target="serielaan">serielån</ref>
+        <ref type="crossReference" target="topplaan">topplån</ref>
+        <ref type="crossReference" target="underliggande_kredit">underliggande kredit</ref>
+      </termEntry>
+      <termEntry id="bottenmoraen">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bottenmorän</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Bottenmorän avsätts vanligen som en hårt packad, osorterad jordart.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">morän bestående av material som avsatts från de undre delarna av en glaciär eller inlandsis</descrip>
+          </descripGrp>
+          <note>Bottenmorän avsätts vanligen som en hårt packad, osorterad jordart.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>lodgement till</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>basal till</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>subglacial till</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Grundmoräne</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>moraines déposées</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>moraine inférieure</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="moraen">morän</ref>
+        <ref type="crossReference" target="pinnmo">pinnmo</ref>
+      </termEntry>
+      <termEntry id="bottenvaaning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bottenvåning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Bottenvåningen utgör oftast entrévåning.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">nedersta våningen som är belägen helt eller till största delen över omgivande markyta</descrip>
+          </descripGrp>
+          <note>Bottenvåningen utgör oftast entrévåning.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ground floor</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>first floor</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Erdgeschoss</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>rez-de-chaussée</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="entreevaaning">entrévåning</ref>
+        <ref type="crossReference" target="kaellarvaaning">källarvåning</ref>
+        <ref type="crossReference" target="sluttningsvaaning">sluttningsvåning</ref>
+        <ref type="crossReference" target="undervaaning">undervåning</ref>
+      </termEntry>
+      <termEntry id="boutrymme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>boutrymme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme ovan mark, inrättat för boende och huvudsakligen avsett för vistelse, hygien, matlagning, viss förvaring, kommunikation m.m.</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>residential space</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>habitable space</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Wohnraum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="biutrymme-1">biutrymme</ref>
+        <ref type="crossReference" target="lokalutrymme">lokalutrymme</ref>
+      </termEntry>
+      <termEntry id="brand">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brand</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">eld med okontrollerat förlopp</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>destructive fire</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>blaze</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>natürlicher Brand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Schadenfeuer</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>incendie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">feu qui se développe sans contrôle dans le temps et dans l'espace</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandavskiljande_byggnadsdel">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandavskiljande byggnadsdel</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Fastställd provningsmetod framgår av NKB produktregler.Dörrar, luckor och fönster i brandavskiljande byggnadsdelar får ofta utföras i lägre klass.Se vidare BBR 94 5:222.Kortformen avskiljande byggnadsdel bör användas endast i texter där det framgår av sammanhanget att byggnadsdelen är avskiljande med avseende på brand.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>avskiljande byggnadsdel</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">byggnadsdel inklusive rörgenomföringar och anslutningar till omgivande byggnadsdelar, som uppfyller kraven på avskiljande i viss brandteknisk klass</descrip>
+          </descripGrp>
+          <note>Fastställd provningsmetod framgår av NKB produktregler.Dörrar, luckor och fönster i brandavskiljande byggnadsdelar får ofta utföras i lägre klass.Se vidare BBR 94 5:222.Kortformen avskiljande byggnadsdel bör användas endast i texter där det framgår av sammanhanget att byggnadsdelen är avskiljande med avseende på brand.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>separating element</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fire barrier</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fire division</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuerschutzabschluss</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>coupe-feu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">élément destiné à assurer simultanément une étanchéité au feu et une isolation thermique donnée, dans des conditions spécifiées</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandbelastning">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandbelastning</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Brandbelastningen, f, anges i MJ/m² och beräknas ur sambandetf = (M₁ q₁ + M₂ q₂ + ...) / Atotdär M₁, M₂ ... är massan i kg för varje enskilt brännbart material i brandcellen, q₁, q₂ ... är effektiva värmevärdet i MJ/kg för varje enskilt brännbart material i brandcellen och Atot är total omslutningsarea i m², varmed avses den inre arean av de väggar, tak och golv som avgränsar brandcellen från omgivningen.I bl.a. England och Frankrike beräknas brandbelastning per golvarea.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">kvot av den sammanlagda värmemängd som frigörs vid fullständig förbränning av allt brännbart material i en brandcell (inklusive byggnadskonstruktioner) och brandcellens totala omslutningsarea</descrip>
+          </descripGrp>
+          <note>Brandbelastningen, f, anges i MJ/m² och beräknas ur sambandetf = (M₁ q₁ + M₂ q₂ + ...) / Atotdär M₁, M₂ ... är massan i kg för varje enskilt brännbart material i brandcellen, q₁, q₂ ... är effektiva värmevärdet i MJ/kg för varje enskilt brännbart material i brandcellen och Atot är total omslutningsarea i m², varmed avses den inre arean av de väggar, tak och golv som avgränsar brandcellen från omgivningen.I bl.a. England och Frankrike beräknas brandbelastning per golvarea.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire load</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandlast</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>charge d'incendie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandvaraktighet">brandvaraktighet</ref>
+        <ref type="crossReference" target="oeppningsfaktor">öppningsfaktor</ref>
+      </termEntry>
+      <termEntry id="brand-brandgasspjaell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brand/brandgasspjäll</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">spjäll i ventilationskanal som är avsett att hindra spridning av både brand och brandgas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire gas shutter</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fire shutter</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandabsperrvorrichtung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandspjaell">brandspjäll</ref>
+        <ref type="crossReference" target="brandgasspjaell">brandgasspjäll</ref>
+        <ref type="crossReference" target="brandventilator">brandventilator</ref>
+      </termEntry>
+      <termEntry id="brandcell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandcell</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Beträffande fönster, dörrar o.d. i omslutande konstruktioner, se BBR 94 5:232.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme i byggnad avskilt på sådant sätt att en brand där kan hindras sprida sig till annat utrymme i byggnaden under viss tid, bestämd med hänsyn till byggnadens ändamål och höjd</descrip>
+          </descripGrp>
+          <note>Beträffande fönster, dörrar o.d. i omslutande konstruktioner, se BBR 94 5:232.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire compartment</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandabschnitt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>compartiment</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">partie d'un bâtiment comprenant un ou plusieurs volumes ou pièces, délimitée par des éléments de construction destinés à l'isoler du reste du bâtiment pour empêcher la propagation du feu pendant une durée déterminée</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandeffekt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandeffekt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Brandeffekt kan även benämnas avgiven värmeeffekt (vid brand).</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">värmemängd per tid som ett ämne avger när det brinner</descrip>
+          </descripGrp>
+          <note>Brandeffekt kan även benämnas avgiven värmeeffekt (vid brand).</note>
+          <admin type="searchTerm">avgiven värmeeffekt</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>rate of heat release</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>puissance calorifique</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>débit calorifique</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">quantité d'énergie calorifique libérée par unité de temps par la combustion d'un matériau dans des conditions spécifiées</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="foerbraenning">förbränning</ref>
+        <ref type="crossReference" target="gloedbrand">glödbrand</ref>
+        <ref type="crossReference" target="brand">brand</ref>
+      </termEntry>
+      <termEntry id="brandfarlig_gas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandfarlig gas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se 6 § förordningen (1988:1145) om brandfarliga och explosiva varor.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gas som vid en temperatur av 21 ℃ kan bilda en antändbar gasblandning med luft</descrip>
+          </descripGrp>
+          <note>Se 6 § förordningen (1988:1145) om brandfarliga och explosiva varor.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flammable gas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>feuergefährliche Gase</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>gaz inflammable</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandfarlig_vara">brandfarlig vara</ref>
+        <ref type="crossReference" target="brandfarlig_vaetska">brandfarlig vätska</ref>
+      </termEntry>
+      <termEntry id="brandfarlig_vara">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandfarlig vara</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se 5 § förordningen (1988:1145) om brandfarliga och explosiva varor.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">brandfarlig gas, brandfarlig vätska eller blandning som innehåller sådan vätska, om sprängämnesinspektionen så anger, samt brandfarlig fast vara, självantändande vara, vara som utvecklar brandfarlig gas vid kontakt med vatten, oxiderande vara och organisk peroxid som sprängämnesinspektionen anger</descrip>
+          </descripGrp>
+          <note>Se 5 § förordningen (1988:1145) om brandfarliga och explosiva varor.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flammables</term>
+            </termGrp>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>substance inflammable</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandfarlig_gas">brandfarlig gas</ref>
+        <ref type="crossReference" target="brandfarlig_vaetska">brandfarlig vätska</ref>
+      </termEntry>
+      <termEntry id="brandfarlig_verksamhet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandfarlig verksamhet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">verksamhet som innebär särskild risk för uppkomst av brand eller där en brand kan påräknas få stor intensitet och omfattning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>feuergefährliche Tätigkeiten</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="lokal_foer_brandfarlig_verksamhet">lokal för brandfarlig verksamhet</ref>
+      </termEntry>
+      <termEntry id="brandfarlig_vaetska">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandfarlig vätska</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se 6 § förordningen (1988:1145) om brandfarliga och explosiva varor.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vätska vars flampunkt är lika med eller lägre än 100 ℃ eller blandning som innehåller sådan vätska, om sprängämnesinspektionen så anger</descrip>
+          </descripGrp>
+          <note>Se 6 § förordningen (1988:1145) om brandfarliga och explosiva varor.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>flammable liquid</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>feuergefährliche Flüssigkeiten</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="grammaticalNumber">plural</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>liquide inflammable</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandfarlig_gas">brandfarlig gas</ref>
+        <ref type="crossReference" target="brandfarlig_vara">brandfarlig vara</ref>
+      </termEntry>
+      <termEntry id="brandfarliga_heta_arbeten">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandfarliga heta arbeten</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Equivalence: Eftersom det saknas en egentlig termmotsvarighet på andra språk anges här i stället en förklaring av begreppet på engelska, franska och tyska.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">heta arbeten där fara för brand kan föreligga på arbetsplatsen eller i dess omgivning</descrip>
+          </descripGrp>
+          <note>Equivalence: Eftersom det saknas en egentlig termmotsvarighet på andra språk anges här i stället en förklaring av begreppet på engelska, franska och tyska.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>work in hot environment presenting a fire hazard</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>feuergefährliche Arbeit in heißer Umgebung</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>travail en ambiance chaude constituant un risque d'incendie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="heta_arbeten">heta arbeten</ref>
+      </termEntry>
+      <termEntry id="brandfarligt_utrymme">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandfarligt utrymme</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se vidare Starkströmsföreskrifterna STEV-FS 1990:1.</note>
+            <note>Equivalence: Eftersom det saknas en egentlig termmotsvarighet på engelska anges här i stället en förklaring av begreppet på engelska.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme där risken för uppkomst av brand är stor</descrip>
+          </descripGrp>
+          <note>Se vidare Starkströmsföreskrifterna STEV-FS 1990:1.</note>
+          <note>Equivalence: Eftersom det saknas en egentlig termmotsvarighet på engelska anges här i stället en förklaring av begreppet på engelska.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>room presenting a fire hazard</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>feuergefährlicher Raum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>pièce présentant un risque d'incendie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="explosionsfarligt_utrymme">explosionsfarligt utrymme</ref>
+        <ref type="crossReference" target="lokal_foer_brandfarlig_verksamhet">lokal för brandfarlig verksamhet</ref>
+      </termEntry>
+      <termEntry id="brandgas">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandgas</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">gasblandning som utvecklas vid brand, bestående av gasformiga förbränningsprodukter och varm luft</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire gas</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandgas</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>gaz dégagé par le feu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>gaz de combustion</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="roekgas">rökgas</ref>
+      </termEntry>
+      <termEntry id="brandgasflaekt">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandgasfläkt</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">fläkt som är avsedd att ventilera bort brandgas</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire gas ejector</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandgasabsauggerät</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Rauchabsauggerät</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ventilateur d'extraction de fumées</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandgasspjaell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandgasspjäll</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Brandgasspjället är vid normal drift helt öppet; vid indikering av brandgas stängs spjället.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">spjäll i ventilationskanal som är avsett att hindra spridning av brandgas</descrip>
+          </descripGrp>
+          <note>Brandgasspjället är vid normal drift helt öppet; vid indikering av brandgas stängs spjället.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire gas damper</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandgasschutzklappe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandspjaell">brandspjäll</ref>
+        <ref type="crossReference" target="brand-brandgasspjaell">brand/brandgasspjäll</ref>
+        <ref type="crossReference" target="brandventilator">brandventilator</ref>
+      </termEntry>
+      <termEntry id="brandhiss">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandhiss</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">hiss som är avsedd att kunna användas för insats vid brandsläckning och utrymning vid brand, och som är utförd på sådant sätt att den vid brand kan manövreras enbart av räddningstjänstpersonal</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>firefighting lift</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuerwehraufzug</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>ascenseur prioritaire sapeurs-pompiers</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandmotstaand">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandmotstånd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">förmåga hos material, byggnadsdel e.d. att under viss tid motstå brand med bibehållen bärande eller avskiljande funktion eller bådadera</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire resistance</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuerwiderstand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>résistance au feu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandteknisk_klass">brandteknisk klass</ref>
+      </termEntry>
+      <termEntry id="brandpost">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandpost</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tappställe för vatten för brandsläckning</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>hydrant</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Hydrant</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>prise d'incendie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>bouche d'incendie</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandsektionerande_doerr">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandsektionerande dörr</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se vidare NKB produktregler 1.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>branddörr</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">dörr med särskilda krav på brandmotstånd</descrip>
+          </descripGrp>
+          <note>Se vidare NKB produktregler 1.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire door</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandschutztür</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>porte coupe-feu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandskyddsfaerg">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandskyddsfärg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">färg avsedd att minska risken för antändning av ett föremål</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire retardant paint</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>feuerhemmende Anstrichfarbe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>peinture ignifuge</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="svaellande_brandskyddsfaerg">svällande brandskyddsfärg</ref>
+      </termEntry>
+      <termEntry id="brandsluss">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandsluss</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se vidare BBR 94 5:231.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utrymme i utrymnings- eller förbindelseväg med särskilt höga krav på skydd mot spridning av brand och brandgas, försett med självstängande dörrar och så stort att det kan passeras utan att mer än en dörr behöver vara öppen samtidigt</descrip>
+          </descripGrp>
+          <note>Se vidare BBR 94 5:231.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>safety lock</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fire lock</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fire-protected lobby</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandschleuse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Sicherheitsschleuse</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>sas d'incendie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="luftsluss">luftsluss</ref>
+      </termEntry>
+      <termEntry id="brandspjaell">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandspjäll</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Brandspjället är vid normal drift helt öppet; vid indikering av temperatur över 70 ℃ stängs spjället.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">spjäll i ventilationskanal som är avsett att hindra spridning av brand</descrip>
+          </descripGrp>
+          <note>Brandspjället är vid normal drift helt öppet; vid indikering av temperatur över 70 ℃ stängs spjället.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire shutter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandschutzklappe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>clapet coupe-feu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandgasspjaell">brandgasspjäll</ref>
+        <ref type="crossReference" target="brand-brandgasspjaell">brand/brandgasspjäll</ref>
+        <ref type="crossReference" target="brandventilator">brandventilator</ref>
+      </termEntry>
+      <termEntry id="brandsyn">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandsyn</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se 16 § Räddningstjänstlagen.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">besiktning för att undersöka om anordning eller förhållande som kan utgöra brandfara finns</descrip>
+          </descripGrp>
+          <note>Se 16 § Räddningstjänstlagen.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire inspection</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>assessment of fire risk</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>amtliche Feuerschutzinspektion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>contrôle de sécurité incendie</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">examen périodique de la prévention et de la protection contre l'incendie</descrip>
+          </descripGrp>
+        </langSet>
+      </termEntry>
+      <termEntry id="brandteknisk_klass">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandteknisk klass</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se BBR 94.Brandteknisk klass skall inte benämnas brandklass.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>brandklass</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">klass för indelning av material, beklädnader, golvbeläggningar, taktäckningar, ytskikt och byggnadsdelar med avseende på brandtekniska egenskaper</descrip>
+          </descripGrp>
+          <note>Se BBR 94.Brandteknisk klass skall inte benämnas brandklass.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire-resistance grade</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Feuerwiderstandsklasse</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Brandklasse</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>classe réglementaire de résistance au feu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandavskiljande_byggnadsdel">brandavskiljande byggnadsdel</ref>
+        <ref type="crossReference" target="beklaednad-2">beklädnad</ref>
+        <ref type="crossReference" target="golvbelaeggning">golvbeläggning</ref>
+        <ref type="crossReference" target="obraennbart_material">obrännbart material</ref>
+        <ref type="crossReference" target="svaarantaendligt_material">svårantändligt material</ref>
+        <ref type="crossReference" target="taktaeckning">taktäckning</ref>
+        <ref type="crossReference" target="ytskikt-2">ytskikt</ref>
+      </termEntry>
+      <termEntry id="brandteknisk_sektionering">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandteknisk sektionering</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Se vidare BBR 94 5:73.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">uppdelning av stora utrymmen i sektioner med brandväggar</descrip>
+          </descripGrp>
+          <note>Se vidare BBR 94 5:73.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>compartmentation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Unterteilung in Brandabschnitte</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>compartimentage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">disposition adoptée dans la construction en vue de localiser tout incendie éventuel dès son début</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="brandavskiljande_byggnadsdel">brandavskiljande byggnadsdel</ref>
+        <ref type="crossReference" target="brandvaegg">brandvägg</ref>
+      </termEntry>
+      <termEntry id="brandvaraktighet">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandvaraktighet</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">varaktighet hos brand med hänsyn till brandbelastning och öppningsfaktor</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire duration</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Branddauer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>durée de la combustion</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandbelastning">brandbelastning</ref>
+        <ref type="crossReference" target="oeppningsfaktor">öppningsfaktor</ref>
+      </termEntry>
+      <termEntry id="brandventilation">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandventilation</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">utsläpp av brandgaser till det fria</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire ventilation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rauchabzug</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Brandgasabzug</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>désenfumage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>extraction des fumées</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandventilator">brandventilator</ref>
+      </termEntry>
+      <termEntry id="brandventilator">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandventilator</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>röklucka</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="normativeAuthorization">admittedTerm</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">lucka för utsläpp av brandgaser till det fria</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>smoke lid</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>fire gas vent</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rauchklappe</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Rauchabzugluke</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>trappe de désenfumage</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>exutoire à fumées</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandventilation">brandventilation</ref>
+      </termEntry>
+      <termEntry id="brandvaegg">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brandvägg</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Termen brandvägg ersätter de tidigare använda termerna brandmur och brandsäker mur.Brandvägg som anordnas gemensam för två byggnader som sammanbyggs i tomtgräns kallas gemensam brandvägg.Se vidare BBR 94 5:74.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>brandmur</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>brandsäker mur</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">deprecatedTerm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">vägg med särskilt utförande som anordnas till skydd mot brandspridning mellan byggnader eller delar av en större byggnad</descrip>
+          </descripGrp>
+          <note>Termen brandvägg ersätter de tidigare använda termerna brandmur och brandsäker mur.Brandvägg som anordnas gemensam för två byggnader som sammanbyggs i tomtgräns kallas gemensam brandvägg.Se vidare BBR 94 5:74.</note>
+          <admin type="searchTerm">gemensam brandvägg</admin>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>fire wall</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>compartment wall</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>separating wall</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brandwand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Brandmauer</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>paroi coupe-feu</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brandavskiljande_byggnadsdel">brandavskiljande byggnadsdel</ref>
+        <ref type="crossReference" target="brandteknisk_sektionering">brandteknisk sektionering</ref>
+      </termEntry>
+      <termEntry id="bredspackling">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bredspackling</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">spackling av en yta i sin helhet</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Ausgleichsspachteln</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="finspackling">finspackling</ref>
+        <ref type="crossReference" target="ispackling">ispackling</ref>
+        <ref type="crossReference" target="spackelmassa">spackelmassa</ref>
+      </termEntry>
+      <termEntry id="brist">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brist</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: i entreprenad</note>
+          </ntig>
+          <note>Domain: i entreprenad</note>
+          <descripGrp>
+            <descrip type="definition">avvikelse som innebär att en del av en entreprenad inte utförts</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>defect</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mangel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>manque</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="see" target="fel">fel</ref>
+      </termEntry>
+      <termEntry id="brottgraenstillstaand">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brottgränstillstånd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Brottgränstillstånd innefattar materialbrott inklusive utmattningsbrott, instabilitet vid knäckning, vippning och buckling o.d., stjälpning, lyftning eller glidning, stora och successivt växande deformationer som medför att konstruktionen blir obrukbar, samt brott vid olyckslast och fortskridande ras.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tillstånd i vilket en konstruktion eller konstruktionsdel är på gränsen till brott</descrip>
+          </descripGrp>
+          <note>Brottgränstillstånd innefattar materialbrott inklusive utmattningsbrott, instabilitet vid knäckning, vippning och buckling o.d., stjälpning, lyftning eller glidning, stora och successivt växande deformationer som medför att konstruktionen blir obrukbar, samt brott vid olyckslast och fortskridande ras.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>ultimate limit state</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Bruchgrenzzustand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>état limite ultime</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bruksgraenstillstaand">bruksgränstillstånd</ref>
+        <ref type="crossReference" target="buckling">buckling</ref>
+        <ref type="crossReference" target="knaeckning">knäckning</ref>
+        <ref type="crossReference" target="vippning">vippning</ref>
+      </termEntry>
+      <termEntry id="brottlinjeteori">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brottlinjeteori</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">teori för beräkning av lasteffekter på plattor, baserad på antagandet att flytleder bildas</descrip>
+          </descripGrp>
+        </langSet>
+        <ref type="crossReference" target="flytled">flytled</ref>
+      </termEntry>
+      <termEntry id="bruk">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bruk</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Bruk indelas efter användningsområde i murbruk och putsbruk.Brukets sammansättning anges i viktdelar eller i volymdelar med bokstavsbeteckning för bindemedel och med tal, av vilka det sista alltid anger sandmängden.K 100/1 050 betecknar ett kalkbruk bestående av 100 kg kalk och 1 050 kg sand. M 100/900 betecknar ett murcementbruk bestående av 100 kg murcement och 900 kg sand. KC 35/65/550 betecknar ett kalkcementbruk bestående av 35 kg kalk, 65 kg cement och 550 kg sand.K 1:5 betecknar ett kalkbruk bestående av 1 volymdel kalk och 5 volymdelar sand. KC 2:1:12 betecknar ett kalkcementbruk bestående av 2 volymdelar kalk, 1 volymdel cement och 12 volymdelar sand.</note>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">blandning av ett eller flera bindemedel, sand eller krossat stenmaterial med kornstorlek i huvudsak under 6 mm, eventuellt tillsatsmedel samt vatten</descrip>
+          </descripGrp>
+          <note>Bruk indelas efter användningsområde i murbruk och putsbruk.Brukets sammansättning anges i viktdelar eller i volymdelar med bokstavsbeteckning för bindemedel och med tal, av vilka det sista alltid anger sandmängden.K 100/1 050 betecknar ett kalkbruk bestående av 100 kg kalk och 1 050 kg sand. M 100/900 betecknar ett murcementbruk bestående av 100 kg murcement och 900 kg sand. KC 35/65/550 betecknar ett kalkcementbruk bestående av 35 kg kalk, 65 kg cement och 550 kg sand.K 1:5 betecknar ett kalkbruk bestående av 1 volymdel kalk och 5 volymdelar sand. KC 2:1:12 betecknar ett kalkcementbruk bestående av 2 volymdelar kalk, 1 volymdel cement och 12 volymdelar sand.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>mortar</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Mörtel</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>mortier</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bindemedel-3">bindemedel</ref>
+        <ref type="crossReference" target="puts">puts</ref>
+      </termEntry>
+      <termEntry id="bruksarea">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bruksarea</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>BRA</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">area av en nyttjandeenhet eller en annan grupp sammanhörande mätvärda utrymmen, begränsad av de omslutande byggnadsdelarnas insida eller annan för mätvärdhet angiven begränsning</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>usable floor area</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>intra-muros area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Nutzfläche</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>surface utile</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="area">area</ref>
+        <ref type="crossReference" target="biarea">biarea</ref>
+        <ref type="crossReference" target="boarea">boarea</ref>
+        <ref type="crossReference" target="nyttjandeenhet">nyttjandeenhet</ref>
+      </termEntry>
+      <termEntry id="bruksgraenstillstaand">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bruksgränstillstånd</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tillstånd i vilket en konstruktion eller konstruktionsdel är på gränsen till att inte längre uppfylla krav som ställs med hänsyn till dess funktion under normala förhållanden</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>serviceability limit state</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Nutzgrenzzustand</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>état limite de service</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="brottgraenstillstaand">brottgränstillstånd</ref>
+      </termEntry>
+      <termEntry id="brukstid">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brukstid</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">tidsperiod under vilken en byggnad, anläggning eller del därav kan användas för sitt ändamål utan andra åtgärder än normalt underhåll och åtgärder för att främja en rationell och ekonomisk drift</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>utilization life span</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>service life</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>useful life span</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Nutzungsdauer</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="bestaendighet">beständighet</ref>
+        <ref type="crossReference" target="ekonomisk_livslaengd">ekonomisk livslängd</ref>
+        <ref type="crossReference" target="teknisk_livslaengd">teknisk livslängd</ref>
+      </termEntry>
+      <termEntry id="bruttoarea">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bruttoarea</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>BTA</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">area av mätvärda delar av ett våningsplan, begränsad av de omslutande byggnadsdelarnas utsida eller annan för mätvärdhet angiven begränsning</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>gross floor area</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>outside gross area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>total floor area</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brutto-Grundfläche pro Grundrissebene</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>surface hors œuvre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="area">area</ref>
+        <ref type="crossReference" target="nettoarea">nettoarea</ref>
+      </termEntry>
+      <termEntry id="bruttovolym">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bruttovolym</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>BTV</term>
+            </termGrp>
+            <termNote type="termType">formula</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">volym av en byggnad eller del därav, begränsad av de omslutande byggnadsdelarnas utsida</descrip>
+          </descripGrp>
+          <note>För fullständiga beskrivningar och mätregler hänvisas till SS 02 10 52 [upphävd] eller vid behov tidigare gällande skrifter.</note>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>gross building volume</term>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>cubic content of building</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>gross cubage</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="geographicalUsage">US</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brutto-Rauminhalt</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>umbauter Raum</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>volume hors œuvre</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+        <ref type="crossReference" target="nettovolym">nettovolym</ref>
+      </termEntry>
+      <termEntry id="brytskiva">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brytskiva</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <note>Domain: för hiss</note>
+          </ntig>
+          <note>Domain: för hiss</note>
+          <descripGrp>
+            <descrip type="definition">icke drivande hjul runt vilket hisslina löper</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pulley</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Umlenkrolle</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term>Seilführungsrolle</term>
+            </termGrp>
+            <termNote type="termType">synonym</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>poulie de renvoi</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="brytskiverum">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>brytskiverum</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">rum för brytskivor till hiss</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>pulley room</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Rollenraum</term>
+            </termGrp>
+            <termNote type="grammaticalGender">masculine</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="braeda">
+        <langSet xml:lang="sv">
+          <ntig>
+            <termGrp>
+              <term>bräda</term>
+            </termGrp>
+            <termNote type="normativeAuthorization">preferredTerm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+          <descripGrp>
+            <descrip type="definition">virke med tjocklek mindre än 45 mm och bredd minst 70 mm</descrip>
+          </descripGrp>
+        </langSet>
+        <langSet xml:lang="en">
+          <ntig>
+            <termGrp>
+              <term>board</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="de">
+          <ntig>
+            <termGrp>
+              <term>Brett</term>
+            </termGrp>
+            <termNote type="grammaticalGender">neuter</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <ntig>
+            <termGrp>
+              <term>planche</term>
+            </termGrp>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <note>&lt;+&lt; 55 mm × 4 ggr tjockleken.</note>
+          </ntig>
+          <note>&lt;+&lt; 55 mm × 4 ggr tjockleken.</note>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martifHeader>
